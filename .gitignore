@@ -1,0 +1,7 @@
+*.mp4
+*.mkv
+*.mov
+*.blend
+*.blend1
+*.aep
+__pycache__/
