@@ -1,0 +1,27 @@
+# 画像ギャラリー全体
+
+**Bardiya Alizadeh（Kabir）· Farland_game**
+
+[English](https://github.com/FarlandGame/Animation-Portfolio/blob/main/README.md) · [日本語](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.ja.md) · [فارسی](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.fa.md) · [Deutsch](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.de.md) · [Français](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.fr.md) · [Español](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.es.md) · [Português (Brasil)](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.pt-BR.md) · [Italiano](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.it.md) · [Nederlands](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.nl.md) · [Polski](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.pl.md) · [Українська](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.uk.md) · [Türkçe](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.tr.md) · [Русский](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.ru.md) · [简体中文](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.zh-CN.md) · [繁體中文](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.zh-TW.md) · [한국어](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.ko.md) · [हिन्दी](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.hi.md) · [Bahasa Indonesia](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.id.md)
+
+[メインのアニメーションシリーズ](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/ja/main.md) · [Roblox のアニメーションと編集映像](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/ja/roblox.md) · [初期の短い習作](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/ja/early.md) · [画像ギャラリー全体](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ja/index.md)
+
+画像は時系列順ではありません。ID は目録用の識別子です。
+
+[ページ 1](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ja/all-01.md) · [ページ 2](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ja/all-02.md) · [ページ 3](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ja/all-03.md) · [ページ 4](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ja/all-04.md) · [ページ 5](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ja/all-05.md) · [ページ 6](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ja/all-06.md) · [ページ 7](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ja/all-07.md) · [ページ 8](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ja/all-08.md) · [ページ 9](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ja/all-09.md)
+
+| タイトル | # |
+|---|---|
+| [ポスター](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ja/poster-01.md) | 25 |
+| [シーンのプレビュー](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ja/scene-preview-01.md) | 12 |
+| [キャラクター画像](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ja/character-art-01.md) | 42 |
+| [グラフィックデザイン](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ja/graphic-design-01.md) | 10 |
+| [制作画面とゲーム画面](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ja/screenshot-01.md) | 71 |
+| [参考画像・その他](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ja/other-01.md) | 1 |
+
+<a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-156.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-156.jpg" width="300" alt="柔らかく照らされた灰色の背景に、4人のブロック型キャラクターとピンクの文字を配した大きなTHE APEXの集合構図。"></a>
+<a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-058.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-058.jpg" width="300" alt="白く光る顔のパーツがある、黒いFマークのキャラクターの接写。"></a>
+<a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-151.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-151.jpg" width="300" alt="アニメーションタイムラインの上に、黄色を背景にしたキャラクターのショットを表示したBlenderの作業画面。"></a>
+<a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-051.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-051.jpg" width="300" alt="2人のMinecraft風キャラクター、木箱、チェスト、南京錠を配置したESCAPE ROOMのグラフィック。"></a>
+<a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-056.jpeg"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-056.jpg" width="300" alt="ブロック風の森で白いスポーツカーのそばに立つ、黒いFマークのブロック型キャラクター。"></a>
+<a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-149.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-149.jpg" width="300" alt="明るい黄色の背景でポーズを取る、青、黒、王冠姿の赤いMinecraft風キャラクター。"></a>
