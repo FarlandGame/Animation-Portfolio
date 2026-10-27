@@ -8,6 +8,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > Blocky characters, big ideas, and the universal animator side quest: waiting for the render. 🎬🍿
+
+[Meet Kabir: my story, creative beginnings and plans for Japan](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.en.md)
 <!-- PLAYFUL_INTRO_END -->
 
 [Main animation sequence](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/en/main.md) · [Roblox animation & edits](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/en/roblox.md) · [Early short studies](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/en/early.md) · [Complete visual gallery](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/en/index.md)

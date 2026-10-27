@@ -8,6 +8,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > Personagens em blocos, grandes ideias e a missão secundária de todo animador: esperar o render. 🎬🍿
+
+[Conheça Kabir: minha história, meus primeiros passos criativos e meus planos para o Japão](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.pt-BR.md)
 <!-- PLAYFUL_INTRO_END -->
 
 [Sequência principal de animações](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/pt-BR/main.md) · [Animações e edições de Roblox](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/pt-BR/roblox.md) · [Primeiros estudos curtos](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/pt-BR/early.md) · [Galeria visual completa](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/pt-BR/index.md)

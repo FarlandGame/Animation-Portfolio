@@ -8,6 +8,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > ब्लॉक वाले किरदार, बड़े-बड़े आइडिया और हर ऐनिमेटर का साझा साइड क्वेस्ट: रेंडर पूरा होने का इंतज़ार। 🎬🍿
+
+[मिलिए Kabir से: मेरी कहानी, रचनात्मक शुरुआत और जापान की योजनाएँ](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.hi.md)
 <!-- PLAYFUL_INTRO_END -->
 
 [मुख्य एनीमेशन शृंखला](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/hi/main.md) · [Roblox एनीमेशन और संपादित क्लिप](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/hi/roblox.md) · [शुरुआती छोटे अभ्यास](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/hi/early.md) · [पूरी दृश्य गैलरी](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/hi/index.md)

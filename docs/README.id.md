@@ -8,6 +8,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > Karakter kotak-kotak, ide besar, dan misi sampingan semua animator: menunggu render selesai. 🎬🍿
+
+[Kenalan dengan Kabir: kisahku, awal perjalanan kreatif, dan rencana ke Jepang](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.id.md)
 <!-- PLAYFUL_INTRO_END -->
 
 [Urutan animasi utama](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/id/main.md) · [Animasi & edit Roblox](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/id/roblox.md) · [Studi singkat awal](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/id/early.md) · [Galeri visual lengkap](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/id/index.md)

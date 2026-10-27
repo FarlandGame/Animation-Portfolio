@@ -8,6 +8,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > ブロック風のキャラクター、大きなアイデア。そしてアニメーター共通のサブクエスト――レンダリング待ち。🎬🍿
+
+[Kabir の歩み：創作の始まりと日本でかなえたいこと](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.ja.md)
 <!-- PLAYFUL_INTRO_END -->
 
 [メインのアニメーションシリーズ](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/ja/main.md) · [Roblox のアニメーションと編集映像](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/ja/roblox.md) · [初期の短い習作](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/ja/early.md) · [画像ギャラリー全体](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ja/index.md)

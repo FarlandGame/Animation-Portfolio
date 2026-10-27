@@ -8,6 +8,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > Kanciaste postacie, wielkie pomysły i zadanie poboczne każdego animatora: czekanie na render. 🎬🍿
+
+[Poznaj Kabira: moja historia, twórcze początki i plany związane z Japonią](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.pl.md)
 <!-- PLAYFUL_INTRO_END -->
 
 [Główna seria animacji](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/pl/main.md) · [Animacje i montaże Roblox](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/pl/roblox.md) · [Wczesne krótkie studia](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/pl/early.md) · [Pełna galeria wizualna](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/pl/index.md)

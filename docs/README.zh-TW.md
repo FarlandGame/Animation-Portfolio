@@ -8,6 +8,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > 方塊角色、大大的創意，還有所有動畫師共同的支線任務：等算圖。🎬🍿
+
+[認識 Kabir：我的故事、創作起點與日本計畫](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.zh-TW.md)
 <!-- PLAYFUL_INTRO_END -->
 
 [主動畫系列](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/zh-TW/main.md) · [Roblox 動畫與剪輯](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/zh-TW/roblox.md) · [早期短習作](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/zh-TW/early.md) · [完整視覺畫廊](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/zh-TW/index.md)

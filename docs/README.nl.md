@@ -8,6 +8,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > Blokkerige personages, grote ideeën en de vaste zijmissie van elke animator: wachten op de render. 🎬🍿
+
+[Maak kennis met Kabir: mijn verhaal, creatieve begin en plannen voor Japan](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.nl.md)
 <!-- PLAYFUL_INTRO_END -->
 
 [Hoofdreeks animaties](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/nl/main.md) · [Roblox-animatie en montages](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/nl/roblox.md) · [Vroege korte studies](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/nl/early.md) · [Volledige beeldgalerie](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/nl/index.md)

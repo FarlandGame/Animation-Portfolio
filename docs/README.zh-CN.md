@@ -8,6 +8,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > 方块角色、大大的创意，还有所有动画师共同的支线任务：等渲染。🎬🍿
+
+[认识 Kabir：我的故事、创作起点与日本计划](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.zh-CN.md)
 <!-- PLAYFUL_INTRO_END -->
 
 [主动画系列](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/zh-CN/main.md) · [Roblox 动画与剪辑](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/zh-CN/roblox.md) · [早期短习作](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/zh-CN/early.md) · [完整视觉画廊](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/zh-CN/index.md)

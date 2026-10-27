@@ -8,6 +8,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > 네모난 캐릭터, 커다란 아이디어, 그리고 모든 애니메이터의 공통 사이드 퀘스트: 렌더링 기다리기. 🎬🍿
+
+[Kabir를 소개합니다: 나의 이야기, 창작의 시작과 일본에서의 계획](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.ko.md)
 <!-- PLAYFUL_INTRO_END -->
 
 [주 애니메이션 시리즈](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/ko/main.md) · [Roblox 애니메이션 및 편집 영상](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/ko/roblox.md) · [초기 짧은 연습 영상](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/ko/early.md) · [전체 비주얼 갤러리](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ko/index.md)

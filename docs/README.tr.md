@@ -8,6 +8,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > Küp küp karakterler, büyük fikirler ve her animatörün ortak yan görevi: render beklemek. 🎬🍿
+
+[Kabir ile tanışın: hikâyem, yaratıcı başlangıcım ve Japonya planlarım](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.tr.md)
 <!-- PLAYFUL_INTRO_END -->
 
 [Ana animasyon serisi](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/tr/main.md) · [Roblox animasyonları ve kurguları](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/tr/roblox.md) · [Erken dönem kısa çalışmalar](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/tr/early.md) · [Tüm görsel galeri](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/tr/index.md)

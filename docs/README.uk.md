@@ -8,6 +8,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > Кубічні персонажі, великі ідеї та спільний побічний квест усіх аніматорів: чекати на рендер. 🎬🍿
+
+[Знайомтеся з Кабіром: моя історія, творчі початки та плани щодо Японії](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.uk.md)
 <!-- PLAYFUL_INTRO_END -->
 
 [Головна анімаційна серія](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/uk/main.md) · [Анімація й монтажі Roblox](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/uk/roblox.md) · [Ранні короткі етюди](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/uk/early.md) · [Повна візуальна галерея](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/uk/index.md)

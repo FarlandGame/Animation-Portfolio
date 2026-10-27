@@ -8,6 +8,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > Kantige Figuren, große Ideen und die gemeinsame Nebenquest aller Animatoren: aufs Rendern warten. 🎬🍿
+
+[Lerne Kabir kennen: meine Geschichte, kreativen Anfänge und Pläne für Japan](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.de.md)
 <!-- PLAYFUL_INTRO_END -->
 
 [Hauptreihe der Animationen](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/de/main.md) · [Roblox-Animationen und -Edits](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/de/roblox.md) · [Frühe Kurzstudien](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/de/early.md) · [Vollständige Bildergalerie](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/de/index.md)

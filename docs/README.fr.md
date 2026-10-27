@@ -8,6 +8,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > Des personnages cubiques, de grandes idées et la quête secondaire de tous les animateurs : attendre le rendu. 🎬🍿
+
+[Rencontrer Kabir : mon histoire, mes débuts créatifs et mes projets pour le Japon](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.fr.md)
 <!-- PLAYFUL_INTRO_END -->
 
 [Série principale d'animations](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/fr/main.md) · [Animations et montages Roblox](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/fr/roblox.md) · [Premières études courtes](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/fr/early.md) · [Galerie visuelle complète](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/fr/index.md)

@@ -8,6 +8,8 @@
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
 
 > شخصیت‌های مکعبی، ایده‌های بزرگ و مأموریت فرعی مشترک همهٔ انیماتورها: منتظر ماندن برای رندر! 🎬🍿
+
+[آشنایی با کبیر: داستان من، شروع کار و برنامه‌هایم برای ژاپن](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.fa.md)
 <!-- PLAYFUL_INTRO_END -->
 
 [مجموعهٔ اصلی انیمیشن‌ها](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/fa/main.md) · [انیمیشن و ادیت روبلاکس](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/fa/roblox.md) · [تمرین‌های کوتاه اولیه](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/fa/early.md) · [گالری کامل تصویرها](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/fa/index.md)
