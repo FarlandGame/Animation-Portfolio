@@ -4,6 +4,12 @@
 
 [English](https://github.com/FarlandGame/Animation-Portfolio/blob/main/README.md) · [日本語](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.ja.md) · [فارسی](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.fa.md) · [Deutsch](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.de.md) · [Français](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.fr.md) · [Español](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.es.md) · [Português (Brasil)](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.pt-BR.md) · [Italiano](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.it.md) · [Nederlands](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.nl.md) · [Polski](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.pl.md) · [Українська](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.uk.md) · [Türkçe](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.tr.md) · [Русский](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.ru.md) · [简体中文](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.zh-CN.md) · [繁體中文](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.zh-TW.md) · [한국어](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.ko.md) · [हिन्दी](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.hi.md) · [Bahasa Indonesia](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.id.md)
 
+<!-- PLAYFUL_INTRO_START -->
+<p><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
+
+> 方塊角色、大大的創意，還有所有動畫師共同的支線任務：等算圖。🎬🍿
+<!-- PLAYFUL_INTRO_END -->
+
 [主動畫系列](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/zh-TW/main.md) · [Roblox 動畫與剪輯](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/zh-TW/roblox.md) · [早期短習作](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/zh-TW/early.md) · [完整視覺畫廊](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/zh-TW/index.md)
 
 這是一份持續擴充的創作檔案，收錄 3D 動畫、Roblox 動畫與剪輯、早期動作習作、海報、角色圖像和專案截圖。你可以沿著編號影片，從較早的實驗看到較新的作品，也能透過視覺開發資料和製作中的內容，了解成片畫面背後的過程。

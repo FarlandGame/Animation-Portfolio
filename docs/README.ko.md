@@ -4,6 +4,12 @@
 
 [English](https://github.com/FarlandGame/Animation-Portfolio/blob/main/README.md) · [日本語](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.ja.md) · [فارسی](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.fa.md) · [Deutsch](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.de.md) · [Français](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.fr.md) · [Español](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.es.md) · [Português (Brasil)](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.pt-BR.md) · [Italiano](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.it.md) · [Nederlands](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.nl.md) · [Polski](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.pl.md) · [Українська](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.uk.md) · [Türkçe](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.tr.md) · [Русский](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.ru.md) · [简体中文](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.zh-CN.md) · [繁體中文](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.zh-TW.md) · [한국어](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.ko.md) · [हिन्दी](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.hi.md) · [Bahasa Indonesia](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.id.md)
 
+<!-- PLAYFUL_INTRO_START -->
+<p><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/portfolio-sticker.svg" width="88" height="88" alt=""></p>
+
+> 네모난 캐릭터, 커다란 아이디어, 그리고 모든 애니메이터의 공통 사이드 퀘스트: 렌더링 기다리기. 🎬🍿
+<!-- PLAYFUL_INTRO_END -->
+
 [주 애니메이션 시리즈](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/ko/main.md) · [Roblox 애니메이션 및 편집 영상](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/ko/roblox.md) · [초기 짧은 연습 영상](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/ko/early.md) · [전체 비주얼 갤러리](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ko/index.md)
 
 3D 애니메이션, Roblox 애니메이션과 편집 영상, 초기 움직임 연습, 포스터, 캐릭터 이미지와 프로젝트 스크린샷을 담으며 계속 늘어나는 창작 아카이브입니다. 번호가 붙은 영상을 통해 오래된 실험에서 최근 작업으로 이어지는 흐름을 살펴보고, 비주얼 개발 자료와 작업 중인 내용을 통해 완성된 화면 뒤의 과정도 볼 수 있습니다.
