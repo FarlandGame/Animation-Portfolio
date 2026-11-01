@@ -14,10 +14,12 @@ Les images n'ont pas d'ordre chronologique. Leurs identifiants sont des référe
 |---|---|
 | [Affiches](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/fr/poster-01.md) | 25 |
 | [Aperçus de scènes](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/fr/scene-preview-01.md) | 12 |
-| [Images de personnages](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/fr/character-art-01.md) | 42 |
+| [Images de personnages](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/fr/character-art-01.md) | 43 |
 | [Créations graphiques](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/fr/graphic-design-01.md) | 10 |
 | [Captures d'éditeurs et de jeux](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/fr/screenshot-01.md) | 71 |
 | [Références et divers](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/fr/other-01.md) | 1 |
+
+<a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/fr/all-09.md#image-162"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-162.jpg" width="240" alt="Caricature de son personnage conçue par Bardiya Alizadeh (Kabir), alias Farland_game : tête cubique noire, sweat à capuche noir aux emblèmes blancs F et G, gants blancs et chaussures noires. 😎🎨"></a>
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-156.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-156.jpg" width="300" alt="Large THE APEX group composition with four block characters, pink lettering and a softly lit grey background."></a>
 <a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-058.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-058.jpg" width="300" alt="Close portrait of a black F-emblem character with glowing white facial features."></a>

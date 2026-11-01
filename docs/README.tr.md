@@ -26,7 +26,7 @@
 
 ## Bu koleksiyonda neler var?
 
-Üç koleksiyona yayılmış **22 video** ve **161 görsel**. Ana seri sekiz numaralı animasyon içerir; ayrı Roblox koleksiyonunda on bir animasyon/kurgu klibi bulunur; üç çok erken dönem kısa çalışma video arşivini tamamlar. Görsel galeri posterleri, sahne önizlemelerini, karakter görsellerini, grafik tasarımları ve editör/oyun ekran görüntülerini küçük bir referans ve çeşitli malzemeler bölümüyle bir araya getirir.
+Üç koleksiyona yayılmış **22 video** ve **162 görsel**. Ana seri sekiz numaralı animasyon içerir; ayrı Roblox koleksiyonunda on bir animasyon/kurgu klibi bulunur; üç çok erken dönem kısa çalışma video arşivini tamamlar. Görsel galeri posterleri, sahne önizlemelerini, karakter görsellerini, grafik tasarımları ve editör/oyun ekran görüntülerini küçük bir referans ve çeşitli malzemeler bölümüyle bir araya getirir.
 
 ## Tamamlanmış kareler ve yapım aşamasındaki çalışmalar
 

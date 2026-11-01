@@ -26,6 +26,20 @@ Drawn black round-headed character with a small smile and white F against magent
 
 Aangeleverde bestandsnaam: `Untitled.png`
 
+
+<a id="image-162"></a>
+
+## image-162 · Karakterbeelden
+
+Karikatuur van zijn eigen personage, ontworpen door Bardiya Alizadeh (Kabir), bekend als Farland_game: een zwart kubushoofd, zwarte hoodie met witte F- en G-emblemen, witte handschoenen en zwarte schoenen. 😎🎨
+
+<a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-162.jpeg"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-162.jpg" width="400" alt="Karikatuur van zijn eigen personage, ontworpen door Bardiya Alizadeh (Kabir), bekend als Farland_game: een zwart kubushoofd, zwarte hoodie met witte F- en G-emblemen, witte handschoenen en zwarte schoenen. 😎🎨"></a>
+
+[Origineel in volledige resolutie](https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-162.jpeg) · 1000×1500
+
+Aangeleverde bestandsnaam: `My karakter in not human.jpeg`
+
+
 [Pagina 1](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/nl/character-art-01.md) · [Pagina 2](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/nl/character-art-02.md) · [Pagina 3](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/nl/character-art-03.md)
 
 [Volledige beeldgalerie](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/nl/index.md)

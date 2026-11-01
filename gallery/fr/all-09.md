@@ -16,6 +16,20 @@ Minecraft gameplay screenshot showing a black character near a pink pig in a gra
 
 Nom du fichier fourni: `{DDBC5773-60C1-4783-A4FC-B210026B9B93}.png`
 
+
+<a id="image-162"></a>
+
+## image-162 · Images de personnages
+
+Caricature de son personnage conçue par Bardiya Alizadeh (Kabir), alias Farland_game : tête cubique noire, sweat à capuche noir aux emblèmes blancs F et G, gants blancs et chaussures noires. 😎🎨
+
+<a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-162.jpeg"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-162.jpg" width="400" alt="Caricature de son personnage conçue par Bardiya Alizadeh (Kabir), alias Farland_game : tête cubique noire, sweat à capuche noir aux emblèmes blancs F et G, gants blancs et chaussures noires. 😎🎨"></a>
+
+[Original en pleine résolution](https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-162.jpeg) · 1000×1500
+
+Nom du fichier fourni: `My karakter in not human.jpeg`
+
+
 [Page 1](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/fr/all-01.md) · [Page 2](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/fr/all-02.md) · [Page 3](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/fr/all-03.md) · [Page 4](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/fr/all-04.md) · [Page 5](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/fr/all-05.md) · [Page 6](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/fr/all-06.md) · [Page 7](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/fr/all-07.md) · [Page 8](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/fr/all-08.md) · [Page 9](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/fr/all-09.md)
 
 [Galerie visuelle complète](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/fr/index.md)

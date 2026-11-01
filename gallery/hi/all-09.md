@@ -16,6 +16,20 @@ Minecraft gameplay screenshot showing a black character near a pink pig in a gra
 
 उपलब्ध कराया गया फ़ाइलनाम: `{DDBC5773-60C1-4783-A4FC-B210026B9B93}.png`
 
+
+<a id="image-162"></a>
+
+## image-162 · पात्रों की छवियाँ
+
+Bardiya Alizadeh (Kabir), जिन्हें Farland_game के नाम से जाना जाता है, द्वारा डिज़ाइन किया गया अपने किरदार का कैरिकेचर: काला घनाकार सिर, सफेद F और G चिह्नों वाली काली हुडी, सफेद दस्ताने और काले जूते। 😎🎨
+
+<a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-162.jpeg"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-162.jpg" width="400" alt="Bardiya Alizadeh (Kabir), जिन्हें Farland_game के नाम से जाना जाता है, द्वारा डिज़ाइन किया गया अपने किरदार का कैरिकेचर: काला घनाकार सिर, सफेद F और G चिह्नों वाली काली हुडी, सफेद दस्ताने और काले जूते। 😎🎨"></a>
+
+[पूर्ण रिज़ॉल्यूशन वाला मूल](https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-162.jpeg) · 1000×1500
+
+उपलब्ध कराया गया फ़ाइलनाम: `My karakter in not human.jpeg`
+
+
 [पृष्ठ 1](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/hi/all-01.md) · [पृष्ठ 2](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/hi/all-02.md) · [पृष्ठ 3](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/hi/all-03.md) · [पृष्ठ 4](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/hi/all-04.md) · [पृष्ठ 5](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/hi/all-05.md) · [पृष्ठ 6](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/hi/all-06.md) · [पृष्ठ 7](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/hi/all-07.md) · [पृष्ठ 8](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/hi/all-08.md) · [पृष्ठ 9](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/hi/all-09.md)
 
 [पूरी दृश्य गैलरी](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/hi/index.md)

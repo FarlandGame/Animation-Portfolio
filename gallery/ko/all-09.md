@@ -16,6 +16,20 @@ Minecraft gameplay screenshot showing a black character near a pink pig in a gra
 
 제공받은 파일명: `{DDBC5773-60C1-4783-A4FC-B210026B9B93}.png`
 
+
+<a id="image-162"></a>
+
+## image-162 · 캐릭터 이미지
+
+Bardiya Alizadeh(Kabir, 활동명 Farland_game)가 디자인한 자신의 캐릭터 캐리커처입니다. 검은 정육면체 머리, 흰색 F와 G 문양이 있는 검은 후드 집업, 흰 장갑과 검은 신발이 특징입니다. 😎🎨
+
+<a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-162.jpeg"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-162.jpg" width="400" alt="Bardiya Alizadeh(Kabir, 활동명 Farland_game)가 디자인한 자신의 캐릭터 캐리커처입니다. 검은 정육면체 머리, 흰색 F와 G 문양이 있는 검은 후드 집업, 흰 장갑과 검은 신발이 특징입니다. 😎🎨"></a>
+
+[원본 해상도 파일](https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-162.jpeg) · 1000×1500
+
+제공받은 파일명: `My karakter in not human.jpeg`
+
+
 [페이지 1](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ko/all-01.md) · [페이지 2](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ko/all-02.md) · [페이지 3](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ko/all-03.md) · [페이지 4](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ko/all-04.md) · [페이지 5](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ko/all-05.md) · [페이지 6](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ko/all-06.md) · [페이지 7](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ko/all-07.md) · [페이지 8](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ko/all-08.md) · [페이지 9](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ko/all-09.md)
 
 [전체 비주얼 갤러리](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ko/index.md)

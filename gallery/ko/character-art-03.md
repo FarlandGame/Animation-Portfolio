@@ -26,6 +26,20 @@ Drawn black round-headed character with a small smile and white F against magent
 
 제공받은 파일명: `Untitled.png`
 
+
+<a id="image-162"></a>
+
+## image-162 · 캐릭터 이미지
+
+Bardiya Alizadeh(Kabir, 활동명 Farland_game)가 디자인한 자신의 캐릭터 캐리커처입니다. 검은 정육면체 머리, 흰색 F와 G 문양이 있는 검은 후드 집업, 흰 장갑과 검은 신발이 특징입니다. 😎🎨
+
+<a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-162.jpeg"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-162.jpg" width="400" alt="Bardiya Alizadeh(Kabir, 활동명 Farland_game)가 디자인한 자신의 캐릭터 캐리커처입니다. 검은 정육면체 머리, 흰색 F와 G 문양이 있는 검은 후드 집업, 흰 장갑과 검은 신발이 특징입니다. 😎🎨"></a>
+
+[원본 해상도 파일](https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-162.jpeg) · 1000×1500
+
+제공받은 파일명: `My karakter in not human.jpeg`
+
+
 [페이지 1](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ko/character-art-01.md) · [페이지 2](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ko/character-art-02.md) · [페이지 3](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ko/character-art-03.md)
 
 [전체 비주얼 갤러리](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ko/index.md)

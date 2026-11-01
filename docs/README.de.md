@@ -26,7 +26,7 @@ Die früheren Arbeiten bleiben als Teil des Lernprozesses erhalten. Die Videos l
 
 ## Was enthält diese Sammlung?
 
-**22 Videos** in drei Sammlungen und **161 Bilder**. Die Hauptreihe umfasst acht nummerierte Animationen; eine separate Roblox-Sammlung enthält elf Animations- und Edit-Clips; drei sehr frühe Kurzstudien vervollständigen das Videoarchiv. Die Bildergalerie vereint Poster, Szenenvorschauen, Charakterbilder, Grafikdesigns und Screenshots aus Editoren und Spielen sowie einen kleinen Bereich für Referenzen und Sonstiges.
+**22 Videos** in drei Sammlungen und **162 Bilder**. Die Hauptreihe umfasst acht nummerierte Animationen; eine separate Roblox-Sammlung enthält elf Animations- und Edit-Clips; drei sehr frühe Kurzstudien vervollständigen das Videoarchiv. Die Bildergalerie vereint Poster, Szenenvorschauen, Charakterbilder, Grafikdesigns und Screenshots aus Editoren und Spielen sowie einen kleinen Bereich für Referenzen und Sonstiges.
 
 ## Fertige Bilder und laufende Arbeiten
 

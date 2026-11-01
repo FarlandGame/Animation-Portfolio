@@ -26,6 +26,20 @@ Drawn black round-headed character with a small smile and white F against magent
 
 Надана назва файлу: `Untitled.png`
 
+
+<a id="image-162"></a>
+
+## image-162 · Зображення персонажів
+
+Карикатура власного персонажа, створена Bardiya Alizadeh (Kabir), відомим як Farland_game: чорна кубічна голова, чорне худі з білими емблемами F і G, білі рукавички та чорне взуття. 😎🎨
+
+<a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-162.jpeg"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-162.jpg" width="400" alt="Карикатура власного персонажа, створена Bardiya Alizadeh (Kabir), відомим як Farland_game: чорна кубічна голова, чорне худі з білими емблемами F і G, білі рукавички та чорне взуття. 😎🎨"></a>
+
+[Оригінал у повній роздільній здатності](https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-162.jpeg) · 1000×1500
+
+Надана назва файлу: `My karakter in not human.jpeg`
+
+
 [Сторінка 1](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/uk/character-art-01.md) · [Сторінка 2](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/uk/character-art-02.md) · [Сторінка 3](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/uk/character-art-03.md)
 
 [Повна візуальна галерея](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/uk/index.md)

@@ -26,7 +26,7 @@ Karya-karya awal tetap disimpan sebagai bagian dari proses belajar. Telusuri dar
 
 ## Apa yang ada dalam koleksi ini?
 
-**22 video** dalam tiga koleksi dan **161 gambar**. Urutan utama berisi delapan animasi bernomor; koleksi Roblox terpisah berisi sebelas klip animasi/edit; tiga studi singkat dari masa sangat awal melengkapi arsip video. Galeri visual menyatukan poster, pratinjau adegan, gambar karakter, desain grafis, serta tangkapan layar editor dan permainan, dengan bagian kecil untuk referensi dan materi lain-lain.
+**22 video** dalam tiga koleksi dan **162 gambar**. Urutan utama berisi delapan animasi bernomor; koleksi Roblox terpisah berisi sebelas klip animasi/edit; tiga studi singkat dari masa sangat awal melengkapi arsip video. Galeri visual menyatukan poster, pratinjau adegan, gambar karakter, desain grafis, serta tangkapan layar editor dan permainan, dengan bagian kecil untuk referensi dan materi lain-lain.
 
 ## Gambar akhir dan karya yang masih dikerjakan
 

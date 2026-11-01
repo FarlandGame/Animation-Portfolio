@@ -16,6 +16,20 @@ Minecraft gameplay screenshot showing a black character near a pink pig in a gra
 
 Dostarczona nazwa pliku: `{DDBC5773-60C1-4783-A4FC-B210026B9B93}.png`
 
+
+<a id="image-162"></a>
+
+## image-162 · Wizerunki postaci
+
+Karykatura własnej postaci zaprojektowana przez Bardiya Alizadeh (Kabir), znanego jako Farland_game: czarna sześcienna głowa, czarna bluza z białymi znakami F i G, białe rękawiczki i czarne buty. 😎🎨
+
+<a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-162.jpeg"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-162.jpg" width="400" alt="Karykatura własnej postaci zaprojektowana przez Bardiya Alizadeh (Kabir), znanego jako Farland_game: czarna sześcienna głowa, czarna bluza z białymi znakami F i G, białe rękawiczki i czarne buty. 😎🎨"></a>
+
+[Oryginał w pełnej rozdzielczości](https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-162.jpeg) · 1000×1500
+
+Dostarczona nazwa pliku: `My karakter in not human.jpeg`
+
+
 [Strona 1](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/pl/all-01.md) · [Strona 2](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/pl/all-02.md) · [Strona 3](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/pl/all-03.md) · [Strona 4](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/pl/all-04.md) · [Strona 5](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/pl/all-05.md) · [Strona 6](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/pl/all-06.md) · [Strona 7](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/pl/all-07.md) · [Strona 8](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/pl/all-08.md) · [Strona 9](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/pl/all-09.md)
 
 [Pełna galeria wizualna](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/pl/index.md)

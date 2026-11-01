@@ -26,6 +26,20 @@ Drawn black round-headed character with a small smile and white F against magent
 
 Bereitgestellter Dateiname: `Untitled.png`
 
+
+<a id="image-162"></a>
+
+## image-162 · Charakterbilder
+
+Charakterkarikatur von Bardiya Alizadeh (Kabir), bekannt als Farland_game: eine Figur mit schwarzem Würfelkopf, schwarzem Hoodie mit weißen F- und G-Emblemen, weißen Handschuhen und schwarzen Schuhen. 😎🎨
+
+<a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-162.jpeg"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-162.jpg" width="400" alt="Charakterkarikatur von Bardiya Alizadeh (Kabir), bekannt als Farland_game: eine Figur mit schwarzem Würfelkopf, schwarzem Hoodie mit weißen F- und G-Emblemen, weißen Handschuhen und schwarzen Schuhen. 😎🎨"></a>
+
+[Original in voller Auflösung](https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-162.jpeg) · 1000×1500
+
+Bereitgestellter Dateiname: `My karakter in not human.jpeg`
+
+
 [Seite 1](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/de/character-art-01.md) · [Seite 2](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/de/character-art-02.md) · [Seite 3](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/de/character-art-03.md)
 
 [Vollständige Bildergalerie](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/de/index.md)

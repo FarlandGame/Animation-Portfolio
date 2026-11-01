@@ -16,6 +16,20 @@ Minecraft gameplay screenshot showing a black character near a pink pig in a gra
 
 Bereitgestellter Dateiname: `{DDBC5773-60C1-4783-A4FC-B210026B9B93}.png`
 
+
+<a id="image-162"></a>
+
+## image-162 · Charakterbilder
+
+Charakterkarikatur von Bardiya Alizadeh (Kabir), bekannt als Farland_game: eine Figur mit schwarzem Würfelkopf, schwarzem Hoodie mit weißen F- und G-Emblemen, weißen Handschuhen und schwarzen Schuhen. 😎🎨
+
+<a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-162.jpeg"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-162.jpg" width="400" alt="Charakterkarikatur von Bardiya Alizadeh (Kabir), bekannt als Farland_game: eine Figur mit schwarzem Würfelkopf, schwarzem Hoodie mit weißen F- und G-Emblemen, weißen Handschuhen und schwarzen Schuhen. 😎🎨"></a>
+
+[Original in voller Auflösung](https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-162.jpeg) · 1000×1500
+
+Bereitgestellter Dateiname: `My karakter in not human.jpeg`
+
+
 [Seite 1](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/de/all-01.md) · [Seite 2](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/de/all-02.md) · [Seite 3](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/de/all-03.md) · [Seite 4](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/de/all-04.md) · [Seite 5](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/de/all-05.md) · [Seite 6](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/de/all-06.md) · [Seite 7](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/de/all-07.md) · [Seite 8](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/de/all-08.md) · [Seite 9](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/de/all-09.md)
 
 [Vollständige Bildergalerie](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/de/index.md)

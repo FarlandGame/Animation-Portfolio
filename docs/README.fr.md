@@ -26,7 +26,7 @@ Les premières réalisations sont conservées comme étapes de l'apprentissage. 
 
 ## Que contient cette collection ?
 
-**22 vidéos** réparties en trois collections et **161 images**. La série principale comprend huit animations numérotées ; une collection Roblox distincte rassemble onze clips d'animation et de montage ; trois très courtes études anciennes complètent les archives vidéo. La galerie visuelle réunit des affiches, des aperçus de scènes, des images de personnages, des créations graphiques et des captures d'éditeurs et de jeux, ainsi qu'une petite section de références et d'éléments divers.
+**22 vidéos** réparties en trois collections et **162 images**. La série principale comprend huit animations numérotées ; une collection Roblox distincte rassemble onze clips d'animation et de montage ; trois très courtes études anciennes complètent les archives vidéo. La galerie visuelle réunit des affiches, des aperçus de scènes, des images de personnages, des créations graphiques et des captures d'éditeurs et de jeux, ainsi qu'une petite section de références et d'éléments divers.
 
 ## Images finales et travaux en cours
 

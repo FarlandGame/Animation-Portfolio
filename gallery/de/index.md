@@ -14,10 +14,12 @@ Bilder haben keine zeitliche Reihenfolge. IDs sind Katalogverweise.
 |---|---|
 | [Poster](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/de/poster-01.md) | 25 |
 | [Szenenvorschauen](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/de/scene-preview-01.md) | 12 |
-| [Charakterbilder](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/de/character-art-01.md) | 42 |
+| [Charakterbilder](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/de/character-art-01.md) | 43 |
 | [Grafikdesigns](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/de/graphic-design-01.md) | 10 |
 | [Editor- und Spiel-Screenshots](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/de/screenshot-01.md) | 71 |
 | [Referenzen und Sonstiges](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/de/other-01.md) | 1 |
+
+<a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/de/all-09.md#image-162"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-162.jpg" width="240" alt="Charakterkarikatur von Bardiya Alizadeh (Kabir), bekannt als Farland_game: eine Figur mit schwarzem Würfelkopf, schwarzem Hoodie mit weißen F- und G-Emblemen, weißen Handschuhen und schwarzen Schuhen. 😎🎨"></a>
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-156.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-156.jpg" width="300" alt="Large THE APEX group composition with four block characters, pink lettering and a softly lit grey background."></a>
 <a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-058.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-058.jpg" width="300" alt="Close portrait of a black F-emblem character with glowing white facial features."></a>

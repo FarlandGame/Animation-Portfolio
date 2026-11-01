@@ -16,6 +16,20 @@ Minecraft gameplay screenshot showing a black character near a pink pig in a gra
 
 Supplied filename: `{DDBC5773-60C1-4783-A4FC-B210026B9B93}.png`
 
+
+<a id="image-162"></a>
+
+## image-162 · Character imagery
+
+Character caricature designed by Bardiya Alizadeh (Kabir), known as Farland_game: a black cube-headed figure in a black hoodie with white F and G emblems, white gloves and black shoes. 😎🎨
+
+<a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-162.jpeg"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-162.jpg" width="400" alt="Character caricature designed by Bardiya Alizadeh (Kabir), known as Farland_game: a black cube-headed figure in a black hoodie with white F and G emblems, white gloves and black shoes. 😎🎨"></a>
+
+[Full-resolution original](https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-162.jpeg) · 1000×1500
+
+Supplied filename: `My karakter in not human.jpeg`
+
+
 [Page 1](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/en/all-01.md) · [Page 2](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/en/all-02.md) · [Page 3](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/en/all-03.md) · [Page 4](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/en/all-04.md) · [Page 5](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/en/all-05.md) · [Page 6](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/en/all-06.md) · [Page 7](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/en/all-07.md) · [Page 8](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/en/all-08.md) · [Page 9](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/en/all-09.md)
 
 [Complete visual gallery](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/en/index.md)

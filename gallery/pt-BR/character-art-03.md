@@ -26,6 +26,20 @@ Drawn black round-headed character with a small smile and white F against magent
 
 Nome do arquivo fornecido: `Untitled.png`
 
+
+<a id="image-162"></a>
+
+## image-162 · Imagens de personagens
+
+Caricatura do próprio personagem criada por Bardiya Alizadeh (Kabir), conhecido como Farland_game: cabeça cúbica preta, moletom preto com os emblemas brancos F e G, luvas brancas e sapatos pretos. 😎🎨
+
+<a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-162.jpeg"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-162.jpg" width="400" alt="Caricatura do próprio personagem criada por Bardiya Alizadeh (Kabir), conhecido como Farland_game: cabeça cúbica preta, moletom preto com os emblemas brancos F e G, luvas brancas e sapatos pretos. 😎🎨"></a>
+
+[Original em resolução completa](https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-162.jpeg) · 1000×1500
+
+Nome do arquivo fornecido: `My karakter in not human.jpeg`
+
+
 [Página 1](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/pt-BR/character-art-01.md) · [Página 2](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/pt-BR/character-art-02.md) · [Página 3](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/pt-BR/character-art-03.md)
 
 [Galeria visual completa](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/pt-BR/index.md)

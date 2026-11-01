@@ -14,10 +14,12 @@ Images have no chronological order. IDs are catalogue references.
 |---|---|
 | [Posters](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/en/poster-01.md) | 25 |
 | [Scene previews](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/en/scene-preview-01.md) | 12 |
-| [Character imagery](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/en/character-art-01.md) | 42 |
+| [Character imagery](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/en/character-art-01.md) | 43 |
 | [Graphic designs](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/en/graphic-design-01.md) | 10 |
 | [Editor & gameplay screenshots](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/en/screenshot-01.md) | 71 |
 | [References & miscellaneous](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/en/other-01.md) | 1 |
+
+<a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/en/all-09.md#image-162"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-162.jpg" width="240" alt="Character caricature designed by Bardiya Alizadeh (Kabir), known as Farland_game: a black cube-headed figure in a black hoodie with white F and G emblems, white gloves and black shoes. 😎🎨"></a>
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-156.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-156.jpg" width="300" alt="Large THE APEX group composition with four block characters, pink lettering and a softly lit grey background."></a>
 <a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-058.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-058.jpg" width="300" alt="Close portrait of a black F-emblem character with glowing white facial features."></a>

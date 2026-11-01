@@ -2871,6 +2871,22 @@
       "category": "screenshot",
       "filename_indicates_ai": false,
       "is_photographic_reference": false
+    },
+    {
+      "id": "image-162",
+      "source_name": "My karakter in not human.jpeg",
+      "bytes": 51762,
+      "sha256": "8c23f03c1f62dba0ded1d06ee268a21ac4e61a5993bac6edc5504179232aa293",
+      "width": 1000,
+      "height": 1500,
+      "original": "artwork/originals/image-162.jpeg",
+      "preview": "artwork/previews/image-162.jpg",
+      "caption": "Character caricature designed by Bardiya Alizadeh (Kabir), known as Farland_game: a black cube-headed figure in a black hoodie with white F and G emblems, white gloves and black shoes. 😎🎨",
+      "category": "character-art",
+      "filename_indicates_ai": false,
+      "is_photographic_reference": false,
+      "creator_credit": "Bardiya Alizadeh (Kabir) · Farland_game",
+      "credit_basis": "Creator supplied this file and identified it as his own character design."
     }
   ]
 }

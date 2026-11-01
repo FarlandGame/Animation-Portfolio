@@ -16,6 +16,20 @@ Minecraft gameplay screenshot showing a black character near a pink pig in a gra
 
 Надана назва файлу: `{DDBC5773-60C1-4783-A4FC-B210026B9B93}.png`
 
+
+<a id="image-162"></a>
+
+## image-162 · Зображення персонажів
+
+Карикатура власного персонажа, створена Bardiya Alizadeh (Kabir), відомим як Farland_game: чорна кубічна голова, чорне худі з білими емблемами F і G, білі рукавички та чорне взуття. 😎🎨
+
+<a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-162.jpeg"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-162.jpg" width="400" alt="Карикатура власного персонажа, створена Bardiya Alizadeh (Kabir), відомим як Farland_game: чорна кубічна голова, чорне худі з білими емблемами F і G, білі рукавички та чорне взуття. 😎🎨"></a>
+
+[Оригінал у повній роздільній здатності](https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-162.jpeg) · 1000×1500
+
+Надана назва файлу: `My karakter in not human.jpeg`
+
+
 [Сторінка 1](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/uk/all-01.md) · [Сторінка 2](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/uk/all-02.md) · [Сторінка 3](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/uk/all-03.md) · [Сторінка 4](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/uk/all-04.md) · [Сторінка 5](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/uk/all-05.md) · [Сторінка 6](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/uk/all-06.md) · [Сторінка 7](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/uk/all-07.md) · [Сторінка 8](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/uk/all-08.md) · [Сторінка 9](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/uk/all-09.md)
 
 [Повна візуальна галерея](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/uk/index.md)

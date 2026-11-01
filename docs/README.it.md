@@ -26,7 +26,7 @@ I primi lavori vengono conservati come parte del percorso di apprendimento. Espl
 
 ## Che cosa contiene questa raccolta?
 
-**22 video** suddivisi in tre raccolte e **161 immagini**. La sequenza principale contiene otto animazioni numerate; una raccolta Roblox separata comprende undici clip di animazione e montaggio; tre brevissimi studi iniziali completano l'archivio video. La galleria visiva riunisce poster, anteprime di scene, immagini di personaggi, creazioni grafiche e schermate di editor e giochi, insieme a una piccola sezione di riferimenti e materiali vari.
+**22 video** suddivisi in tre raccolte e **162 immagini**. La sequenza principale contiene otto animazioni numerate; una raccolta Roblox separata comprende undici clip di animazione e montaggio; tre brevissimi studi iniziali completano l'archivio video. La galleria visiva riunisce poster, anteprime di scene, immagini di personaggi, creazioni grafiche e schermate di editor e giochi, insieme a una piccola sezione di riferimenti e materiali vari.
 
 ## Fotogrammi finali e lavori in corso
 

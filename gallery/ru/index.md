@@ -14,10 +14,12 @@
 |---|---|
 | [Постеры](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ru/poster-01.md) | 25 |
 | [Предварительные изображения сцен](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ru/scene-preview-01.md) | 12 |
-| [Изображения персонажей](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ru/character-art-01.md) | 42 |
+| [Изображения персонажей](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ru/character-art-01.md) | 43 |
 | [Графические работы](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ru/graphic-design-01.md) | 10 |
 | [Снимки экрана редакторов и игры](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ru/screenshot-01.md) | 71 |
 | [Референсы и прочие материалы](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ru/other-01.md) | 1 |
+
+<a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ru/all-09.md#image-162"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-162.jpg" width="240" alt="Карикатура собственного персонажа, созданная Bardiya Alizadeh (Kabir), известным как Farland_game: чёрная кубическая голова, чёрное худи с белыми эмблемами F и G, белые перчатки и чёрная обувь. 😎🎨"></a>
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-156.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-156.jpg" width="300" alt="Large THE APEX group composition with four block characters, pink lettering and a softly lit grey background."></a>
 <a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-058.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-058.jpg" width="300" alt="Close portrait of a black F-emblem character with glowing white facial features."></a>

@@ -14,10 +14,12 @@
 |---|---|
 | [पोस्टर](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/hi/poster-01.md) | 25 |
 | [दृश्यों की झलकियाँ](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/hi/scene-preview-01.md) | 12 |
-| [पात्रों की छवियाँ](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/hi/character-art-01.md) | 42 |
+| [पात्रों की छवियाँ](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/hi/character-art-01.md) | 43 |
 | [ग्राफ़िक डिज़ाइन](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/hi/graphic-design-01.md) | 10 |
 | [संपादक और गेमप्ले के स्क्रीनशॉट](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/hi/screenshot-01.md) | 71 |
 | [संदर्भ और विविध सामग्री](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/hi/other-01.md) | 1 |
+
+<a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/hi/all-09.md#image-162"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-162.jpg" width="240" alt="Bardiya Alizadeh (Kabir), जिन्हें Farland_game के नाम से जाना जाता है, द्वारा डिज़ाइन किया गया अपने किरदार का कैरिकेचर: काला घनाकार सिर, सफेद F और G चिह्नों वाली काली हुडी, सफेद दस्ताने और काले जूते। 😎🎨"></a>
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-156.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-156.jpg" width="300" alt="Large THE APEX group composition with four block characters, pink lettering and a softly lit grey background."></a>
 <a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-058.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-058.jpg" width="300" alt="Close portrait of a black F-emblem character with glowing white facial features."></a>

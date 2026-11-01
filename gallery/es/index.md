@@ -14,10 +14,12 @@ Las imágenes no tienen orden cronológico. Sus identificadores son referencias 
 |---|---|
 | [Carteles](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/es/poster-01.md) | 25 |
 | [Avances de escenas](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/es/scene-preview-01.md) | 12 |
-| [Imágenes de personajes](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/es/character-art-01.md) | 42 |
+| [Imágenes de personajes](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/es/character-art-01.md) | 43 |
 | [Diseños gráficos](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/es/graphic-design-01.md) | 10 |
 | [Capturas de editores y de juegos](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/es/screenshot-01.md) | 71 |
 | [Referencias y otros materiales](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/es/other-01.md) | 1 |
+
+<a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/es/all-09.md#image-162"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-162.jpg" width="240" alt="Caricatura de su personaje diseñada por Bardiya Alizadeh (Kabir), conocido como Farland_game: cabeza cúbica negra, sudadera negra con los emblemas blancos F y G, guantes blancos y zapatos negros. 😎🎨"></a>
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-156.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-156.jpg" width="300" alt="Large THE APEX group composition with four block characters, pink lettering and a softly lit grey background."></a>
 <a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-058.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-058.jpg" width="300" alt="Close portrait of a black F-emblem character with glowing white facial features."></a>

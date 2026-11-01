@@ -16,6 +16,20 @@ Minecraft gameplay screenshot showing a black character near a pink pig in a gra
 
 Предоставленное имя файла: `{DDBC5773-60C1-4783-A4FC-B210026B9B93}.png`
 
+
+<a id="image-162"></a>
+
+## image-162 · Изображения персонажей
+
+Карикатура собственного персонажа, созданная Bardiya Alizadeh (Kabir), известным как Farland_game: чёрная кубическая голова, чёрное худи с белыми эмблемами F и G, белые перчатки и чёрная обувь. 😎🎨
+
+<a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-162.jpeg"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-162.jpg" width="400" alt="Карикатура собственного персонажа, созданная Bardiya Alizadeh (Kabir), известным как Farland_game: чёрная кубическая голова, чёрное худи с белыми эмблемами F и G, белые перчатки и чёрная обувь. 😎🎨"></a>
+
+[Оригинал в полном разрешении](https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-162.jpeg) · 1000×1500
+
+Предоставленное имя файла: `My karakter in not human.jpeg`
+
+
 [Страница 1](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ru/all-01.md) · [Страница 2](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ru/all-02.md) · [Страница 3](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ru/all-03.md) · [Страница 4](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ru/all-04.md) · [Страница 5](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ru/all-05.md) · [Страница 6](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ru/all-06.md) · [Страница 7](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ru/all-07.md) · [Страница 8](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ru/all-08.md) · [Страница 9](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ru/all-09.md)
 
 [Полная визуальная галерея](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ru/index.md)

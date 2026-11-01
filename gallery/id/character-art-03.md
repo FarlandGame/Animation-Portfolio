@@ -26,6 +26,20 @@ Drawn black round-headed character with a small smile and white F against magent
 
 Nama file yang diberikan: `Untitled.png`
 
+
+<a id="image-162"></a>
+
+## image-162 · Gambar karakter
+
+Karikatur karakternya sendiri yang dirancang oleh Bardiya Alizadeh (Kabir), dikenal sebagai Farland_game: kepala kubus hitam, hoodie hitam dengan lambang F dan G putih, sarung tangan putih, dan sepatu hitam. 😎🎨
+
+<a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-162.jpeg"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-162.jpg" width="400" alt="Karikatur karakternya sendiri yang dirancang oleh Bardiya Alizadeh (Kabir), dikenal sebagai Farland_game: kepala kubus hitam, hoodie hitam dengan lambang F dan G putih, sarung tangan putih, dan sepatu hitam. 😎🎨"></a>
+
+[File asli beresolusi penuh](https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-162.jpeg) · 1000×1500
+
+Nama file yang diberikan: `My karakter in not human.jpeg`
+
+
 [Halaman 1](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/id/character-art-01.md) · [Halaman 2](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/id/character-art-02.md) · [Halaman 3](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/id/character-art-03.md)
 
 [Galeri visual lengkap](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/id/index.md)

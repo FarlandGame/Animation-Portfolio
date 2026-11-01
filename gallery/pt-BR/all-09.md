@@ -16,6 +16,20 @@ Minecraft gameplay screenshot showing a black character near a pink pig in a gra
 
 Nome do arquivo fornecido: `{DDBC5773-60C1-4783-A4FC-B210026B9B93}.png`
 
+
+<a id="image-162"></a>
+
+## image-162 · Imagens de personagens
+
+Caricatura do próprio personagem criada por Bardiya Alizadeh (Kabir), conhecido como Farland_game: cabeça cúbica preta, moletom preto com os emblemas brancos F e G, luvas brancas e sapatos pretos. 😎🎨
+
+<a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-162.jpeg"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-162.jpg" width="400" alt="Caricatura do próprio personagem criada por Bardiya Alizadeh (Kabir), conhecido como Farland_game: cabeça cúbica preta, moletom preto com os emblemas brancos F e G, luvas brancas e sapatos pretos. 😎🎨"></a>
+
+[Original em resolução completa](https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-162.jpeg) · 1000×1500
+
+Nome do arquivo fornecido: `My karakter in not human.jpeg`
+
+
 [Página 1](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/pt-BR/all-01.md) · [Página 2](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/pt-BR/all-02.md) · [Página 3](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/pt-BR/all-03.md) · [Página 4](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/pt-BR/all-04.md) · [Página 5](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/pt-BR/all-05.md) · [Página 6](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/pt-BR/all-06.md) · [Página 7](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/pt-BR/all-07.md) · [Página 8](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/pt-BR/all-08.md) · [Página 9](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/pt-BR/all-09.md)
 
 [Galeria visual completa](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/pt-BR/index.md)

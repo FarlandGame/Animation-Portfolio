@@ -14,10 +14,12 @@
 |---|---|
 | [海報](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/zh-TW/poster-01.md) | 25 |
 | [場景預覽](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/zh-TW/scene-preview-01.md) | 12 |
-| [角色圖像](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/zh-TW/character-art-01.md) | 42 |
+| [角色圖像](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/zh-TW/character-art-01.md) | 43 |
 | [平面設計](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/zh-TW/graphic-design-01.md) | 10 |
 | [編輯器與遊戲截圖](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/zh-TW/screenshot-01.md) | 71 |
 | [參考與雜項](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/zh-TW/other-01.md) | 1 |
+
+<a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/zh-TW/all-09.md#image-162"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-162.jpg" width="240" alt="Bardiya Alizadeh（Kabir，藝名 Farland_game）為自己的角色設計的漫畫形象：黑色方塊頭、帶有白色 F 和 G 標誌的黑色連帽衫、白手套和黑鞋。😎🎨"></a>
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-156.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-156.jpg" width="300" alt="Large THE APEX group composition with four block characters, pink lettering and a softly lit grey background."></a>
 <a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-058.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-058.jpg" width="300" alt="Close portrait of a black F-emblem character with glowing white facial features."></a>

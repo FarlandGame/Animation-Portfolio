@@ -16,6 +16,20 @@ Minecraft gameplay screenshot showing a black character near a pink pig in a gra
 
 Nome del file fornito: `{DDBC5773-60C1-4783-A4FC-B210026B9B93}.png`
 
+
+<a id="image-162"></a>
+
+## image-162 · Immagini di personaggi
+
+Caricatura del proprio personaggio ideata da Bardiya Alizadeh (Kabir), noto come Farland_game: testa cubica nera, felpa nera con gli emblemi bianchi F e G, guanti bianchi e scarpe nere. 😎🎨
+
+<a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-162.jpeg"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-162.jpg" width="400" alt="Caricatura del proprio personaggio ideata da Bardiya Alizadeh (Kabir), noto come Farland_game: testa cubica nera, felpa nera con gli emblemi bianchi F e G, guanti bianchi e scarpe nere. 😎🎨"></a>
+
+[Originale a piena risoluzione](https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-162.jpeg) · 1000×1500
+
+Nome del file fornito: `My karakter in not human.jpeg`
+
+
 [Pagina 1](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/it/all-01.md) · [Pagina 2](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/it/all-02.md) · [Pagina 3](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/it/all-03.md) · [Pagina 4](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/it/all-04.md) · [Pagina 5](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/it/all-05.md) · [Pagina 6](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/it/all-06.md) · [Pagina 7](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/it/all-07.md) · [Pagina 8](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/it/all-08.md) · [Pagina 9](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/it/all-09.md)
 
 [Galleria visiva completa](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/it/index.md)

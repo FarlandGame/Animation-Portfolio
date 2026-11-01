@@ -14,10 +14,12 @@ As imagens não têm ordem cronológica. Os identificadores são referências de
 |---|---|
 | [Pôsteres](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/pt-BR/poster-01.md) | 25 |
 | [Prévias de cenas](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/pt-BR/scene-preview-01.md) | 12 |
-| [Imagens de personagens](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/pt-BR/character-art-01.md) | 42 |
+| [Imagens de personagens](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/pt-BR/character-art-01.md) | 43 |
 | [Criações gráficas](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/pt-BR/graphic-design-01.md) | 10 |
 | [Capturas de editores e de jogos](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/pt-BR/screenshot-01.md) | 71 |
 | [Referências e materiais diversos](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/pt-BR/other-01.md) | 1 |
+
+<a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/pt-BR/all-09.md#image-162"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-162.jpg" width="240" alt="Caricatura do próprio personagem criada por Bardiya Alizadeh (Kabir), conhecido como Farland_game: cabeça cúbica preta, moletom preto com os emblemas brancos F e G, luvas brancas e sapatos pretos. 😎🎨"></a>
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-156.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-156.jpg" width="300" alt="Large THE APEX group composition with four block characters, pink lettering and a softly lit grey background."></a>
 <a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-058.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-058.jpg" width="300" alt="Close portrait of a black F-emblem character with glowing white facial features."></a>

@@ -14,10 +14,12 @@
 |---|---|
 | [پوسترها](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/fa/poster-01.md) | 25 |
 | [پیش‌نمایش صحنه‌ها](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/fa/scene-preview-01.md) | 12 |
-| [تصویر کاراکترها](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/fa/character-art-01.md) | 42 |
+| [تصویر کاراکترها](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/fa/character-art-01.md) | 43 |
 | [طرح‌های گرافیکی](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/fa/graphic-design-01.md) | 10 |
 | [اسکرین‌شات محیط ساخت و بازی](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/fa/screenshot-01.md) | 71 |
 | [تصویر مرجع و موارد متفرقه](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/fa/other-01.md) | 1 |
+
+<a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/fa/all-09.md#image-162"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-162.jpg" width="240" alt="کاریکاتور کاراکتر، طراحی بردیا علیزاده (کبیر)، با نام هنری Farland_game: شخصیتی با سر مکعبی مشکی، هودی مشکی با نشان‌های سفید F و G، دستکش سفید و کفش مشکی. 😎🎨"></a>
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-156.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-156.jpg" width="300" alt="ترکیب‌بندی بزرگ گروه THE APEX با چهار کاراکتر مکعبی، نوشتهٔ صورتی و پس‌زمینهٔ خاکستری با نور نرم."></a>
 <a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-058.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-058.jpg" width="300" alt="پرترهٔ نزدیک کاراکتر مشکی نشان F با اجزای سفید و درخشان صورت."></a>

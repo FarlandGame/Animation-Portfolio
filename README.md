@@ -26,7 +26,7 @@ The earlier pieces are retained as part of the learning process. Browse from sma
 
 ## What is in this collection?
 
-**22 videos** across three collections and **161 images**. The main sequence contains eight numbered animations; a separate Roblox collection contains eleven animation/edit clips; three very early short studies complete the video archive. The visual gallery brings together posters, scene previews, character images, graphic designs and editor/gameplay screenshots, with a small reference/miscellaneous section.
+**22 videos** across three collections and **162 images**. The main sequence contains eight numbered animations; a separate Roblox collection contains eleven animation/edit clips; three very early short studies complete the video archive. The visual gallery brings together posters, scene previews, character images, graphic designs and editor/gameplay screenshots, with a small reference/miscellaneous section.
 
 ## Finished frames and work in progress
 

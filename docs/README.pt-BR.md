@@ -26,7 +26,7 @@ As primeiras peças são preservadas como parte do processo de aprendizagem. Nav
 
 ## O que esta coleção contém?
 
-**22 vídeos** em três coleções e **161 imagens**. A sequência principal reúne oito animações numeradas; uma coleção separada de Roblox contém onze clipes de animação e edição; três estudos curtos muito antigos completam o arquivo de vídeos. A galeria visual reúne pôsteres, prévias de cenas, imagens de personagens, criações gráficas e capturas de editores e de jogos, além de uma pequena seção de referências e materiais diversos.
+**22 vídeos** em três coleções e **162 imagens**. A sequência principal reúne oito animações numeradas; uma coleção separada de Roblox contém onze clipes de animação e edição; três estudos curtos muito antigos completam o arquivo de vídeos. A galeria visual reúne pôsteres, prévias de cenas, imagens de personagens, criações gráficas e capturas de editores e de jogos, além de uma pequena seção de referências e materiais diversos.
 
 ## Quadros finais e trabalhos em andamento
 

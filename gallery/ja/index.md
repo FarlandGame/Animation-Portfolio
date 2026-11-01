@@ -14,10 +14,12 @@
 |---|---|
 | [ポスター](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ja/poster-01.md) | 25 |
 | [シーンのプレビュー](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ja/scene-preview-01.md) | 12 |
-| [キャラクター画像](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ja/character-art-01.md) | 42 |
+| [キャラクター画像](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ja/character-art-01.md) | 43 |
 | [グラフィックデザイン](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ja/graphic-design-01.md) | 10 |
 | [制作画面とゲーム画面](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ja/screenshot-01.md) | 71 |
 | [参考画像・その他](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ja/other-01.md) | 1 |
+
+<a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ja/all-09.md#image-162"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-162.jpg" width="240" alt="Bardiya Alizadeh（Kabir／Farland_game）がデザインした自分のキャラクターのカリカチュア。黒い立方体の頭、白い F と G のマークが付いた黒いパーカー、白い手袋、黒い靴が特徴です。😎🎨"></a>
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-156.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-156.jpg" width="300" alt="柔らかく照らされた灰色の背景に、4人のブロック型キャラクターとピンクの文字を配した大きなTHE APEXの集合構図。"></a>
 <a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-058.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-058.jpg" width="300" alt="白く光る顔のパーツがある、黒いFマークのキャラクターの接写。"></a>

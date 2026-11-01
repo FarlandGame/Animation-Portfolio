@@ -26,7 +26,7 @@ Wcześniejsze prace zachowano jako część procesu nauki. Oglądaj od mniejszyc
 
 ## Co zawiera kolekcja?
 
-**22 materiały wideo** w trzech kolekcjach oraz **161 obrazów**. Główna seria zawiera osiem numerowanych animacji; osobna kolekcja Roblox obejmuje jedenaście klipów animacyjnych i montażowych; archiwum wideo uzupełniają trzy bardzo wczesne krótkie studia. Galeria wizualna gromadzi plakaty, podglądy scen, wizerunki postaci, projekty graficzne oraz zrzuty ekranu z edytorów i rozgrywki, a także niewielką sekcję materiałów referencyjnych i pozostałych.
+**22 materiały wideo** w trzech kolekcjach oraz **162 obrazów**. Główna seria zawiera osiem numerowanych animacji; osobna kolekcja Roblox obejmuje jedenaście klipów animacyjnych i montażowych; archiwum wideo uzupełniają trzy bardzo wczesne krótkie studia. Galeria wizualna gromadzi plakaty, podglądy scen, wizerunki postaci, projekty graficzne oraz zrzuty ekranu z edytorów i rozgrywki, a także niewielką sekcję materiałów referencyjnych i pozostałych.
 
 ## Gotowe ujęcia i prace w toku
 

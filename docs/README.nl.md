@@ -26,7 +26,7 @@ De eerdere werken blijven bewaard als onderdeel van het leerproces. Bekijk de vi
 
 ## Wat bevat deze collectie?
 
-**22 video's** verdeeld over drie collecties en **161 afbeeldingen**. De hoofdreeks bevat acht genummerde animaties; een afzonderlijke Roblox-collectie bevat elf animatie- en montageclips; drie zeer vroege korte studies maken het videoarchief compleet. De beeldgalerie brengt posters, scènevoorbeelden, karakterbeelden, grafische ontwerpen en schermafbeeldingen van editors en gameplay samen, met een kleine rubriek voor referenties en overig materiaal.
+**22 video's** verdeeld over drie collecties en **162 afbeeldingen**. De hoofdreeks bevat acht genummerde animaties; een afzonderlijke Roblox-collectie bevat elf animatie- en montageclips; drie zeer vroege korte studies maken het videoarchief compleet. De beeldgalerie brengt posters, scènevoorbeelden, karakterbeelden, grafische ontwerpen en schermafbeeldingen van editors en gameplay samen, met een kleine rubriek voor referenties en overig materiaal.
 
 ## Uiteindelijke beelden en werk in uitvoering
 

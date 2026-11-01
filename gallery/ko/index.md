@@ -14,10 +14,12 @@
 |---|---|
 | [포스터](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ko/poster-01.md) | 25 |
 | [장면 미리 보기](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ko/scene-preview-01.md) | 12 |
-| [캐릭터 이미지](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ko/character-art-01.md) | 42 |
+| [캐릭터 이미지](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ko/character-art-01.md) | 43 |
 | [그래픽 디자인](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ko/graphic-design-01.md) | 10 |
 | [편집기 및 게임 플레이 스크린샷](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ko/screenshot-01.md) | 71 |
 | [참고 및 기타 자료](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ko/other-01.md) | 1 |
+
+<a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ko/all-09.md#image-162"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-162.jpg" width="240" alt="Bardiya Alizadeh(Kabir, 활동명 Farland_game)가 디자인한 자신의 캐릭터 캐리커처입니다. 검은 정육면체 머리, 흰색 F와 G 문양이 있는 검은 후드 집업, 흰 장갑과 검은 신발이 특징입니다. 😎🎨"></a>
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-156.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-156.jpg" width="300" alt="Large THE APEX group composition with four block characters, pink lettering and a softly lit grey background."></a>
 <a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-058.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-058.jpg" width="300" alt="Close portrait of a black F-emblem character with glowing white facial features."></a>

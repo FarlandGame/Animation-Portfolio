@@ -16,6 +16,20 @@
 
 提供時のファイル名: `{DDBC5773-60C1-4783-A4FC-B210026B9B93}.png`
 
+
+<a id="image-162"></a>
+
+## image-162 · キャラクター画像
+
+Bardiya Alizadeh（Kabir／Farland_game）がデザインした自分のキャラクターのカリカチュア。黒い立方体の頭、白い F と G のマークが付いた黒いパーカー、白い手袋、黒い靴が特徴です。😎🎨
+
+<a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-162.jpeg"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-162.jpg" width="400" alt="Bardiya Alizadeh（Kabir／Farland_game）がデザインした自分のキャラクターのカリカチュア。黒い立方体の頭、白い F と G のマークが付いた黒いパーカー、白い手袋、黒い靴が特徴です。😎🎨"></a>
+
+[フル解像度の元画像](https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-162.jpeg) · 1000×1500
+
+提供時のファイル名: `My karakter in not human.jpeg`
+
+
 [ページ 1](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ja/all-01.md) · [ページ 2](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ja/all-02.md) · [ページ 3](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ja/all-03.md) · [ページ 4](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ja/all-04.md) · [ページ 5](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ja/all-05.md) · [ページ 6](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ja/all-06.md) · [ページ 7](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ja/all-07.md) · [ページ 8](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ja/all-08.md) · [ページ 9](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ja/all-09.md)
 
 [画像ギャラリー全体](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ja/index.md)

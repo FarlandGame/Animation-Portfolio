@@ -26,6 +26,20 @@
 
 نام فایل ارائه‌شده: `Untitled.png`
 
+
+<a id="image-162"></a>
+
+## image-162 · تصویر کاراکترها
+
+کاریکاتور کاراکتر، طراحی بردیا علیزاده (کبیر)، با نام هنری Farland_game: شخصیتی با سر مکعبی مشکی، هودی مشکی با نشان‌های سفید F و G، دستکش سفید و کفش مشکی. 😎🎨
+
+<a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-162.jpeg"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-162.jpg" width="400" alt="کاریکاتور کاراکتر، طراحی بردیا علیزاده (کبیر)، با نام هنری Farland_game: شخصیتی با سر مکعبی مشکی، هودی مشکی با نشان‌های سفید F و G، دستکش سفید و کفش مشکی. 😎🎨"></a>
+
+[فایل اصلی با وضوح کامل](https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-162.jpeg) · 1000×1500
+
+نام فایل ارائه‌شده: `My karakter in not human.jpeg`
+
+
 [صفحه 1](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/fa/character-art-01.md) · [صفحه 2](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/fa/character-art-02.md) · [صفحه 3](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/fa/character-art-03.md)
 
 [گالری کامل تصویرها](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/fa/index.md)
