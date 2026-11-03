@@ -12,21 +12,27 @@
 [Meet Kabir: my story, creative beginnings and plans for Japan](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.en.md)
 <!-- PLAYFUL_INTRO_END -->
 
+<!-- EARLY_PHONE_LINK_START -->
+
+[Early Phone-Era Archive 📱🎬](https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/en/index.md) · [School-location reference gallery](https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/en/school-01.md) · [Watch the 13 short samples](https://github.com/FarlandGame/Animation-Portfolio/issues/2)
+
+<!-- EARLY_PHONE_LINK_END -->
+
 [Main animation sequence](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/en/main.md) · [Roblox animation & edits](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/en/roblox.md) · [Early short studies](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/en/early.md) · [Complete visual gallery](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/en/index.md)
 
-A growing creative archive of 3D animation, Roblox animation and edits, early motion studies, posters, character imagery and project screenshots. This collection lets you follow the numbered films from older experiments to more recent work, and look behind the finished frames through visual development and work-in-progress material.
+A growing creative archive spanning early phone-based 2D work, Minecraft storytelling, later 3D animation, Roblox edits, posters, character artwork and project/location references. Follow development within each collection, with the historical numbering exception explained in the phone-era archive.
 
-Created and curated by **Bardiya Alizadeh**, also known as **Kabir** and **Farland_game**. Animation software reported by the creator: **Blender**. The final two entries of the main numbered sequence, **07 and 08**, also use **After Effects** for editing.
+Created and curated by Bardiya Alizadeh (Kabir / Farland_game). The later 3D collection uses Blender; main entries 07 and 08 also include After Effects editing. The creator identifies phone-era 1–8 with StickNodes; 9 and 11 are Minecraft captures, while the app used for the early mobile 3D scene 10 is not remembered.
 
 <p align="center"><a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/en/main.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/media/stills/main-08.jpg" width="720" alt="THE APEX: Creator Profile Cards"></a></p>
 
 ## Follow the creative journey
 
-The earlier pieces are retained as part of the learning process. Browse from smaller numbers to larger numbers **within each video collection**; numbering is supplied by the creator and does not establish a single timeline across the different folders. The newest entries show the direction of the portfolio today, while the older tests give those developments context. Still images are an unordered gallery: image IDs are catalogue references, not dates or quality rankings.
+The original three numbered video collections retain their own older-to-newer ordering. The additional phone-era collection preserves supplied numbers, with 12 explicitly identified as the earliest surviving piece and 13 grouped as a branding opening. Images are unordered catalogue references. These separate collections do not establish one exact timeline or quality ranking for the entire portfolio.
 
 ## What is in this collection?
 
-**22 videos** across three collections and **162 images**. The main sequence contains eight numbered animations; a separate Roblox collection contains eleven animation/edit clips; three very early short studies complete the video archive. The visual gallery brings together posters, scene previews, character images, graphic designs and editor/gameplay screenshots, with a small reference/miscellaneous section.
+35 video files across four collections and 208 images. The original main sequence has eight videos, Roblox has eleven, and early studies has three; the historical phone-era archive adds thirteen video files and 46 school-location photographs to the earlier 162-image gallery. The historical files include animation, mixed media, in-game capture and a channel opening; not every file is a rendered animated film.
 
 ## Finished frames and work in progress
 
@@ -34,7 +40,7 @@ The earlier pieces are retained as part of the learning process. Browse from sma
 
 ## Browse, preview and download
 
-Open a collection for its numbered films, representative frames, duration, resolution and download links. Lightweight viewing samples are clearly identified as excerpts. **21 videos are unchanged original files**; main sequence **04 is the complete 1080p recompressed copy requested by the creator**, not a byte-identical original. SHA-256 checksums refer to the published downloads, and the catalogue retains source-file provenance. Two early files are MKV and may need a compatible media player. Image thumbnails link to the supplied full-resolution originals.
+Browse numbered films, actual frame previews, running time, resolution and full-download links. Short playable samples are excerpts. Full downloads contain 31 unchanged original video files and four complete-duration recompressed copies: main 04, plus phone-era 8, 11 and 12, at the creator's request. Their original source files remain unchanged locally; source and published-copy hashes are distinguished. No file was shortened to make a full viewing copy. School-photo originals are supplied as one source pack.
 
 ## About the titles and credits
 
@@ -42,7 +48,7 @@ Film titles in this showcase are descriptive portfolio titles added with the cre
 
 ## An archive that can keep growing
 
-Future renders, completed versions and new films can be added while preserving the earlier work. The 2D Stick Nodes collection is not included in this batch; the creator may supply it later. These introductions are available in **18 languages**; this does not mean that dialogue or on-screen text in the videos has been translated or subtitled.
+The early StickNodes-era material is now preserved alongside the later work. Future renders and recovered files can be added without erasing the earlier stages. Lost or unfinished projects without surviving files are described as missing rather than presented as available films. Introductions/navigation are in 18 languages; detailed new film notes are in English, Persian and Japanese, without claiming that every video's audio/text has been translated.
 
 [Main animation sequence](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/en/main.md) · [Roblox animation & edits](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/en/roblox.md) · [Early short studies](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/en/early.md) · [Complete visual gallery](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/en/index.md)
 

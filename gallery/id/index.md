@@ -18,6 +18,7 @@ Gambar tidak memiliki urutan kronologis. ID adalah acuan katalog.
 | [Desain grafis](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/id/graphic-design-01.md) | 10 |
 | [Tangkapan layar editor & permainan](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/id/screenshot-01.md) | 71 |
 | [Referensi & lain-lain](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/id/other-01.md) | 1 |
+| [Galeri referensi lokasi sekolah](https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/id/school-01.md) | 46 |
 
 <a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/id/all-09.md#image-162"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-162.jpg" width="240" alt="Karikatur karakternya sendiri yang dirancang oleh Bardiya Alizadeh (Kabir), dikenal sebagai Farland_game: kepala kubus hitam, hoodie hitam dengan lambang F dan G putih, sarung tangan putih, dan sepatu hitam. 😎🎨"></a>
 
@@ -27,3 +28,6 @@ Gambar tidak memiliki urutan kronologis. ID adalah acuan katalog.
 <a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-051.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-051.jpg" width="300" alt="ESCAPE ROOM graphic with two Minecraft-style characters, crates, a chest and a padlock."></a>
 <a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-056.jpeg"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-056.jpg" width="300" alt="Black F-emblem block character beside a white sports car in a block-style forest."></a>
 <a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-149.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-149.jpg" width="300" alt="Blue, black and crowned red Minecraft-style characters posed against a bright yellow background."></a>
+
+
+[Arsip Awal Berkarya dengan Ponsel 📱🎬](https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/id/index.md)

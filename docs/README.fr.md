@@ -12,21 +12,27 @@
 [Rencontrer Kabir : mon histoire, mes débuts créatifs et mes projets pour le Japon](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.fr.md)
 <!-- PLAYFUL_INTRO_END -->
 
+<!-- EARLY_PHONE_LINK_START -->
+
+[Archives des premières années sur téléphone 📱🎬](https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/fr/index.md) · [Galerie de références des lieux scolaires](https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/fr/school-01.md) · [Voir les 13 courts échantillons](https://github.com/FarlandGame/Animation-Portfolio/issues/2)
+
+<!-- EARLY_PHONE_LINK_END -->
+
 [Série principale d'animations](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/fr/main.md) · [Animations et montages Roblox](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/fr/roblox.md) · [Premières études courtes](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/fr/early.md) · [Galerie visuelle complète](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/fr/index.md)
 
-Des archives créatives qui s'enrichissent d'animations 3D, d'animations et de montages Roblox, de premières études du mouvement, d'affiches, d'images de personnages et de captures de projets. Cette collection permet de parcourir les films numérotés, des expériences anciennes aux travaux plus récents, et de découvrir les coulisses des images finales grâce aux recherches visuelles et aux travaux en cours.
+Des archives créatives qui s'enrichissent : premiers travaux 2D sur téléphone, récits dans Minecraft, animations 3D ultérieures, montages Roblox, affiches, illustrations de personnages et références de projets ou de lieux. Suivez l'évolution au sein de chaque collection ; l'exception historique dans la numérotation est expliquée dans les archives de l'époque téléphone.
 
-Créé et sélectionné par **Bardiya Alizadeh**, également connu sous les noms de **Kabir** et **Farland_game**. Logiciel d'animation indiqué par le créateur : **Blender**. Les deux dernières entrées de la série principale numérotée, **07 et 08**, utilisent également **After Effects** pour le montage.
+Créé et organisé par Bardiya Alizadeh (Kabir / Farland_game). La collection 3D ultérieure utilise Blender ; les entrées 07 et 08 de la série principale comportent aussi du montage avec After Effects. Le créateur rattache les numéros 1 à 8 de l'époque téléphone à StickNodes ; les 9 et 11 sont des captures de Minecraft, tandis qu'il ne se souvient plus de l'application utilisée pour la première scène 3D mobile, le numéro 10.
 
 <p align="center"><a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/fr/main.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/media/stills/main-08.jpg" width="720" alt="THE APEX: Creator Profile Cards"></a></p>
 
 ## Suivre le parcours créatif
 
-Les premières réalisations sont conservées comme étapes de l'apprentissage. Parcourez les vidéos du plus petit au plus grand numéro **au sein de chaque collection vidéo** ; la numérotation est fournie par le créateur et ne définit pas une chronologie unique entre les différents dossiers. Les entrées les plus récentes montrent l'orientation actuelle du portfolio, tandis que les anciens essais permettent de comprendre cette évolution. Les images fixes constituent une galerie sans ordre chronologique : leurs identifiants sont des références de catalogue, ni des dates ni un classement de qualité.
+Les trois collections vidéo numérotées d'origine conservent chacune leur propre ordre, des plus anciennes aux plus récentes. La collection supplémentaire de l'époque téléphone garde les numéros fournis : le 12 est explicitement identifié comme la plus ancienne œuvre conservée, et le 13 figure parmi les génériques d'identité de chaîne. Les images sont des références de catalogue sans ordre établi. Ces collections distinctes ne définissent ni une chronologie précise unique, ni un classement de qualité pour l'ensemble du portfolio.
 
 ## Que contient cette collection ?
 
-**22 vidéos** réparties en trois collections et **162 images**. La série principale comprend huit animations numérotées ; une collection Roblox distincte rassemble onze clips d'animation et de montage ; trois très courtes études anciennes complètent les archives vidéo. La galerie visuelle réunit des affiches, des aperçus de scènes, des images de personnages, des créations graphiques et des captures d'éditeurs et de jeux, ainsi qu'une petite section de références et d'éléments divers.
+35 fichiers vidéo répartis dans quatre collections, et 208 images. La série principale d'origine compte huit vidéos, Roblox en compte onze et les premières études, trois. Les archives historiques de l'époque téléphone ajoutent treize fichiers vidéo et 46 photographies des lieux scolaires à l'ancienne galerie de 162 images. Ces fichiers anciens comprennent de l'animation, des médias combinés, des captures en jeu et un générique de chaîne ; chaque fichier n'est pas nécessairement un film d'animation rendu.
 
 ## Images finales et travaux en cours
 
@@ -34,7 +40,7 @@ Les premières réalisations sont conservées comme étapes de l'apprentissage. 
 
 ## Parcourir, prévisualiser et télécharger
 
-Ouvrez une collection pour retrouver ses films numérotés, des images représentatives, les durées, les résolutions et les liens de téléchargement. Les versions légères de consultation sont clairement désignées comme des extraits. **21 vidéos sont des fichiers originaux inchangés** ; l'entrée **04 de la série principale est la copie intégrale recompressée en 1080p demandée par le créateur**, et non un original identique octet pour octet. Les sommes de contrôle SHA-256 concernent les fichiers publiés au téléchargement ; le catalogue conserve la provenance des fichiers sources. Deux anciens fichiers sont au format MKV et peuvent nécessiter un lecteur multimédia compatible. Les miniatures des images renvoient aux originaux fournis en pleine résolution.
+Parcourez les films numérotés, les aperçus de leurs véritables images, les durées, les résolutions et les liens de téléchargement intégral. Les courts échantillons lisibles sont des extraits. Les téléchargements intégraux comprennent 31 fichiers vidéo originaux inchangés et quatre copies recompressées conservant toute la durée : le 04 de la série principale, ainsi que les 8, 11 et 12 de l'époque téléphone, à la demande du créateur. Leurs fichiers sources originaux restent inchangés en local ; les empreintes de la source et de la copie publiée sont distinguées. Aucun fichier n'a été raccourci pour produire une copie de visionnage intégrale. Les originaux des photos scolaires sont réunis dans un seul pack de sources.
 
 ## À propos des titres et des crédits
 
@@ -42,7 +48,7 @@ Les titres des films de cette présentation sont des titres descriptifs de portf
 
 ## Des archives qui peuvent continuer à grandir
 
-De futurs rendus, des versions achevées et de nouveaux films pourront être ajoutés tout en préservant les anciens travaux. La collection 2D Stick Nodes ne figure pas dans ce lot ; le créateur pourra la fournir ultérieurement. Ces présentations sont disponibles en **18 langues** ; cela ne signifie pas que les dialogues ou les textes à l'écran des vidéos ont été traduits ou sous-titrés.
+Les premières œuvres de l'époque StickNodes sont désormais préservées aux côtés des travaux ultérieurs. De futurs rendus et des fichiers retrouvés pourront être ajoutés sans effacer les premières étapes. Les projets perdus ou inachevés dont aucun fichier ne subsiste sont signalés comme manquants, plutôt que présentés comme des films disponibles. Les introductions et la navigation sont proposées en 18 langues ; les notes détaillées des films nouvellement ajoutés sont en anglais, en persan et en japonais, sans prétendre que l'audio ou les textes de chaque vidéo ont été traduits.
 
 [Série principale d'animations](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/fr/main.md) · [Animations et montages Roblox](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/fr/roblox.md) · [Premières études courtes](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/fr/early.md) · [Galerie visuelle complète](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/fr/index.md)
 

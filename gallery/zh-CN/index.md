@@ -18,6 +18,7 @@
 | [平面设计](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/zh-CN/graphic-design-01.md) | 10 |
 | [编辑器与游戏截图](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/zh-CN/screenshot-01.md) | 71 |
 | [参考与杂项](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/zh-CN/other-01.md) | 1 |
+| [学校场景参考图库](https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/zh-CN/school-01.md) | 46 |
 
 <a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/zh-CN/all-09.md#image-162"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-162.jpg" width="240" alt="Bardiya Alizadeh（Kabir，艺名 Farland_game）为自己的角色设计的漫画形象：黑色方块头、带有白色 F 和 G 标志的黑色连帽衫、白手套和黑鞋。😎🎨"></a>
 
@@ -27,3 +28,6 @@
 <a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-051.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-051.jpg" width="300" alt="ESCAPE ROOM graphic with two Minecraft-style characters, crates, a chest and a padlock."></a>
 <a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-056.jpeg"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-056.jpg" width="300" alt="Black F-emblem block character beside a white sports car in a block-style forest."></a>
 <a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-149.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-149.jpg" width="300" alt="Blue, black and crowned red Minecraft-style characters posed against a bright yellow background."></a>
+
+
+[早期手机创作档案 📱🎬](https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/zh-CN/index.md)

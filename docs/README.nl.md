@@ -12,21 +12,27 @@
 [Maak kennis met Kabir: mijn verhaal, creatieve begin en plannen voor Japan](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.nl.md)
 <!-- PLAYFUL_INTRO_END -->
 
+<!-- EARLY_PHONE_LINK_START -->
+
+[Archief van mijn eerste jaren met een telefoon 📱🎬](https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/nl/index.md) · [Galerij met referenties van schoollocaties](https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/nl/school-01.md) · [De 13 korte voorbeelden bekijken](https://github.com/FarlandGame/Animation-Portfolio/issues/2)
+
+<!-- EARLY_PHONE_LINK_END -->
+
 [Hoofdreeks animaties](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/nl/main.md) · [Roblox-animatie en montages](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/nl/roblox.md) · [Vroege korte studies](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/nl/early.md) · [Volledige beeldgalerie](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/nl/index.md)
 
-Een groeiend creatief archief met 3D-animatie, Roblox-animatie en montages, vroege bewegingsstudies, posters, karakterbeelden en projectschermafbeeldingen. Deze collectie laat je de genummerde films volgen van oudere experimenten tot recenter werk, en biedt via visuele ontwikkeling en werk in uitvoering een kijkje achter de uiteindelijke beelden.
+Een groeiend creatief archief met vroeg 2D-werk op de telefoon, verhalen in Minecraft, latere 3D-animatie, Roblox-montages, posters, personage-illustraties en referenties voor projecten en locaties. Volg de ontwikkeling binnen elke collectie; de historische uitzondering op de nummering wordt uitgelegd in het archief van de telefoonperiode.
 
-Gemaakt en samengesteld door **Bardiya Alizadeh**, ook bekend als **Kabir** en **Farland_game**. Door de maker genoemde animatiesoftware: **Blender**. De laatste twee onderdelen van de hoofdreeks, **07 en 08**, gebruiken ook **After Effects** voor de montage.
+Gemaakt en samengesteld door Bardiya Alizadeh (Kabir / Farland_game). De latere 3D-collectie gebruikt Blender; de hoofditems 07 en 08 bevatten ook montage in After Effects. De maker koppelt de nummers 1–8 uit de telefoonperiode aan StickNodes; 9 en 11 zijn Minecraft-opnamen, terwijl hij niet meer weet welke app is gebruikt voor de vroege mobiele 3D-scène 10.
 
 <p align="center"><a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/nl/main.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/media/stills/main-08.jpg" width="720" alt="THE APEX: Creator Profile Cards"></a></p>
 
 ## Volg de creatieve ontwikkeling
 
-De eerdere werken blijven bewaard als onderdeel van het leerproces. Bekijk de video's van lage naar hoge nummers **binnen elke afzonderlijke videocollectie**; de nummering is door de maker aangeleverd en vormt geen gezamenlijke tijdlijn voor de verschillende mappen. De nieuwste onderdelen laten de huidige richting van het portfolio zien, terwijl de oudere tests die ontwikkeling in perspectief plaatsen. De stilstaande beelden vormen een ongeordende galerie: beeld-ID's zijn catalogusverwijzingen, geen datums of kwaliteitsrangschikking.
+De drie oorspronkelijke collecties met genummerde video's behouden elk hun eigen volgorde van oud naar nieuw. De aanvullende collectie uit de telefoonperiode bewaart de aangeleverde nummers, waarbij 12 uitdrukkelijk is aangeduid als het oudste bewaard gebleven werk en 13 is ingedeeld als intro voor de kanaalidentiteit. Afbeeldingen zijn ongeordende catalogusreferenties. Deze afzonderlijke collecties vormen geen enkele exacte tijdlijn of kwaliteitsrangschikking voor het hele portfolio.
 
 ## Wat bevat deze collectie?
 
-**22 video's** verdeeld over drie collecties en **162 afbeeldingen**. De hoofdreeks bevat acht genummerde animaties; een afzonderlijke Roblox-collectie bevat elf animatie- en montageclips; drie zeer vroege korte studies maken het videoarchief compleet. De beeldgalerie brengt posters, scènevoorbeelden, karakterbeelden, grafische ontwerpen en schermafbeeldingen van editors en gameplay samen, met een kleine rubriek voor referenties en overig materiaal.
+35 videobestanden verdeeld over vier collecties en 208 afbeeldingen. De oorspronkelijke hoofdreeks bevat acht video's, Roblox elf en de vroege studies drie; het historische archief uit de telefoonperiode voegt dertien videobestanden en 46 foto's van schoollocaties toe aan de eerdere galerij met 162 afbeeldingen. De historische bestanden omvatten animatie, gemengde media, opnamen uit games en een kanaalintro; niet elk bestand is een gerenderde animatiefilm.
 
 ## Uiteindelijke beelden en werk in uitvoering
 
@@ -34,7 +40,7 @@ De eerdere werken blijven bewaard als onderdeel van het leerproces. Bekijk de vi
 
 ## Bekijken, voorvertonen en downloaden
 
-Open een collectie voor de genummerde films, representatieve beelden, speelduur, resolutie en downloadlinks. Lichte kijkvoorbeelden worden duidelijk als fragmenten aangeduid. **21 video's zijn ongewijzigde oorspronkelijke bestanden**; nummer **04 van de hoofdreeks is de door de maker gevraagde, opnieuw gecomprimeerde 1080p-kopie met de volledige speelduur**, geen byte-identiek origineel. SHA-256-controlesommen verwijzen naar de gepubliceerde downloads en de catalogus bewaart de herkomstgegevens van de bronbestanden. Twee vroege bestanden zijn MKV en kunnen een geschikte mediaspeler vereisen. Miniaturen van afbeeldingen verwijzen naar de aangeleverde originelen in volledige resolutie.
+Bekijk de genummerde films, voorbeelden van echte frames, speelduur, resolutie en links naar volledige downloads. De korte afspeelbare voorbeelden zijn fragmenten. De volledige downloads bevatten 31 ongewijzigde originele videobestanden en vier opnieuw gecomprimeerde kopieën met de volledige speelduur: hoofdvideo 04 en de nummers 8, 11 en 12 uit de telefoonperiode, op verzoek van de maker. Hun originele bronbestanden blijven lokaal ongewijzigd bewaard; de hashes van de bron en van de gepubliceerde kopie worden onderscheiden. Geen enkel bestand is ingekort om een volledige kijkkopie te maken. De originele schoolfoto's worden samen in één bronpakket aangeboden.
 
 ## Over titels en bronvermeldingen
 
@@ -42,7 +48,7 @@ De filmtitels in deze presentatie zijn beschrijvende portfoliotitels, toegevoegd
 
 ## Een archief dat kan blijven groeien
 
-Toekomstige renders, voltooide versies en nieuwe films kunnen worden toegevoegd terwijl eerder werk behouden blijft. De 2D-collectie met Stick Nodes maakt geen deel uit van deze levering; de maker kan die later aanleveren. Deze introducties zijn beschikbaar in **18 talen**; dat betekent niet dat dialogen of teksten in de video's zijn vertaald of ondertiteld.
+Het vroege materiaal uit de StickNodes-periode is nu samen met het latere werk bewaard. Toekomstige renders en teruggevonden bestanden kunnen worden toegevoegd zonder de eerdere fasen uit te wissen. Verloren of onvoltooide projecten zonder bewaard gebleven bestanden worden als ontbrekend beschreven en niet als beschikbare films gepresenteerd. Introducties en navigatie zijn in 18 talen beschikbaar; de gedetailleerde nieuwe filmnotities zijn in het Engels, Perzisch en Japans, zonder de claim dat de audio of tekst van elke video is vertaald.
 
 [Hoofdreeks animaties](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/nl/main.md) · [Roblox-animatie en montages](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/nl/roblox.md) · [Vroege korte studies](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/nl/early.md) · [Volledige beeldgalerie](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/nl/index.md)
 

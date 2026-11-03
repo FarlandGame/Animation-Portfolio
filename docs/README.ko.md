@@ -12,21 +12,27 @@
 [Kabir를 소개합니다: 나의 이야기, 창작의 시작과 일본에서의 계획](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.ko.md)
 <!-- PLAYFUL_INTRO_END -->
 
+<!-- EARLY_PHONE_LINK_START -->
+
+[초기 휴대폰 창작 아카이브 📱🎬](https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/ko/index.md) · [학교 장소 참고 갤러리](https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/ko/school-01.md) · [짧은 샘플 13개 보기](https://github.com/FarlandGame/Animation-Portfolio/issues/2)
+
+<!-- EARLY_PHONE_LINK_END -->
+
 [주 애니메이션 시리즈](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/ko/main.md) · [Roblox 애니메이션 및 편집 영상](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/ko/roblox.md) · [초기 짧은 연습 영상](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/ko/early.md) · [전체 비주얼 갤러리](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ko/index.md)
 
-3D 애니메이션, Roblox 애니메이션과 편집 영상, 초기 움직임 연습, 포스터, 캐릭터 이미지와 프로젝트 스크린샷을 담으며 계속 늘어나는 창작 아카이브입니다. 번호가 붙은 영상을 통해 오래된 실험에서 최근 작업으로 이어지는 흐름을 살펴보고, 비주얼 개발 자료와 작업 중인 내용을 통해 완성된 화면 뒤의 과정도 볼 수 있습니다.
+초기 휴대폰 2D 작업, Minecraft 스토리텔링, 이후의 3D 애니메이션, Roblox 편집 영상, 포스터, 캐릭터 그림, 프로젝트 및 장소 참고 자료를 아우르며 계속 늘어나는 창작 아카이브입니다. 각 컬렉션 안에서 발전 과정을 살펴보세요. 과거 작품 번호의 예외는 휴대폰 시기 아카이브에서 설명합니다.
 
-**Kabir**, **Farland_game**이라는 이름으로도 활동하는 **Bardiya Alizadeh**가 만들고 정리했습니다. 창작자가 밝힌 애니메이션 소프트웨어는 **Blender**입니다. 주 번호 시리즈의 마지막 두 항목인 **07과 08**은 편집에 **After Effects**도 사용했습니다.
+Bardiya Alizadeh(Kabir / Farland_game)가 제작하고 정리했습니다. 이후의 3D 컬렉션은 Blender를 사용했으며, 메인 컬렉션 07번과 08번에는 After Effects 편집도 포함됩니다. 제작자는 휴대폰 시기 1–8번을 StickNodes 작업으로 설명합니다. 9번과 11번은 Minecraft 녹화 영상이며, 초기 모바일 3D 장면인 10번을 만든 앱의 이름은 기억하지 못합니다.
 
 <p align="center"><a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/ko/main.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/media/stills/main-08.jpg" width="720" alt="THE APEX: Creator Profile Cards"></a></p>
 
 ## 창작의 여정 따라가기
 
-초기 작품도 학습 과정의 일부로 보존합니다. **각 영상 모음 안에서** 작은 번호부터 큰 번호 순으로 살펴보세요. 번호는 창작자가 제공한 것으로, 서로 다른 폴더 전체를 잇는 하나의 시간 순서를 뜻하지 않습니다. 최근 작품은 현재 포트폴리오가 향하는 방향을 보여 주고, 초기 테스트는 그 발전을 이해할 배경이 됩니다. 정지 이미지는 순서가 없는 갤러리입니다. 이미지 ID는 목록 참조 번호이며 날짜나 품질 순위가 아닙니다.
+기존의 번호가 붙은 세 영상 컬렉션은 각각 오래된 작품에서 새로운 작품으로 이어지는 순서를 유지합니다. 추가된 휴대폰 시기 컬렉션은 제공된 번호를 그대로 보존하되, 12번을 남아 있는 가장 이른 작품으로 명시하고 13번은 브랜드 오프닝으로 분류합니다. 이미지는 순서 없는 목록 참고 자료입니다. 이처럼 나뉜 컬렉션들이 전체 포트폴리오의 정확한 단일 연표나 완성도 순위를 이루는 것은 아닙니다.
 
 ## 이 모음에는 무엇이 있나요?
 
-세 개의 모음에 걸친 **영상 22개**와 **이미지 162장**이 있습니다. 주 시리즈에는 번호가 붙은 애니메이션 여덟 편이 있고, 별도의 Roblox 모음에는 애니메이션·편집 클립 열한 편이 있습니다. 아주 초기의 짧은 연습 영상 세 편도 영상 아카이브에 포함됩니다. 비주얼 갤러리는 포스터, 장면 미리 보기, 캐릭터 이미지, 그래픽 디자인, 편집기·게임 플레이 스크린샷을 모았으며 작은 참고·기타 자료 구역도 있습니다.
+네 컬렉션에 걸친 영상 파일 35개와 이미지 208장입니다. 기존 메인 시리즈는 영상 8개, Roblox는 11개, 초기 습작은 3개이며, 과거 휴대폰 시기 아카이브가 영상 파일 13개와 학교 장소 사진 46장을 기존 162장 이미지 갤러리에 더합니다. 과거 파일에는 애니메이션, 혼합 매체 작업, 게임 녹화, 채널 오프닝이 포함되므로 모든 파일이 렌더링된 애니메이션 영화인 것은 아닙니다.
 
 ## 완성된 화면과 작업 중인 내용
 
@@ -34,7 +40,7 @@
 
 ## 둘러보기, 미리 보기, 다운로드
 
-각 모음을 열면 번호가 붙은 영상, 대표 프레임, 재생 시간, 해상도와 다운로드 링크를 볼 수 있습니다. 가볍게 볼 수 있는 감상용 샘플은 발췌 영상이라고 명확히 표시합니다. **21편은 변경하지 않은 원본 파일**이며, 주 시리즈 **04는 창작자의 요청에 따라 전체 재생 길이를 보존한 재압축 1080p 사본**으로, 바이트가 동일한 원본은 아닙니다. SHA-256 체크섬은 공개된 다운로드 파일을 기준으로 하며, 목록에는 소스 파일의 출처 정보를 보존합니다. 초기 파일 두 개는 MKV 형식이므로 호환되는 미디어 플레이어가 필요할 수 있습니다. 이미지 썸네일은 제공받은 원본 해상도 이미지로 연결됩니다.
+번호별 작품, 실제 프레임 미리보기, 재생 시간, 해상도, 전체 다운로드 링크를 확인하세요. 짧게 재생할 수 있는 샘플은 발췌본입니다. 전체 다운로드에는 변경하지 않은 원본 영상 파일 31개와 제작자의 요청으로 전체 길이를 유지한 채 다시 압축한 사본 4개가 포함됩니다. 해당 사본은 메인 04번과 휴대폰 시기 8번, 11번, 12번입니다. 원본 소스 파일은 로컬에 변경 없이 보관되어 있으며, 소스와 공개 사본의 해시를 구분해 표시합니다. 전체 감상용 사본을 만들기 위해 길이를 줄인 파일은 없습니다. 학교 사진 원본은 하나의 소스 자료 묶음으로 제공합니다.
 
 ## 제목과 크레디트에 관하여
 
@@ -42,7 +48,7 @@
 
 ## 계속 확장할 수 있는 아카이브
 
-초기 작업을 보존하면서 앞으로 새로운 렌더링, 완성 버전과 새 영상을 추가할 수 있습니다. 이번 자료에는 2D Stick Nodes 모음이 포함되지 않았으며 창작자가 나중에 제공할 수 있습니다. 이 소개 글은 **18개 언어**로 제공됩니다. 영상의 대사나 화면 속 글자가 번역되었거나 자막이 추가되었다는 뜻은 아닙니다.
+초기 StickNodes 시기 자료도 이제 이후의 작품들과 함께 보존됩니다. 앞으로 새 렌더링 결과나 되찾은 파일을 추가하면서도 초기 단계의 기록은 유지할 수 있습니다. 남아 있는 파일이 없는 유실되거나 미완성인 프로젝트는 감상 가능한 작품으로 소개하지 않고, 자료가 없다고 설명합니다. 소개와 탐색 메뉴는 18개 언어로 제공하며, 새로 추가된 작품의 상세 설명은 영어·페르시아어·일본어로 제공합니다. 모든 영상의 음성과 문구를 번역했다는 뜻은 아닙니다.
 
 [주 애니메이션 시리즈](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/ko/main.md) · [Roblox 애니메이션 및 편집 영상](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/ko/roblox.md) · [초기 짧은 연습 영상](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/ko/early.md) · [전체 비주얼 갤러리](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ko/index.md)
 

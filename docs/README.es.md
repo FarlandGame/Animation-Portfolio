@@ -12,21 +12,27 @@
 [Conoce a Kabir: mi historia, mis comienzos creativos y mis planes para Japón](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.es.md)
 <!-- PLAYFUL_INTRO_END -->
 
+<!-- EARLY_PHONE_LINK_START -->
+
+[Archivo de mis primeros años con el móvil 📱🎬](https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/es/index.md) · [Galería de referencias de espacios escolares](https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/es/school-01.md) · [Ver las 13 muestras breves](https://github.com/FarlandGame/Animation-Portfolio/issues/2)
+
+<!-- EARLY_PHONE_LINK_END -->
+
 [Secuencia principal de animaciones](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/es/main.md) · [Animaciones y ediciones de Roblox](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/es/roblox.md) · [Primeros estudios cortos](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/es/early.md) · [Galería visual completa](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/es/index.md)
 
-Un archivo creativo en crecimiento de animación 3D, animaciones y ediciones de Roblox, primeros estudios de movimiento, carteles, imágenes de personajes y capturas de proyectos. Esta colección permite seguir las películas numeradas desde los experimentos más antiguos hasta los trabajos más recientes, y descubrir lo que hay detrás de los fotogramas finales a través del desarrollo visual y el material en proceso.
+Un archivo creativo en crecimiento que abarca primeros trabajos 2D con el móvil, historias en Minecraft, animación 3D posterior, ediciones de Roblox, carteles, ilustraciones de personajes y referencias de proyectos y lugares. Sigue la evolución dentro de cada colección; la excepción histórica en la numeración se explica en el archivo de la etapa del móvil.
 
-Creado y seleccionado por **Bardiya Alizadeh**, también conocido como **Kabir** y **Farland_game**. Programa de animación indicado por el creador: **Blender**. Las dos últimas entradas de la secuencia principal numerada, **07 y 08**, también utilizan **After Effects** para la edición.
+Creado y organizado por Bardiya Alizadeh (Kabir / Farland_game). La colección 3D posterior utiliza Blender; las entradas 07 y 08 de la serie principal también incluyen edición con After Effects. El creador vincula los números 1–8 de la etapa del móvil con StickNodes; el 9 y el 11 son capturas de Minecraft, mientras que no recuerda la aplicación utilizada para la primera escena 3D móvil, el número 10.
 
 <p align="center"><a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/es/main.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/media/stills/main-08.jpg" width="720" alt="THE APEX: Creator Profile Cards"></a></p>
 
 ## Sigue el recorrido creativo
 
-Las primeras piezas se conservan como parte del proceso de aprendizaje. Recorre los vídeos de menor a mayor número **dentro de cada colección de vídeos**; la numeración procede del creador y no establece una única cronología entre las distintas carpetas. Las entradas más recientes muestran la dirección actual del portfolio, mientras que las pruebas antiguas ayudan a entender esa evolución. Las imágenes fijas forman una galería sin orden cronológico: sus identificadores son referencias de catálogo, no fechas ni clasificaciones de calidad.
+Las tres colecciones de vídeos numeradas originales conservan cada una su propio orden de más antiguo a más reciente. La colección adicional de la etapa del móvil mantiene los números de los archivos entregados: el 12 se identifica expresamente como la obra más antigua conservada y el 13 se agrupa como cabecera de identidad del canal. Las imágenes son referencias de catálogo sin orden establecido. Estas colecciones independientes no fijan una cronología exacta única ni una clasificación de calidad para todo el portafolio.
 
 ## ¿Qué incluye esta colección?
 
-**22 vídeos** en tres colecciones y **162 imágenes**. La secuencia principal contiene ocho animaciones numeradas; una colección independiente de Roblox incluye once clips de animación y edición; tres estudios cortos muy tempranos completan el archivo de vídeos. La galería visual reúne carteles, avances de escenas, imágenes de personajes, diseños gráficos y capturas de editores y de juegos, además de una pequeña sección de referencias y otros materiales.
+35 archivos de vídeo en cuatro colecciones y 208 imágenes. La serie principal original tiene ocho vídeos, Roblox tiene once y los primeros estudios, tres; el archivo histórico de la etapa del móvil añade trece archivos de vídeo y 46 fotografías de espacios escolares a la anterior galería de 162 imágenes. Los archivos históricos incluyen animación, combinación de medios, capturas dentro del juego y una cabecera de canal; no todos los archivos son películas de animación renderizadas.
 
 ## Fotogramas finales y trabajos en proceso
 
@@ -34,7 +40,7 @@ Las primeras piezas se conservan como parte del proceso de aprendizaje. Recorre 
 
 ## Explora, previsualiza y descarga
 
-Abre una colección para ver sus películas numeradas, fotogramas representativos, duración, resolución y enlaces de descarga. Las muestras de visualización ligeras se identifican claramente como extractos. **21 vídeos son archivos originales intactos**; la entrada **04 de la secuencia principal es la copia recomprimida completa en 1080p solicitada por el creador**, no un original idéntico byte por byte. Las sumas de comprobación SHA-256 corresponden a las descargas publicadas, y el catálogo conserva la procedencia de los archivos fuente. Dos archivos antiguos son MKV y pueden necesitar un reproductor multimedia compatible. Las miniaturas de las imágenes enlazan con los originales proporcionados a resolución completa.
+Explora las películas numeradas, las vistas previas de fotogramas reales, la duración, la resolución y los enlaces de descarga completa. Las muestras breves reproducibles son fragmentos. Las descargas completas incluyen 31 archivos de vídeo originales sin cambios y cuatro copias recomprimidas que mantienen toda la duración: el 04 de la serie principal y los números 8, 11 y 12 de la etapa del móvil, a petición del creador. Sus archivos fuente originales siguen sin cambios en el almacenamiento local; se distinguen los hashes de la fuente y de la copia publicada. No se ha acortado ningún archivo para crear una copia de visualización completa. Los originales de las fotos escolares se ofrecen en un único paquete de fuentes.
 
 ## Sobre los títulos y los créditos
 
@@ -42,7 +48,7 @@ Los títulos de las películas de esta muestra son títulos descriptivos de port
 
 ## Un archivo que puede seguir creciendo
 
-Se pueden añadir futuros renderizados, versiones terminadas y nuevas películas conservando los trabajos anteriores. La colección 2D de Stick Nodes no está incluida en este lote; el creador puede proporcionarla más adelante. Estas presentaciones están disponibles en **18 idiomas**; esto no significa que los diálogos o los textos en pantalla de los vídeos se hayan traducido o subtitulado.
+El material inicial de la etapa de StickNodes ya se conserva junto a los trabajos posteriores. Los futuros renders y los archivos recuperados pueden añadirse sin borrar las etapas anteriores. Los proyectos perdidos o inacabados de los que no quedan archivos se describen como ausentes, en lugar de presentarse como películas disponibles. Las introducciones y la navegación están en 18 idiomas; las notas detalladas de las películas recién añadidas están en inglés, persa y japonés, sin afirmar que se hayan traducido el audio o los textos de todos los vídeos.
 
 [Secuencia principal de animaciones](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/es/main.md) · [Animaciones y ediciones de Roblox](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/es/roblox.md) · [Primeros estudios cortos](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/es/early.md) · [Galería visual completa](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/es/index.md)
 

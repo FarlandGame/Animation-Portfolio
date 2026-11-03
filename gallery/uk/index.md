@@ -18,6 +18,7 @@
 | [Графічні роботи](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/uk/graphic-design-01.md) | 10 |
 | [Знімки екрана редакторів і гри](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/uk/screenshot-01.md) | 71 |
 | [Референси й інші матеріали](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/uk/other-01.md) | 1 |
+| [Галерея референсів шкільних місць](https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/uk/school-01.md) | 46 |
 
 <a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/uk/all-09.md#image-162"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-162.jpg" width="240" alt="Карикатура власного персонажа, створена Bardiya Alizadeh (Kabir), відомим як Farland_game: чорна кубічна голова, чорне худі з білими емблемами F і G, білі рукавички та чорне взуття. 😎🎨"></a>
 
@@ -27,3 +28,6 @@
 <a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-051.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-051.jpg" width="300" alt="ESCAPE ROOM graphic with two Minecraft-style characters, crates, a chest and a padlock."></a>
 <a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-056.jpeg"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-056.jpg" width="300" alt="Black F-emblem block character beside a white sports car in a block-style forest."></a>
 <a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-149.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-149.jpg" width="300" alt="Blue, black and crowned red Minecraft-style characters posed against a bright yellow background."></a>
+
+
+[Архів перших років творчості на телефоні 📱🎬](https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/uk/index.md)

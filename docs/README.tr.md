@@ -12,21 +12,27 @@
 [Kabir ile tanışın: hikâyem, yaratıcı başlangıcım ve Japonya planlarım](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.tr.md)
 <!-- PLAYFUL_INTRO_END -->
 
+<!-- EARLY_PHONE_LINK_START -->
+
+[Telefonla İlk Üretim Yıllarımın Arşivi 📱🎬](https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/tr/index.md) · [Okul mekânı referans galerisi](https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/tr/school-01.md) · [13 kısa örneği izle](https://github.com/FarlandGame/Animation-Portfolio/issues/2)
+
+<!-- EARLY_PHONE_LINK_END -->
+
 [Ana animasyon serisi](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/tr/main.md) · [Roblox animasyonları ve kurguları](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/tr/roblox.md) · [Erken dönem kısa çalışmalar](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/tr/early.md) · [Tüm görsel galeri](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/tr/index.md)
 
-3D animasyonlar, Roblox animasyonları ve kurguları, erken dönem hareket çalışmaları, posterler, karakter görselleri ve proje ekran görüntülerinden oluşan, gelişmeye devam eden bir yaratıcı arşiv. Bu koleksiyon, numaralı filmleri eski denemelerden daha yeni çalışmalara doğru izlemenizi ve görsel geliştirme ile yapım aşamasındaki malzemeler üzerinden tamamlanmış karelerin arkasına bakmanızı sağlar.
+Telefonda yapılan ilk 2D çalışmalarından Minecraft hikâyelerine, sonraki 3D animasyonlardan Roblox montajlarına, afişlere, karakter çizimlerine ve proje/mekân referanslarına uzanan, büyüyen bir yaratıcı arşiv. Her koleksiyonun kendi içindeki gelişimini takip edin; numaralandırmadaki tarihsel istisna, telefon dönemi arşivinde açıklanıyor.
 
-**Kabir** ve **Farland_game** adlarıyla da tanınan **Bardiya Alizadeh** tarafından oluşturulup derlenmiştir. Yaratıcının belirttiği animasyon yazılımı: **Blender**. Ana numaralı serinin son iki çalışması olan **07 ve 08**, kurgu için ayrıca **After Effects** kullanır.
+Bardiya Alizadeh (Kabir / Farland_game) tarafından oluşturuldu ve düzenlendi. Sonraki 3D koleksiyonunda Blender kullanılıyor; ana koleksiyondaki 07 ve 08 numaralı çalışmalar ayrıca After Effects düzenlemeleri içeriyor. Yaratıcı, telefon dönemindeki 1–8 numaralı çalışmaları StickNodes ile ilişkilendiriyor; 9 ve 11 Minecraft kayıtları, 10 numaralı erken mobil 3D sahne için kullanılan uygulama ise hatırlanmıyor.
 
 <p align="center"><a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/tr/main.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/media/stills/main-08.jpg" width="720" alt="THE APEX: Creator Profile Cards"></a></p>
 
 ## Yaratıcı yolculuğu takip edin
 
-Önceki çalışmalar, öğrenme sürecinin bir parçası olarak korunmuştur. **Her video koleksiyonunun kendi içinde** küçük numaradan büyük numaraya doğru ilerleyin; numaralandırmayı yaratıcı sağlamıştır ve bu, farklı klasörler için tek bir ortak zaman çizelgesi oluşturmaz. En yeni çalışmalar portfolyonun bugünkü yönünü gösterirken eski denemeler bu gelişime bağlam kazandırır. Sabit görseller sırasız bir galeridir: görsel kimlikleri tarih veya kalite sıralaması değil, katalog referanslarıdır.
+İlk üç numaralı video koleksiyonu, kendi içlerinde eskiden yeniye sıralamalarını koruyor. Eklenen telefon dönemi koleksiyonu, verilen numaraları koruyor; 12, günümüze kalan en eski çalışma olarak açıkça belirtiliyor ve 13, kanal kimliğine yönelik bir açılış olarak gruplandırılıyor. Görseller, belirli bir sıraya konmamış katalog referanslarıdır. Bu ayrı koleksiyonlar, tüm portföy için tek ve kesin bir zaman çizelgesi ya da kalite sıralaması oluşturmaz.
 
 ## Bu koleksiyonda neler var?
 
-Üç koleksiyona yayılmış **22 video** ve **162 görsel**. Ana seri sekiz numaralı animasyon içerir; ayrı Roblox koleksiyonunda on bir animasyon/kurgu klibi bulunur; üç çok erken dönem kısa çalışma video arşivini tamamlar. Görsel galeri posterleri, sahne önizlemelerini, karakter görsellerini, grafik tasarımları ve editör/oyun ekran görüntülerini küçük bir referans ve çeşitli malzemeler bölümüyle bir araya getirir.
+Dört koleksiyonda 35 video dosyası ve 208 görsel. İlk ana seride sekiz, Roblox'ta on bir, ilk etütlerde üç video var; tarihsel telefon dönemi arşivi, önceki 162 görsellik galeriye on üç video dosyası ve 46 okul mekânı fotoğrafı ekliyor. Tarihsel dosyalar animasyon, karma medya, oyun içi kayıt ve bir kanal açılışı içeriyor; her dosya render alınmış bir animasyon filmi değil.
 
 ## Tamamlanmış kareler ve yapım aşamasındaki çalışmalar
 
@@ -34,7 +40,7 @@ Yaratıcının belirttiği üzere **ana serideki 04 numaralı çalışma tamamla
 
 ## Göz atın, önizleyin ve indirin
 
-Numaralı filmler, temsilî kareler, süre, çözünürlük ve indirme bağlantıları için bir koleksiyonu açın. Düşük boyutlu izleme örnekleri açıkça alıntı kesitler olarak belirtilir. **21 video, değişmemiş orijinal dosyalardır**; ana serideki **04, yaratıcının istediği tam süreli, yeniden sıkıştırılmış 1080p kopyadır** ve bayt düzeyinde aynı orijinal değildir. SHA-256 sağlama toplamları yayımlanan indirmelere aittir; katalog kaynak dosyaların köken bilgilerini korur. İki erken dönem dosya MKV biçimindedir ve uyumlu bir medya oynatıcı gerektirebilir. Görsel küçük resimleri, sağlanan tam çözünürlüklü orijinallere bağlantı verir.
+Numaralı filmlere, gerçek kare önizlemelerine, süreye, çözünürlüğe ve tam indirme bağlantılarına göz atın. Oynatılabilir kısa örnekler birer kesittir. Tam indirmeler, değiştirilmemiş 31 özgün video dosyası ile yaratıcının isteği üzerine yeniden sıkıştırılmış, süresi eksiksiz dört kopya içerir: ana koleksiyondaki 04 ile telefon dönemindeki 8, 11 ve 12. Özgün kaynak dosyaları yerel olarak değiştirilmeden saklanır; kaynak dosyanın ve yayımlanan kopyanın özet değerleri ayrı gösterilir. Tam izleme kopyası oluşturmak için hiçbir dosya kısaltılmadı. Okul fotoğraflarının özgünleri tek bir kaynak paketinde sunulur.
 
 ## Başlıklar ve katkı bilgileri hakkında
 
@@ -42,7 +48,7 @@ Bu sunumdaki film adları, yaratıcının izniyle eklenmiş açıklayıcı portf
 
 ## Büyümeye devam edebilecek bir arşiv
 
-Önceki çalışmalar korunarak gelecekteki renderlar, tamamlanmış sürümler ve yeni filmler eklenebilir. 2D Stick Nodes koleksiyonu bu grupta yer almıyor; yaratıcı bunu daha sonra sağlayabilir. Bu tanıtımlar **18 dilde** sunulur; bu, videolardaki konuşmaların veya ekrandaki yazıların çevrildiği ya da altyazılandığı anlamına gelmez.
+StickNodes döneminin ilk malzemeleri artık sonraki çalışmalarla birlikte korunuyor. Gelecekte alınacak renderlar ve kurtarılan dosyalar, önceki aşamalar silinmeden eklenebilir. Günümüze ulaşmış dosyası bulunmayan kayıp ya da tamamlanmamış projeler, mevcut filmler olarak sunulmak yerine eksik olarak tanımlanıyor. Girişler ve gezinme 18 dilde; yeni ayrıntılı film notları İngilizce, Farsça ve Japonca olarak sunuluyor. Bu, her videonun sesinin veya metninin çevrildiği anlamına gelmiyor.
 
 [Ana animasyon serisi](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/tr/main.md) · [Roblox animasyonları ve kurguları](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/tr/roblox.md) · [Erken dönem kısa çalışmalar](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/tr/early.md) · [Tüm görsel galeri](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/tr/index.md)
 

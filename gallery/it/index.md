@@ -18,6 +18,7 @@ Le immagini non hanno un ordine cronologico. Gli identificativi sono riferimenti
 | [Creazioni grafiche](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/it/graphic-design-01.md) | 10 |
 | [Schermate di editor e giochi](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/it/screenshot-01.md) | 71 |
 | [Riferimenti e materiali vari](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/it/other-01.md) | 1 |
+| [Galleria di riferimenti degli ambienti scolastici](https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/it/school-01.md) | 46 |
 
 <a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/it/all-09.md#image-162"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-162.jpg" width="240" alt="Caricatura del proprio personaggio ideata da Bardiya Alizadeh (Kabir), noto come Farland_game: testa cubica nera, felpa nera con gli emblemi bianchi F e G, guanti bianchi e scarpe nere. 😎🎨"></a>
 
@@ -27,3 +28,6 @@ Le immagini non hanno un ordine cronologico. Gli identificativi sono riferimenti
 <a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-051.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-051.jpg" width="300" alt="ESCAPE ROOM graphic with two Minecraft-style characters, crates, a chest and a padlock."></a>
 <a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-056.jpeg"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-056.jpg" width="300" alt="Black F-emblem block character beside a white sports car in a block-style forest."></a>
 <a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-149.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-149.jpg" width="300" alt="Blue, black and crowned red Minecraft-style characters posed against a bright yellow background."></a>
+
+
+[Archivio dei primi anni sul telefono 📱🎬](https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/it/index.md)

@@ -2888,5 +2888,22 @@
       "creator_credit": "Bardiya Alizadeh (Kabir) · Farland_game",
       "credit_basis": "Creator supplied this file and identified it as his own character design."
     }
-  ]
+  ],
+  "additional_archives": [
+    {
+      "id": "phone-era",
+      "catalogue": "history/phone-era/catalogue.json",
+      "overview": "history/phone-era/en/index.md",
+      "video_files": 13,
+      "source_photographs": 46,
+      "note": "Core videos/images arrays retain the earlier22/162items; this linked archive is additional."
+    }
+  ],
+  "combined_counts": {
+    "video_files": 35,
+    "source_images": 208,
+    "unchanged_original_video_files": 31,
+    "complete_duration_recompressed_video_files": 4,
+    "short_viewing_samples": 35
+  }
 }

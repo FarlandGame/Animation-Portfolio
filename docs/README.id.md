@@ -12,21 +12,27 @@
 [Kenalan dengan Kabir: kisahku, awal perjalanan kreatif, dan rencana ke Jepang](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.id.md)
 <!-- PLAYFUL_INTRO_END -->
 
+<!-- EARLY_PHONE_LINK_START -->
+
+[Arsip Awal Berkarya dengan Ponsel 📱🎬](https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/id/index.md) · [Galeri referensi lokasi sekolah](https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/id/school-01.md) · [Tonton 13 sampel singkat](https://github.com/FarlandGame/Animation-Portfolio/issues/2)
+
+<!-- EARLY_PHONE_LINK_END -->
+
 [Urutan animasi utama](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/id/main.md) · [Animasi & edit Roblox](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/id/roblox.md) · [Studi singkat awal](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/id/early.md) · [Galeri visual lengkap](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/id/index.md)
 
-Arsip kreatif yang terus berkembang, berisi animasi 3D, animasi dan edit Roblox, studi gerak awal, poster, gambar karakter, serta tangkapan layar proyek. Koleksi ini memungkinkan Anda mengikuti film bernomor dari eksperimen lama hingga karya yang lebih baru, sekaligus melihat proses di balik gambar akhir melalui pengembangan visual dan materi yang masih dikerjakan.
+Arsip kreatif yang terus bertambah, mencakup karya 2D awal dengan ponsel, cerita dalam Minecraft, animasi 3D berikutnya, suntingan Roblox, poster, ilustrasi karakter, serta referensi proyek dan lokasi. Ikuti perkembangan dalam setiap koleksi; pengecualian urutan penomoran karya lama dijelaskan dalam arsip era ponsel.
 
-Dibuat dan dikurasi oleh **Bardiya Alizadeh**, yang juga dikenal sebagai **Kabir** dan **Farland_game**. Perangkat lunak animasi yang disebutkan kreator: **Blender**. Dua entri terakhir dalam urutan utama bernomor, **07 dan 08**, juga menggunakan **After Effects** untuk penyuntingan.
+Dibuat dan dikurasi oleh Bardiya Alizadeh (Kabir / Farland_game). Koleksi 3D berikutnya menggunakan Blender; entri utama 07 dan 08 juga memuat penyuntingan dengan After Effects. Menurut pembuatnya, karya era ponsel 1–8 berkaitan dengan StickNodes; 9 dan 11 adalah rekaman Minecraft, sedangkan aplikasi yang digunakan untuk adegan 3D seluler awal nomor 10 sudah tidak diingat.
 
 <p align="center"><a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/id/main.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/media/stills/main-08.jpg" width="720" alt="THE APEX: Creator Profile Cards"></a></p>
 
 ## Ikuti perjalanan kreatifnya
 
-Karya-karya awal tetap disimpan sebagai bagian dari proses belajar. Telusuri dari nomor kecil ke nomor besar **di dalam setiap koleksi video**; penomoran diberikan oleh kreator dan tidak membentuk satu garis waktu yang berlaku untuk semua folder. Entri terbaru memperlihatkan arah portofolio saat ini, sedangkan percobaan lama memberi konteks bagi perkembangan tersebut. Gambar diam merupakan galeri tanpa urutan: ID gambar adalah acuan katalog, bukan tanggal atau peringkat kualitas.
+Tiga koleksi video bernomor yang semula ada tetap mempertahankan urutannya masing-masing dari yang lama ke yang baru. Koleksi tambahan dari era ponsel mempertahankan nomor yang diberikan, dengan 12 secara tegas disebut sebagai karya paling awal yang masih tersimpan dan 13 dikelompokkan sebagai pembuka identitas kanal. Gambar merupakan referensi katalog tanpa urutan. Koleksi-koleksi terpisah ini tidak membentuk satu kronologi pasti atau peringkat mutu untuk seluruh portofolio.
 
 ## Apa yang ada dalam koleksi ini?
 
-**22 video** dalam tiga koleksi dan **162 gambar**. Urutan utama berisi delapan animasi bernomor; koleksi Roblox terpisah berisi sebelas klip animasi/edit; tiga studi singkat dari masa sangat awal melengkapi arsip video. Galeri visual menyatukan poster, pratinjau adegan, gambar karakter, desain grafis, serta tangkapan layar editor dan permainan, dengan bagian kecil untuk referensi dan materi lain-lain.
+35 berkas video dalam empat koleksi dan 208 gambar. Rangkaian utama semula memiliki delapan video, Roblox sebelas, dan studi awal tiga; arsip historis era ponsel menambahkan tiga belas berkas video dan 46 foto lokasi sekolah ke galeri sebelumnya yang berisi 162 gambar. Berkas-berkas historis ini mencakup animasi, perpaduan media, rekaman permainan, dan pembuka kanal; tidak setiap berkas merupakan film animasi hasil render.
 
 ## Gambar akhir dan karya yang masih dikerjakan
 
@@ -34,7 +40,7 @@ Karya-karya awal tetap disimpan sebagai bagian dari proses belajar. Telusuri dar
 
 ## Telusuri, lihat pratinjau, dan unduh
 
-Buka sebuah koleksi untuk melihat film bernomor, bingkai perwakilan, durasi, resolusi, serta tautan unduhan. Sampel tontonan ringan ditandai dengan jelas sebagai cuplikan. **21 video merupakan file asli yang tidak diubah**; nomor **04 dalam urutan utama adalah salinan 1080p berdurasi penuh yang dikompresi ulang atas permintaan kreator**, bukan file asli dengan byte identik. Checksum SHA-256 merujuk pada file unduhan yang diterbitkan, sedangkan katalog mempertahankan catatan asal file sumber. Dua file awal berformat MKV dan mungkin memerlukan pemutar media yang kompatibel. Gambar mini menautkan ke gambar asli beresolusi penuh yang diberikan.
+Jelajahi film bernomor, pratinjau bingkai asli, durasi, resolusi, dan tautan unduhan lengkap. Sampel singkat yang dapat diputar adalah cuplikan. Unduhan lengkap memuat 31 berkas video asli tanpa perubahan dan empat salinan berdurasi penuh yang dikompresi ulang: utama 04 serta era ponsel 8, 11, dan 12, sesuai permintaan pembuatnya. Berkas sumber aslinya tetap tersimpan tanpa perubahan secara lokal; hash sumber dan salinan publikasi dibedakan. Tidak ada berkas yang dipendekkan untuk membuat salinan tontonan lengkap. Foto sekolah asli disediakan dalam satu paket sumber.
 
 ## Tentang judul dan kredit
 
@@ -42,7 +48,7 @@ Judul film dalam pameran ini merupakan judul portofolio deskriptif yang ditambah
 
 ## Arsip yang dapat terus berkembang
 
-Render mendatang, versi yang sudah selesai, dan film baru dapat ditambahkan sambil tetap mempertahankan karya-karya awal. Koleksi 2D Stick Nodes tidak termasuk dalam kumpulan kali ini; kreator mungkin memberikannya nanti. Pengantar ini tersedia dalam **18 bahasa**; hal itu tidak berarti dialog atau teks pada layar dalam video sudah diterjemahkan atau diberi takarir.
+Materi awal era StickNodes kini tersimpan bersama karya-karya berikutnya. Hasil render mendatang dan berkas yang ditemukan kembali dapat ditambahkan tanpa menghapus tahap-tahap sebelumnya. Proyek yang hilang atau belum selesai tanpa berkas tersisa dijelaskan sebagai materi yang tidak tersedia, bukan ditampilkan seolah-olah merupakan film yang dapat ditonton. Pengantar dan navigasi tersedia dalam 18 bahasa; catatan terperinci untuk film-film baru tersedia dalam bahasa Inggris, Persia, dan Jepang, tanpa mengklaim bahwa audio dan teks setiap video telah diterjemahkan.
 
 [Urutan animasi utama](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/id/main.md) · [Animasi & edit Roblox](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/id/roblox.md) · [Studi singkat awal](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/id/early.md) · [Galeri visual lengkap](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/id/index.md)
 

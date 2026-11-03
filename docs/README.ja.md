@@ -12,21 +12,27 @@
 [Kabir の歩み：創作の始まりと日本でかなえたいこと](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.ja.md)
 <!-- PLAYFUL_INTRO_END -->
 
+<!-- EARLY_PHONE_LINK_START -->
+
+[スマートフォン創作初期のアーカイブ 📱🎬](https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/ja/index.md) · [学校のロケーション資料ギャラリー](https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/ja/school-01.md) · [13本の短いサンプルを見る](https://github.com/FarlandGame/Animation-Portfolio/issues/2)
+
+<!-- EARLY_PHONE_LINK_END -->
+
 [メインのアニメーションシリーズ](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/ja/main.md) · [Roblox のアニメーションと編集映像](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/ja/roblox.md) · [初期の短い習作](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/ja/early.md) · [画像ギャラリー全体](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ja/index.md)
 
-3D アニメーション、Roblox のアニメーションと編集映像、初期の動きの習作、ポスター、キャラクター画像、制作画面をまとめた、成長を続ける創作アーカイブです。番号付きの映像を通して初期の試みから新しい作品へとたどり、制作途中の素材やビジュアル開発から完成した画面の裏側にも触れられます。
+スマートフォンによる初期の2D作品、Minecraftでの物語、その後の3Dアニメーション、Robloxの編集作品、ポスター、キャラクターアート、プロジェクトや場所の参考資料まで広がる、成長中の創作アーカイブです。各コレクションの中で制作の歩みをたどれます。番号と年代が一致しない例外については、スマートフォン初期のアーカイブで説明しています。
 
-制作・キュレーションは **Bardiya Alizadeh**。**Kabir**、**Farland_game** の名前でも活動しています。本人が申告したアニメーション制作ソフトは **Blender** です。メインの番号付きシリーズの最後の 2 本、**07 と 08** は、編集に **After Effects** も使用しています。
+制作・編纂：バルディヤ・アリザデ（カビール / Farland_game）。後期の3DコレクションではBlenderを使用し、メインコレクションの07と08にはAfter Effectsによる編集も含まれます。制作者の説明では、スマートフォン時代の1〜8はStickNodesを使った時期の作品です。9と11はMinecraftの録画で、初期のモバイル3Dシーンである10の使用アプリは覚えていません。
 
 <p align="center"><a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/ja/main.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/media/stills/main-08.jpg" width="720" alt="THE APEX: Creator Profile Cards"></a></p>
 
 ## 創作の歩みをたどる
 
-初期の作品も学びの過程として残しています。**各映像コレクション内で**小さい番号から大きい番号へ進むと、古い作品から新しい作品へとたどれます。番号は制作者が付けたもので、異なるフォルダー全体に共通する時系列を示すものではありません。新しい作品は現在の方向性を、以前の試作はそこに至る背景を伝えます。静止画は時系列順ではなく、画像 ID は目録用の識別子で、日付や品質の順位ではありません。
+従来の3つの番号付き動画コレクションは、それぞれ古い作品から新しい作品への順番を保っています。追加したスマートフォン時代のコレクションでは、提供時の番号をそのまま残し、12を現存する最古の作品、13をブランディング用オープニングとして明示しています。画像は順不同のカタログ資料です。これらの独立したコレクションから、ポートフォリオ全体の厳密な年表や品質の順位が決まるわけではありません。
 
 ## 収録内容
 
-3 つのコレクションに **22 本の映像**と **162 点の画像**を収録しています。メインシリーズには 8 本の番号付きアニメーション、別の Roblox コレクションには 11 本のアニメーション・編集映像、初期の短い習作には 3 本があります。画像ギャラリーにはポスター、シーンのプレビュー、キャラクター画像、グラフィック、制作・ゲーム画面をまとめ、参考画像やその他の資料も少数含めています。
+4つのコレクションに計35本の動画ファイルと208枚の画像を収録しています。従来のメインシリーズは8本、Robloxは11本、初期習作は3本です。スマートフォン創作初期のアーカイブでは、13本の動画ファイルと学校のロケーション写真46枚を追加し、以前の162枚の画像ギャラリーを拡充しています。過去のファイルにはアニメーション、複数メディアの組み合わせ、ゲーム内録画、チャンネルオープニングがあり、すべてがレンダリングされたアニメーション映画というわけではありません。
 
 ## 制作された画面と制作途中の作品
 
@@ -34,7 +40,7 @@
 
 ## 閲覧・プレビュー・ダウンロード
 
-各コレクションで番号付き映像、代表フレーム、再生時間、解像度、ダウンロード先を確認できます。軽量な視聴サンプルは抜粋と明記しています。**21 本は変更していない元ファイル**で、メイン **04 は制作者の希望による全編収録の 1080p 再圧縮版**です。元ファイルとバイト単位で同一ではありません。SHA-256 は公開ダウンロードのファイルに対応し、元ファイルの情報も目録に残しています。初期の 2 ファイルは MKV 形式で、対応プレーヤーが必要な場合があります。画像のサムネイルは提供されたフル解像度の元画像につながっています。
+番号付きの作品、実際のフレームのプレビュー、再生時間、解像度、全編ダウンロードのリンクを確認できます。再生できる短いサンプルは抜粋です。全編ダウンロードには、変更していないオリジナル動画31本と、全長を保って再圧縮した4本を用意しています。再圧縮したのは、制作者の希望によるメイン04とスマートフォン時代の8・11・12です。元のソースファイルはローカルで変更せずに保管し、ソースと公開用コピーのハッシュを区別しています。全編視聴用コピーを作るために短縮したファイルはありません。学校写真の原本は1つの資料パックにまとめています。
 
 ## タイトルとクレジットについて
 
@@ -42,7 +48,7 @@
 
 ## これからも育つアーカイブ
 
-今後のレンダリング、完成版、新作を、以前の作品を残しながら追加できます。今回の提供分には 2D の Stick Nodes 作品は含まれていませんが、後日追加される可能性があります。紹介ページは **18 言語**に対応しています。映像内の台詞や文字が翻訳・字幕化されているという意味ではありません。
+StickNodes時代の初期作品も、後年の作品とともに保存できました。今後のレンダリングや見つかったファイルは、初期の段階を消すことなく追加できます。ファイルの残っていない紛失作品や未完成作品は、視聴可能な映画として扱わず、欠落しているものとして記載します。紹介文とナビゲーションは18言語に対応し、新たに加わった作品の詳しいノートは英語・ペルシャ語・日本語で提供しています。すべての動画の音声や画面内テキストが翻訳済みという意味ではありません。
 
 [メインのアニメーションシリーズ](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/ja/main.md) · [Roblox のアニメーションと編集映像](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/ja/roblox.md) · [初期の短い習作](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/ja/early.md) · [画像ギャラリー全体](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ja/index.md)
 

@@ -12,21 +12,27 @@
 [認識 Kabir：我的故事、創作起點與日本計畫](https://github.com/FarlandGame/FarlandGame/blob/main/docs/story.zh-TW.md)
 <!-- PLAYFUL_INTRO_END -->
 
+<!-- EARLY_PHONE_LINK_START -->
+
+[早期手機創作檔案 📱🎬](https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/zh-TW/index.md) · [學校場景參考圖庫](https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/zh-TW/school-01.md) · [觀看 13 段短樣片](https://github.com/FarlandGame/Animation-Portfolio/issues/2)
+
+<!-- EARLY_PHONE_LINK_END -->
+
 [主動畫系列](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/zh-TW/main.md) · [Roblox 動畫與剪輯](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/zh-TW/roblox.md) · [早期短習作](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/zh-TW/early.md) · [完整視覺畫廊](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/zh-TW/index.md)
 
-這是一份持續擴充的創作檔案，收錄 3D 動畫、Roblox 動畫與剪輯、早期動作習作、海報、角色圖像和專案截圖。你可以沿著編號影片，從較早的實驗看到較新的作品，也能透過視覺開發資料和製作中的內容，了解成片畫面背後的過程。
+一份持續擴充的創作檔案，涵蓋早期手機 2D 作品、Minecraft 敘事、後期 3D 動畫、Roblox 剪輯、海報、角色美術，以及專案與場景參考。你可以在各個作品集中觀察我的成長；歷史編號順序的例外在手機時期檔案中另有說明。
 
-由 **Bardiya Alizadeh** 創作並整理，他也以 **Kabir** 和 **Farland_game** 的名字活動。創作者說明使用的動畫軟體為 **Blender**。主編號系列的最後兩項作品 **07 和 08** 還使用 **After Effects** 進行剪輯。
+由 Bardiya Alizadeh（Kabir / Farland_game）創作並整理。後期 3D 作品集使用 Blender 製作；主系列的 07 和 08 號還包含 After Effects 剪輯。作者將手機時期的 1–8 號歸於 StickNodes 創作；9 號和 11 號是 Minecraft 錄影，而早期手機 3D 場景 10 號所用的應用程式名稱已記不清。
 
 <p align="center"><a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/zh-TW/main.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/media/stills/main-08.jpg" width="720" alt="THE APEX: Creator Profile Cards"></a></p>
 
 ## 沿著創作之路瀏覽
 
-早期作品作為學習過程的一部分予以保留。請在**每個影片合集內部**按編號由小到大瀏覽；編號由創作者提供，並不代表不同資料夾之間存在一條統一的時間線。較新的作品展示作品集目前的發展方向，而早期測試提供了理解這些進步的背景。靜態圖像是無序畫廊：圖像 ID 僅為目錄索引，並非日期或品質排名。
+原有的三個編號影片集各自保留由早到晚的排序。新增的手機時期作品集保留所提供的編號，並明確說明 12 號是現存最早的作品，13 號則歸為品牌片頭。圖片是沒有排序的目錄參考資料。這些獨立的作品集並不構成整個作品集的一條精確時間軸或品質排名。
 
 ## 這個合集包含什麼？
 
-三個合集中共有 **22 個影片**，另有 **162 張圖像**。主系列包含八部編號動畫；獨立的 Roblox 合集包含十一段動畫／剪輯片段；另外三段非常早期的短習作補充了影片檔案。視覺畫廊匯集海報、場景預覽、角色圖像、平面設計，以及編輯器和遊戲截圖，並設有一個小型參考／雜項分區。
+四個作品集共包含 35 個影片檔案和 208 張圖片。原有主系列有 8 部影片，Roblox 系列有 11 部，早期習作有 3 部；歷史手機創作檔案新增 13 個影片檔案和 46 張學校場景照片，讓原先 162 張圖片的圖庫擴充至現在的規模。這些歷史檔案包括動畫、混合媒材作品、遊戲錄影和頻道片頭；並非每個檔案都是算繪完成的動畫影片。
 
 ## 成片畫面與製作中的內容
 
@@ -34,7 +40,7 @@
 
 ## 瀏覽、預覽與下載
 
-開啟某個合集，可查看編號影片、代表影格、片長、解析度和下載連結。輕量觀看樣本會明確標註為節選。**21 個影片是未經改動的原始檔案**；主系列 **04 是應創作者要求製作、保留完整片長的 1080p 重新壓縮副本**，並非位元組完全相同的原始檔案。SHA-256 校驗碼對應公開下載的檔案，目錄則保留來源檔案的出處記錄。兩個早期檔案為 MKV 格式，可能需要相容的媒體播放器。圖像縮圖連結至提供的完整解析度原圖。
+瀏覽編號影片、實際畫面預覽、片長、解析度和完整檔案下載連結。可播放的短樣片均為節錄。完整下載包含 31 個未經更動的原始影片檔案，以及依作者要求重新壓縮、保留完整片長的 4 個副本：主系列 04 號和手機時期 8、11、12 號。它們的原始來源檔案在本機保持不變；來源檔案與發布副本的雜湊值分別標明。沒有任何檔案為製作完整觀看版而被縮短。學校照片原圖以一個素材包提供。
 
 ## 關於標題與署名
 
@@ -42,7 +48,7 @@
 
 ## 可以持續成長的檔案
 
-今後可以在保留早期作品的同時，加入新的算圖、完成版本和新影片。本批內容不含 2D Stick Nodes 合集，創作者之後可能另行提供。這些介紹提供 **18 種語言**；這並不表示影片中的對白或畫面文字已經翻譯或加上字幕。
+早期 StickNodes 時期的素材現已與後期作品一同保存。今後可以繼續加入新算繪和找回的檔案，同時保留早期階段的紀錄。沒有留存檔案的遺失或未完成專案會註明缺失，而不會被當作可觀看的影片。介紹與導覽提供 18 種語言；新增影片的詳細說明提供英語、波斯語和日語版本，並不表示每段影片的音訊和文字都已翻譯。
 
 [主動畫系列](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/zh-TW/main.md) · [Roblox 動畫與剪輯](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/zh-TW/roblox.md) · [早期短習作](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/zh-TW/early.md) · [完整視覺畫廊](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/zh-TW/index.md)
 

@@ -18,6 +18,7 @@
 | [グラフィックデザイン](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ja/graphic-design-01.md) | 10 |
 | [制作画面とゲーム画面](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ja/screenshot-01.md) | 71 |
 | [参考画像・その他](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ja/other-01.md) | 1 |
+| [学校のロケーション資料ギャラリー](https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/ja/school-01.md) | 46 |
 
 <a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/ja/all-09.md#image-162"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-162.jpg" width="240" alt="Bardiya Alizadeh（Kabir／Farland_game）がデザインした自分のキャラクターのカリカチュア。黒い立方体の頭、白い F と G のマークが付いた黒いパーカー、白い手袋、黒い靴が特徴です。😎🎨"></a>
 
@@ -27,3 +28,6 @@
 <a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-051.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-051.jpg" width="300" alt="2人のMinecraft風キャラクター、木箱、チェスト、南京錠を配置したESCAPE ROOMのグラフィック。"></a>
 <a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-056.jpeg"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-056.jpg" width="300" alt="ブロック風の森で白いスポーツカーのそばに立つ、黒いFマークのブロック型キャラクター。"></a>
 <a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-149.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-149.jpg" width="300" alt="明るい黄色の背景でポーズを取る、青、黒、王冠姿の赤いMinecraft風キャラクター。"></a>
+
+
+[スマートフォン創作初期のアーカイブ 📱🎬](https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/ja/index.md)

@@ -18,6 +18,7 @@
 | [طرح‌های گرافیکی](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/fa/graphic-design-01.md) | 10 |
 | [اسکرین‌شات محیط ساخت و بازی](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/fa/screenshot-01.md) | 71 |
 | [تصویر مرجع و موارد متفرقه](https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/fa/other-01.md) | 1 |
+| [گالری مرجع فضای مدرسه](https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/fa/school-01.md) | 46 |
 
 <a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/gallery/fa/all-09.md#image-162"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-162.jpg" width="240" alt="کاریکاتور کاراکتر، طراحی بردیا علیزاده (کبیر)، با نام هنری Farland_game: شخصیتی با سر مکعبی مشکی، هودی مشکی با نشان‌های سفید F و G، دستکش سفید و کفش مشکی. 😎🎨"></a>
 
@@ -27,3 +28,6 @@
 <a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-051.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-051.jpg" width="300" alt="طرح ESCAPE ROOM با دو کاراکتر به سبک ماینکرافت، جعبه‌ها، صندوق و قفل."></a>
 <a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-056.jpeg"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-056.jpg" width="300" alt="کاراکتر مکعبی مشکی نشان F کنار خودروی اسپرت سفید در جنگلی مکعبی."></a>
 <a href="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/originals/image-149.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/artwork/previews/image-149.jpg" width="300" alt="کاراکترهای آبی، مشکی و قرمز تاج‌دار به سبک ماینکرافت در برابر پس‌زمینهٔ زرد روشن."></a>
+
+
+[آرشیو سال‌های نخستِ کار با گوشی 📱🎬](https://github.com/FarlandGame/Animation-Portfolio/blob/main/history/phone-era/fa/index.md)
