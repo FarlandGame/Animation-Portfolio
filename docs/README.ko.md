@@ -36,7 +36,7 @@
 
 Bardiya Alizadeh(Kabir / Farland_game)가 제작하고 정리했습니다. 이후의 3D 컬렉션은 Blender를 사용했으며, 메인 컬렉션 07번과 08번에는 After Effects 편집도 포함됩니다. 제작자는 휴대폰 시기 1–8번을 StickNodes 작업으로 설명합니다. 9번과 11번은 Minecraft 녹화 영상이며, 초기 모바일 3D 장면인 10번을 만든 앱의 이름은 기억하지 못합니다.
 
-<p align="center"><a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/ko/main.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/media/stills/main-08.jpg" width="720" alt="THE APEX: Creator Profile Cards"></a></p>
+<p align="center"><a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/ko/main.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/section-covers/the-apex-color.png" width="350" alt="THE APEX · creator-supplied color poster"></a> <a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/ko/main.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/section-covers/the-apex-neon.png" width="350" alt="THE APEX · creator-supplied neon poster"></a></p>
 
 ## 창작의 여정 따라가기
 

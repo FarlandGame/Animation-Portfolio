@@ -36,7 +36,7 @@ Ein wachsendes kreatives Archiv: von frühen 2D-Arbeiten auf dem Smartphone und 
 
 Erstellt und kuratiert von Bardiya Alizadeh (Kabir / Farland_game). Die spätere 3D-Sammlung nutzt Blender; die Haupteinträge 07 und 08 enthalten auch Bearbeitung mit After Effects. Der Urheber ordnet die Smartphone-Arbeiten 1–8 der StickNodes-Zeit zu; 9 und 11 sind Minecraft-Aufnahmen. An die App für die frühe mobile 3D-Szene 10 erinnert er sich nicht mehr.
 
-<p align="center"><a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/de/main.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/media/stills/main-08.jpg" width="720" alt="THE APEX: Creator Profile Cards"></a></p>
+<p align="center"><a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/de/main.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/section-covers/the-apex-color.png" width="350" alt="THE APEX · creator-supplied color poster"></a> <a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/de/main.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/section-covers/the-apex-neon.png" width="350" alt="THE APEX · creator-supplied neon poster"></a></p>
 
 ## Die kreative Entwicklung verfolgen
 

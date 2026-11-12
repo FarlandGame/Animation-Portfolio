@@ -36,7 +36,7 @@
 
 Автор и составитель — Бардия Ализаде (Kabir / Farland_game). Более поздняя 3D-коллекция создана в Blender; основные работы 07 и 08 также включают монтаж в After Effects. По словам автора, телефонные работы 1–8 связаны со StickNodes; 9 и 11 — записи Minecraft, а название приложения для ранней мобильной 3D-сцены 10 он не помнит.
 
-<p align="center"><a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/ru/main.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/media/stills/main-08.jpg" width="720" alt="THE APEX: Creator Profile Cards"></a></p>
+<p align="center"><a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/ru/main.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/section-covers/the-apex-color.png" width="350" alt="THE APEX · creator-supplied color poster"></a> <a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/ru/main.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/section-covers/the-apex-neon.png" width="350" alt="THE APEX · creator-supplied neon poster"></a></p>
 
 ## Проследите творческий путь
 

@@ -36,7 +36,7 @@
 
 由 Bardiya Alizadeh（Kabir / Farland_game）创作并整理。后期 3D 作品集使用 Blender 制作；主系列的 07 和 08 号还包含 After Effects 剪辑。作者将手机时期的 1–8 号归于 StickNodes 创作；9 号和 11 号是 Minecraft 录屏，而早期手机 3D 场景 10 号所用的应用名称已记不清。
 
-<p align="center"><a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/zh-CN/main.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/media/stills/main-08.jpg" width="720" alt="THE APEX: Creator Profile Cards"></a></p>
+<p align="center"><a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/zh-CN/main.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/section-covers/the-apex-color.png" width="350" alt="THE APEX · creator-supplied color poster"></a> <a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/zh-CN/main.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/section-covers/the-apex-neon.png" width="350" alt="THE APEX · creator-supplied neon poster"></a></p>
 
 ## 沿着创作之路浏览
 

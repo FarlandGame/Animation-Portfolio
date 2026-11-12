@@ -36,7 +36,7 @@
 
 制作・編纂：バルディヤ・アリザデ（カビール / Farland_game）。後期の3DコレクションではBlenderを使用し、メインコレクションの07と08にはAfter Effectsによる編集も含まれます。制作者の説明では、スマートフォン時代の1〜8はStickNodesを使った時期の作品です。9と11はMinecraftの録画で、初期のモバイル3Dシーンである10の使用アプリは覚えていません。
 
-<p align="center"><a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/ja/main.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/media/stills/main-08.jpg" width="720" alt="THE APEX: Creator Profile Cards"></a></p>
+<p align="center"><a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/ja/main.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/section-covers/the-apex-color.png" width="350" alt="THE APEX · creator-supplied color poster"></a> <a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/ja/main.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/section-covers/the-apex-neon.png" width="350" alt="THE APEX · creator-supplied neon poster"></a></p>
 
 ## 創作の歩みをたどる
 

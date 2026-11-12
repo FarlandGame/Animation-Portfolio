@@ -36,7 +36,7 @@ Um arquivo criativo em crescimento que reúne os primeiros trabalhos 2D feitos n
 
 Criado e organizado por Bardiya Alizadeh (Kabir / Farland_game). A coleção 3D posterior usa Blender; os itens principais 07 e 08 também incluem edição no After Effects. O criador associa os números 1–8 da época do celular ao StickNodes; 9 e 11 são capturas do Minecraft, enquanto ele não se lembra do aplicativo usado para a primeira cena 3D no celular, número 10.
 
-<p align="center"><a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/pt-BR/main.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/media/stills/main-08.jpg" width="720" alt="THE APEX: Creator Profile Cards"></a></p>
+<p align="center"><a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/pt-BR/main.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/section-covers/the-apex-color.png" width="350" alt="THE APEX · creator-supplied color poster"></a> <a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/pt-BR/main.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/section-covers/the-apex-neon.png" width="350" alt="THE APEX · creator-supplied neon poster"></a></p>
 
 ## Acompanhe a jornada criativa
 

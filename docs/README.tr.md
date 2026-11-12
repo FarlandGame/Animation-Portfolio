@@ -36,7 +36,7 @@ Telefonda yapılan ilk 2D çalışmalarından Minecraft hikâyelerine, sonraki 3
 
 Bardiya Alizadeh (Kabir / Farland_game) tarafından oluşturuldu ve düzenlendi. Sonraki 3D koleksiyonunda Blender kullanılıyor; ana koleksiyondaki 07 ve 08 numaralı çalışmalar ayrıca After Effects düzenlemeleri içeriyor. Yaratıcı, telefon dönemindeki 1–8 numaralı çalışmaları StickNodes ile ilişkilendiriyor; 9 ve 11 Minecraft kayıtları, 10 numaralı erken mobil 3D sahne için kullanılan uygulama ise hatırlanmıyor.
 
-<p align="center"><a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/tr/main.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/media/stills/main-08.jpg" width="720" alt="THE APEX: Creator Profile Cards"></a></p>
+<p align="center"><a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/tr/main.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/section-covers/the-apex-color.png" width="350" alt="THE APEX · creator-supplied color poster"></a> <a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/tr/main.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/section-covers/the-apex-neon.png" width="350" alt="THE APEX · creator-supplied neon poster"></a></p>
 
 ## Yaratıcı yolculuğu takip edin
 

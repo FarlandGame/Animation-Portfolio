@@ -36,7 +36,7 @@ Arsip kreatif yang terus bertambah, mencakup karya 2D awal dengan ponsel, cerita
 
 Dibuat dan dikurasi oleh Bardiya Alizadeh (Kabir / Farland_game). Koleksi 3D berikutnya menggunakan Blender; entri utama 07 dan 08 juga memuat penyuntingan dengan After Effects. Menurut pembuatnya, karya era ponsel 1–8 berkaitan dengan StickNodes; 9 dan 11 adalah rekaman Minecraft, sedangkan aplikasi yang digunakan untuk adegan 3D seluler awal nomor 10 sudah tidak diingat.
 
-<p align="center"><a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/id/main.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/media/stills/main-08.jpg" width="720" alt="THE APEX: Creator Profile Cards"></a></p>
+<p align="center"><a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/id/main.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/section-covers/the-apex-color.png" width="350" alt="THE APEX · creator-supplied color poster"></a> <a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/id/main.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/section-covers/the-apex-neon.png" width="350" alt="THE APEX · creator-supplied neon poster"></a></p>
 
 ## Ikuti perjalanan kreatifnya
 

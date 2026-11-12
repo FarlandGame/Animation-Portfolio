@@ -36,7 +36,7 @@
 
 ساخته و گردآوری‌شده توسط بردیا علیزاده (کبیر / Farland_game). در مجموعهٔ سه‌بعدیِ بعدی از Blender استفاده شده است؛ آثار ۰۷ و ۰۸ مجموعهٔ اصلی، تدوین با After Effects هم دارند. بنا بر گفتهٔ سازنده، آثار ۱ تا ۸ دورهٔ گوشی با StickNodes مرتبط‌اند؛ ۹ و ۱۱ ضبط ماینکرفت‌اند و نام برنامهٔ صحنهٔ سه‌بعدیِ موبایلیِ اولیهٔ شمارهٔ ۱۰ به یاد نمانده است.
 
-<p align="center"><a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/fa/main.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/media/stills/main-08.jpg" width="720" alt="THE APEX: Creator Profile Cards"></a></p>
+<p align="center"><a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/fa/main.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/section-covers/the-apex-color.png" width="350" alt="THE APEX · creator-supplied color poster"></a> <a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/fa/main.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/section-covers/the-apex-neon.png" width="350" alt="THE APEX · creator-supplied neon poster"></a></p>
 
 ## مسیر پیشرفت را دنبال کنید
 

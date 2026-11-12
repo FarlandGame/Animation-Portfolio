@@ -36,7 +36,7 @@ A growing creative archive spanning early phone-based 2D work, Minecraft storyte
 
 Created and curated by Bardiya Alizadeh (Kabir / Farland_game). The later 3D collection uses Blender; main entries 07 and 08 also include After Effects editing. The creator identifies phone-era 1–8 with StickNodes; 9 and 11 are Minecraft captures, while the app used for the early mobile 3D scene 10 is not remembered.
 
-<p align="center"><a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/en/main.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/media/stills/main-08.jpg" width="720" alt="THE APEX: Creator Profile Cards"></a></p>
+<p align="center"><a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/en/main.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/section-covers/the-apex-color.png" width="350" alt="THE APEX · creator-supplied color poster"></a> <a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/en/main.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/section-covers/the-apex-neon.png" width="350" alt="THE APEX · creator-supplied neon poster"></a></p>
 
 ## Follow the creative journey
 
