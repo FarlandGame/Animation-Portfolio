@@ -12,6 +12,18 @@
 
 Blender · 07/08: After Effects
 
+<!-- MAIN_FEATURE_START -->
+## Blender · Hareketli hikâyeler 🎬✨
+
+![Blender 3D animation showcase](../../assets/blender-showcase.svg)
+
+Karakterler, Minecraft tarzı dünyalar, ışık ve hareket içeren sekiz 3D klip. Ana araç Blender; 07 ve 08’de After Effects de var. Klip 04 tamamlanmadı.
+
+> Render kuyruğu da sohbete katıldı. 🎬✨
+
+<img src="../../assets/blender-sticker.svg" width="125" alt="3D scene mode">
+<!-- MAIN_FEATURE_END -->
+
 | No. | Başlık | Süre | Çözünürlük | Boyut | Videoyu indir |
 |---|---|---|---|---|---|
 | 01 | Minecraft: Glowing-Eyed Encounters | 2:15 | 1920×1080 | 33.7 MiB | [1.mp4](https://github.com/FarlandGame/Animation-Portfolio/releases/download/main-collection/1.mp4) |

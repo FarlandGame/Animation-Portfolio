@@ -12,6 +12,18 @@
 
 Blender · 07/08: After Effects
 
+<!-- MAIN_FEATURE_START -->
+## Blender · 动态叙事 🎬✨
+
+![Blender 3D animation showcase](../../assets/blender-showcase.svg)
+
+八段3D作品，呈现角色、Minecraft风格世界、灯光与动作。主要工具为Blender；07和08也加入After Effects编辑。04仍未完成。
+
+> 渲染队列也加入了聊天。🎬✨
+
+<img src="../../assets/blender-sticker.svg" width="125" alt="3D scene mode">
+<!-- MAIN_FEATURE_END -->
+
 | 编号 | 标题 | 时长 | 分辨率 | 大小 | 下载视频 |
 |---|---|---|---|---|---|
 | 01 | Minecraft: Glowing-Eyed Encounters | 2:15 | 1920×1080 | 33.7 MiB | [1.mp4](https://github.com/FarlandGame/Animation-Portfolio/releases/download/main-collection/1.mp4) |

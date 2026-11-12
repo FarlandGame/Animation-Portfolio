@@ -12,6 +12,18 @@ Karya-karya awal tetap disimpan sebagai bagian dari proses belajar. Telusuri dar
 
 Blender · 07/08: After Effects
 
+<!-- MAIN_FEATURE_START -->
+## Blender · Cerita dalam gerak 🎬✨
+
+![Blender 3D animation showcase](../../assets/blender-showcase.svg)
+
+Delapan klip 3D berisi karakter, dunia bergaya Minecraft, cahaya dan gerak. Alat utama Blender; 07 dan 08 juga memakai After Effects. Klip 04 belum selesai.
+
+> Antrean render ikut masuk obrolan. 🎬✨
+
+<img src="../../assets/blender-sticker.svg" width="125" alt="3D scene mode">
+<!-- MAIN_FEATURE_END -->
+
 | No. | Judul | Durasi | Resolusi | Ukuran | Unduh video |
 |---|---|---|---|---|---|
 | 01 | Minecraft: Glowing-Eyed Encounters | 2:15 | 1920×1080 | 33.7 MiB | [1.mp4](https://github.com/FarlandGame/Animation-Portfolio/releases/download/main-collection/1.mp4) |

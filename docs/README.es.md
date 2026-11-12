@@ -2,6 +2,18 @@
 
 **Bardiya Alizadeh (Kabir) · Farland_game**
 
+<!-- ROBLOX_ENTRY_START -->
+### [Galería de Roblox Studio · 11 🎮🎬](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/es/roblox.md)
+
+[![Roblox Studio Showcase](https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/roblox-showcase.svg)](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/es/roblox.md)
+
+Mira los extractos y abre cada enlace para descargar el original completo.
+<!-- ROBLOX_ENTRY_END -->
+
+<!-- BLENDER_ENTRY_START -->
+<a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/es/main.md"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/blender-sticker.svg" width="92" alt="Blender / 3D animation"></a> [Blender · 3D 🎬](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/es/main.md) · [← Farland_game](https://github.com/FarlandGame#portfolio-directory)
+<!-- BLENDER_ENTRY_END -->
+
 [English](https://github.com/FarlandGame/Animation-Portfolio/blob/main/README.md) · [日本語](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.ja.md) · [فارسی](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.fa.md) · [Deutsch](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.de.md) · [Français](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.fr.md) · [Español](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.es.md) · [Português (Brasil)](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.pt-BR.md) · [Italiano](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.it.md) · [Nederlands](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.nl.md) · [Polski](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.pl.md) · [Українська](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.uk.md) · [Türkçe](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.tr.md) · [Русский](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.ru.md) · [简体中文](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.zh-CN.md) · [繁體中文](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.zh-TW.md) · [한국어](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.ko.md) · [हिन्दी](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.hi.md) · [Bahasa Indonesia](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.id.md)
 
 <!-- PLAYFUL_INTRO_START -->

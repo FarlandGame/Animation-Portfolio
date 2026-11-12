@@ -12,6 +12,18 @@
 
 Blender · 07/08: After Effects
 
+<!-- MAIN_FEATURE_START -->
+## Blender · 움직임으로 전하는 이야기 🎬✨
+
+![Blender 3D animation showcase](../../assets/blender-showcase.svg)
+
+캐릭터, Minecraft풍 세계, 조명과 움직임을 담은 3D 클립 8편입니다. 주요 도구는 Blender이며 07과 08에는 After Effects 편집도 포함됩니다. 04는 미완성입니다.
+
+> 렌더 대기열도 채팅에 참여했습니다. 🎬✨
+
+<img src="../../assets/blender-sticker.svg" width="125" alt="3D scene mode">
+<!-- MAIN_FEATURE_END -->
+
 | 번호 | 제목 | 재생 시간 | 해상도 | 크기 | 동영상 다운로드 |
 |---|---|---|---|---|---|
 | 01 | Minecraft: Glowing-Eyed Encounters | 2:15 | 1920×1080 | 33.7 MiB | [1.mp4](https://github.com/FarlandGame/Animation-Portfolio/releases/download/main-collection/1.mp4) |

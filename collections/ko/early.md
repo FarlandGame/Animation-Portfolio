@@ -8,6 +8,14 @@
 
 초기 작품도 학습 과정의 일부로 보존합니다. **각 영상 모음 안에서** 작은 번호부터 큰 번호 순으로 살펴보세요. 번호는 창작자가 제공한 것으로, 서로 다른 폴더 전체를 잇는 하나의 시간 순서를 뜻하지 않습니다. 최근 작품은 현재 포트폴리오가 향하는 방향을 보여 주고, 초기 테스트는 그 발전을 이해할 배경이 됩니다. 정지 이미지는 순서가 없는 갤러리입니다. 이미지 ID는 목록 참조 번호이며 날짜나 품질 순위가 아닙니다.
 
+<!-- EARLY_FEATURE_START -->
+## 초기 습작 세 편 🎞️
+
+<img src="../../assets/phone-era-sticker.svg" width="110" alt="Early frames">
+
+초기 연습 세 편이며, 별도의 휴대폰 제작 시기 아카이브는 독자적인 역사를 담습니다.
+<!-- EARLY_FEATURE_END -->
+
 | 번호 | 제목 | 재생 시간 | 해상도 | 크기 | 동영상 다운로드 |
 |---|---|---|---|---|---|
 | 01 | Abandoned Room: Third-Person Action Study | 0:22 | 1920×1080 | 7.3 MiB | [1.mkv](https://github.com/FarlandGame/Animation-Portfolio/releases/download/early-studies/1.mkv) |

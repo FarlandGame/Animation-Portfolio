@@ -8,6 +8,21 @@
 
 पुराने काम सीखने की प्रक्रिया के हिस्से के रूप में सुरक्षित रखे गए हैं। **हर वीडियो संग्रह के भीतर** छोटे क्रमांक से बड़े क्रमांक की ओर देखें; क्रमांक रचनाकार ने दिए हैं और वे अलग-अलग फ़ोल्डरों की एक साझा समयरेखा नहीं बनाते। नई प्रविष्टियाँ आज पोर्टफ़ोलियो की दिशा दिखाती हैं, जबकि पुराने प्रयोग इस विकास का संदर्भ देते हैं। स्थिर चित्रों की गैलरी बिना क्रम की है: चित्र ID केवल सूची के संदर्भ हैं, तारीख़ें या गुणवत्ता की रैंकिंग नहीं।
 
+<!-- ROBLOX_FEATURE_START -->
+## Roblox Studio शोकेस 🎮✨
+
+![Roblox Studio Showcase](../../assets/roblox-showcase.svg)
+
+Farland_game के ग्यारह वर्टिकल Roblox क्लिप: किरदार, बदलती दुनिया, रोशनी और मीम। Roblox Studio में काम की गई इस श्रृंखला में मेरी अपनी रचनाएँ और Roblox गेम से आए दृश्य शामिल हैं।
+
+> एक आम भी सिनेमाई एंट्री का हकदार है! 🥭🎬
+
+नीचे अंश देखें और हर लिंक से पूरा मूल वीडियो खोलें।
+
+<img src="../../assets/roblox-director-sticker.svg" width="125" alt="Director mode"> <img src="../../assets/roblox-mango-sticker.svg" width="125" alt="Mango side quest">
+
+<!-- ROBLOX_FEATURE_END -->
+
 | क्रमांक | शीर्षक | अवधि | रिज़ॉल्यूशन | आकार | वीडियो डाउनलोड करें |
 |---|---|---|---|---|---|
 | 01 | Roblox: Avatars in Changing Worlds | 0:27 | 1080×1920 | 27.2 MiB | [RobloxEdit1.mp4](https://github.com/FarlandGame/Animation-Portfolio/releases/download/roblox-collection/RobloxEdit1.mp4) |

@@ -8,6 +8,14 @@
 
 Önceki çalışmalar, öğrenme sürecinin bir parçası olarak korunmuştur. **Her video koleksiyonunun kendi içinde** küçük numaradan büyük numaraya doğru ilerleyin; numaralandırmayı yaratıcı sağlamıştır ve bu, farklı klasörler için tek bir ortak zaman çizelgesi oluşturmaz. En yeni çalışmalar portfolyonun bugünkü yönünü gösterirken eski denemeler bu gelişime bağlam kazandırır. Sabit görseller sırasız bir galeridir: görsel kimlikleri tarih veya kalite sıralaması değil, katalog referanslarıdır.
 
+<!-- EARLY_FEATURE_START -->
+## Üç erken çalışma 🎞️
+
+<img src="../../assets/phone-era-sticker.svg" width="110" alt="Early frames">
+
+Üç erken alıştırma; ayrı telefon dönemi arşivinin kendi hikâyesi var.
+<!-- EARLY_FEATURE_END -->
+
 | No. | Başlık | Süre | Çözünürlük | Boyut | Videoyu indir |
 |---|---|---|---|---|---|
 | 01 | Abandoned Room: Third-Person Action Study | 0:22 | 1920×1080 | 7.3 MiB | [1.mkv](https://github.com/FarlandGame/Animation-Portfolio/releases/download/early-studies/1.mkv) |

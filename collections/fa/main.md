@@ -12,6 +12,18 @@
 
 Blender · 07/08: After Effects
 
+<!-- MAIN_FEATURE_START -->
+## بلندر؛ روایت با تصویر متحرک 🎬✨
+
+![Blender 3D animation showcase](../../assets/blender-showcase.svg)
+
+هشت کلیپ از کارهای انیمیشن سه‌بعدی من؛ معرفی کاراکترها، دنیاهای ماینکرافتی، نورپردازی و حرکت. ابزار اصلی Blender است و کلیپ‌های ۰۷ و ۰۸ ادیت After Effects هم دارند. کلیپ ۰۴ هنوز نیمه‌تمام است.
+
+> صف رندر هم وارد چت شد! 🎬✨
+
+<img src="../../assets/blender-sticker.svg" width="125" alt="3D scene mode">
+<!-- MAIN_FEATURE_END -->
+
 | شماره | عنوان | مدت | وضوح | حجم | دانلود ویدئو |
 |---|---|---|---|---|---|
 | 01 | ماینکرافت: رویارویی چشم‌های درخشان | 2:15 | 1920×1080 | 33.7 MiB | [1.mp4](https://github.com/FarlandGame/Animation-Portfolio/releases/download/main-collection/1.mp4) |

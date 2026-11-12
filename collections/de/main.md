@@ -12,6 +12,18 @@ Die früheren Arbeiten bleiben als Teil des Lernprozesses erhalten. Die Videos l
 
 Blender · 07/08: After Effects
 
+<!-- MAIN_FEATURE_START -->
+## Blender · Geschichten in Bewegung 🎬✨
+
+![Blender 3D animation showcase](../../assets/blender-showcase.svg)
+
+Acht 3D-Clips mit Figuren, Minecraft-artigen Welten, Licht und Bewegung. Hauptwerkzeug: Blender; 07 und 08 zusätzlich mit After Effects. Clip 04 ist unvollendet.
+
+> Die Render-Warteschlange ist auch dabei. 🎬✨
+
+<img src="../../assets/blender-sticker.svg" width="125" alt="3D scene mode">
+<!-- MAIN_FEATURE_END -->
+
 | Nr. | Titel | Laufzeit | Auflösung | Größe | Video herunterladen |
 |---|---|---|---|---|---|
 | 01 | Minecraft: Glowing-Eyed Encounters | 2:15 | 1920×1080 | 33.7 MiB | [1.mp4](https://github.com/FarlandGame/Animation-Portfolio/releases/download/main-collection/1.mp4) |

@@ -8,6 +8,14 @@
 
 I primi lavori vengono conservati come parte del percorso di apprendimento. Esplora i video dai numeri più piccoli a quelli più grandi **all'interno di ciascuna raccolta video**; la numerazione è fornita dal creatore e non stabilisce un'unica cronologia tra le diverse cartelle. Le voci più recenti mostrano la direzione attuale del portfolio, mentre i vecchi esperimenti aiutano a comprendere questa evoluzione. Le immagini statiche costituiscono una galleria priva di ordine cronologico: gli identificativi sono riferimenti di catalogo, non date né classifiche di qualità.
 
+<!-- EARLY_FEATURE_START -->
+## Tre studi iniziali 🎞️
+
+<img src="../../assets/phone-era-sticker.svg" width="110" alt="Early frames">
+
+Tre primi esercizi; l’archivio separato dell’epoca mobile ha una storia propria.
+<!-- EARLY_FEATURE_END -->
+
 | N. | Titolo | Durata | Risoluzione | Dimensione | Scarica video |
 |---|---|---|---|---|---|
 | 01 | Abandoned Room: Third-Person Action Study | 0:22 | 1920×1080 | 7.3 MiB | [1.mkv](https://github.com/FarlandGame/Animation-Portfolio/releases/download/early-studies/1.mkv) |

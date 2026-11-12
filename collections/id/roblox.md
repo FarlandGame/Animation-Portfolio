@@ -8,6 +8,21 @@
 
 Karya-karya awal tetap disimpan sebagai bagian dari proses belajar. Telusuri dari nomor kecil ke nomor besar **di dalam setiap koleksi video**; penomoran diberikan oleh kreator dan tidak membentuk satu garis waktu yang berlaku untuk semua folder. Entri terbaru memperlihatkan arah portofolio saat ini, sedangkan percobaan lama memberi konteks bagi perkembangan tersebut. Gambar diam merupakan galeri tanpa urutan: ID gambar adalah acuan katalog, bukan tanggal atau peringkat kualitas.
 
+<!-- ROBLOX_FEATURE_START -->
+## Galeri Roblox Studio 🎮✨
+
+![Roblox Studio Showcase](../../assets/roblox-showcase.svg)
+
+Sebelas klip Roblox vertikal dari Farland_game: karakter, dunia, pencahayaan dan meme. Dikerjakan dengan Roblox Studio, memadukan kreasi sendiri dan adegan dari gim Roblox.
+
+> Mangga pun layak mendapat pembukaan sinematik. 🥭🎬
+
+Tonton cuplikan di bawah; tautan unduhan membuka video asli lengkap.
+
+<img src="../../assets/roblox-director-sticker.svg" width="125" alt="Director mode"> <img src="../../assets/roblox-mango-sticker.svg" width="125" alt="Mango side quest">
+
+<!-- ROBLOX_FEATURE_END -->
+
 | No. | Judul | Durasi | Resolusi | Ukuran | Unduh video |
 |---|---|---|---|---|---|
 | 01 | Roblox: Avatars in Changing Worlds | 0:27 | 1080×1920 | 27.2 MiB | [RobloxEdit1.mp4](https://github.com/FarlandGame/Animation-Portfolio/releases/download/roblox-collection/RobloxEdit1.mp4) |

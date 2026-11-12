@@ -16,3 +16,5 @@
 Characters, games, music, fonts, photographs, stock assets and third-party elements retain their respective rights and credits. Inclusion in this portfolio does not grant a general licence to redistribute or sell them. The archive makes no claim that all embedded elements were created from scratch.
 
 [Creator's full portfolio](https://github.com/FarlandGame)
+
+Roblox collection: supplied and worked on by Bardiya Alizadeh / Farland_game using **Roblox Studio**, as clarified by the creator. The collection combines his own creations with scenes originating in Roblox games; individual game assets are not claimed as independently authored from scratch. The showcase banner and two SVG stickers were prepared for this portfolio presentation.

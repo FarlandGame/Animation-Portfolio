@@ -8,6 +8,21 @@
 
 初期の作品も学びの過程として残しています。**各映像コレクション内で**小さい番号から大きい番号へ進むと、古い作品から新しい作品へとたどれます。番号は制作者が付けたもので、異なるフォルダー全体に共通する時系列を示すものではありません。新しい作品は現在の方向性を、以前の試作はそこに至る背景を伝えます。静止画は時系列順ではなく、画像 ID は目録用の識別子で、日付や品質の順位ではありません。
 
+<!-- ROBLOX_FEATURE_START -->
+## Roblox Studio ショーケース 🎮✨
+
+![Roblox Studio Showcase](../../assets/roblox-showcase.svg)
+
+Farland_gameによる縦型Robloxクリップ11本。キャラクターのポーズ、変化する世界、印象的な照明、遊び心あふれるミームを集めました。Roblox Studioで取り組んだ、自作とRobloxゲーム内の場面を組み合わせたコレクションです。
+
+> マンゴーだって映画のように登場したい！🥭🎬
+
+下の抜粋を見て、各リンクからオリジナルの全編を開いてください。
+
+<img src="../../assets/roblox-director-sticker.svg" width="125" alt="Director mode"> <img src="../../assets/roblox-mango-sticker.svg" width="125" alt="Mango side quest">
+
+<!-- ROBLOX_FEATURE_END -->
+
 | 番号 | タイトル | 再生時間 | 解像度 | サイズ | 動画をダウンロード |
 |---|---|---|---|---|---|
 | 01 | Roblox：移り変わる世界のアバター | 0:27 | 1080×1920 | 27.2 MiB | [RobloxEdit1.mp4](https://github.com/FarlandGame/Animation-Portfolio/releases/download/roblox-collection/RobloxEdit1.mp4) |

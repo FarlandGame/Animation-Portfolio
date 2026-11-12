@@ -12,6 +12,18 @@ The earlier pieces are retained as part of the learning process. Browse from sma
 
 Blender · 07/08: After Effects
 
+<!-- MAIN_FEATURE_START -->
+## Blender · stories in motion 🎬✨
+
+![Blender 3D animation showcase](../../assets/blender-showcase.svg)
+
+Eight clips from my 3D animation work: character introductions, Minecraft-style worlds, lighting and movement. Blender is the main tool; clips 07 and 08 also include After Effects editing. Clip 04 remains unfinished.
+
+> The render queue has entered the chat. 🎬✨
+
+<img src="../../assets/blender-sticker.svg" width="125" alt="3D scene mode">
+<!-- MAIN_FEATURE_END -->
+
 | No. | Title | Duration | Resolution | Size | Download video |
 |---|---|---|---|---|---|
 | 01 | Minecraft: Glowing-Eyed Encounters | 2:15 | 1920×1080 | 33.7 MiB | [1.mp4](https://github.com/FarlandGame/Animation-Portfolio/releases/download/main-collection/1.mp4) |

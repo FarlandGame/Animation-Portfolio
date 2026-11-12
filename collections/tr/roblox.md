@@ -8,6 +8,21 @@
 
 Önceki çalışmalar, öğrenme sürecinin bir parçası olarak korunmuştur. **Her video koleksiyonunun kendi içinde** küçük numaradan büyük numaraya doğru ilerleyin; numaralandırmayı yaratıcı sağlamıştır ve bu, farklı klasörler için tek bir ortak zaman çizelgesi oluşturmaz. En yeni çalışmalar portfolyonun bugünkü yönünü gösterirken eski denemeler bu gelişime bağlam kazandırır. Sabit görseller sırasız bir galeridir: görsel kimlikleri tarih veya kalite sıralaması değil, katalog referanslarıdır.
 
+<!-- ROBLOX_FEATURE_START -->
+## Roblox Studio Vitrini 🎮✨
+
+![Roblox Studio Showcase](../../assets/roblox-showcase.svg)
+
+Farland_game’den on bir dikey Roblox klibi: karakterler, dünyalar, ışık ve memler. Roblox Studio ile çalışılan koleksiyon, kendi üretimlerimle Roblox oyunlarından sahneleri birleştiriyor.
+
+> Bir mango bile sinematik bir girişi hak eder. 🥭🎬
+
+Kesitleri izleyin; tam orijinaller için indirme bağlantılarını açın.
+
+<img src="../../assets/roblox-director-sticker.svg" width="125" alt="Director mode"> <img src="../../assets/roblox-mango-sticker.svg" width="125" alt="Mango side quest">
+
+<!-- ROBLOX_FEATURE_END -->
+
 | No. | Başlık | Süre | Çözünürlük | Boyut | Videoyu indir |
 |---|---|---|---|---|---|
 | 01 | Roblox: Avatars in Changing Worlds | 0:27 | 1080×1920 | 27.2 MiB | [RobloxEdit1.mp4](https://github.com/FarlandGame/Animation-Portfolio/releases/download/roblox-collection/RobloxEdit1.mp4) |

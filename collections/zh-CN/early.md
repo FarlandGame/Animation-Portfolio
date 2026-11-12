@@ -8,6 +8,14 @@
 
 早期作品作为学习过程的一部分予以保留。请在**每个视频合集内部**按编号从小到大浏览；编号由创作者提供，并不代表不同文件夹之间存在一条统一的时间线。较新的作品展示作品集目前的发展方向，而早期测试提供了理解这些进步的背景。静态图像是无序画廊：图像 ID 仅为目录索引，并非日期或质量排名。
 
+<!-- EARLY_FEATURE_START -->
+## 三段早期习作 🎞️
+
+<img src="../../assets/phone-era-sticker.svg" width="110" alt="Early frames">
+
+三段早期练习；另设的手机制作时期档案有其独立历史。
+<!-- EARLY_FEATURE_END -->
+
 | 编号 | 标题 | 时长 | 分辨率 | 大小 | 下载视频 |
 |---|---|---|---|---|---|
 | 01 | Abandoned Room: Third-Person Action Study | 0:22 | 1920×1080 | 7.3 MiB | [1.mkv](https://github.com/FarlandGame/Animation-Portfolio/releases/download/early-studies/1.mkv) |

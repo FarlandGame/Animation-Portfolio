@@ -8,6 +8,14 @@
 
 Karya-karya awal tetap disimpan sebagai bagian dari proses belajar. Telusuri dari nomor kecil ke nomor besar **di dalam setiap koleksi video**; penomoran diberikan oleh kreator dan tidak membentuk satu garis waktu yang berlaku untuk semua folder. Entri terbaru memperlihatkan arah portofolio saat ini, sedangkan percobaan lama memberi konteks bagi perkembangan tersebut. Gambar diam merupakan galeri tanpa urutan: ID gambar adalah acuan katalog, bukan tanggal atau peringkat kualitas.
 
+<!-- EARLY_FEATURE_START -->
+## Tiga studi awal 🎞️
+
+<img src="../../assets/phone-era-sticker.svg" width="110" alt="Early frames">
+
+Tiga latihan awal; arsip masa ponsel yang terpisah memiliki kisahnya sendiri.
+<!-- EARLY_FEATURE_END -->
+
 | No. | Judul | Durasi | Resolusi | Ukuran | Unduh video |
 |---|---|---|---|---|---|
 | 01 | Abandoned Room: Third-Person Action Study | 0:22 | 1920×1080 | 7.3 MiB | [1.mkv](https://github.com/FarlandGame/Animation-Portfolio/releases/download/early-studies/1.mkv) |

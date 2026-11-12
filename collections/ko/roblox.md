@@ -8,6 +8,21 @@
 
 초기 작품도 학습 과정의 일부로 보존합니다. **각 영상 모음 안에서** 작은 번호부터 큰 번호 순으로 살펴보세요. 번호는 창작자가 제공한 것으로, 서로 다른 폴더 전체를 잇는 하나의 시간 순서를 뜻하지 않습니다. 최근 작품은 현재 포트폴리오가 향하는 방향을 보여 주고, 초기 테스트는 그 발전을 이해할 배경이 됩니다. 정지 이미지는 순서가 없는 갤러리입니다. 이미지 ID는 목록 참조 번호이며 날짜나 품질 순위가 아닙니다.
 
+<!-- ROBLOX_FEATURE_START -->
+## Roblox Studio 쇼케이스 🎮✨
+
+![Roblox Studio Showcase](../../assets/roblox-showcase.svg)
+
+Farland_game의 세로형 Roblox 클립 11편입니다. 캐릭터, 변화하는 세계, 조명과 밈을 담았습니다. Roblox Studio로 작업했으며 직접 만든 장면과 Roblox 게임에서 가져온 장면이 함께 있습니다.
+
+> 망고도 영화 같은 등장을 할 자격이 있죠! 🥭🎬
+
+아래 미리보기를 보고 각 링크에서 전체 원본을 확인하세요.
+
+<img src="../../assets/roblox-director-sticker.svg" width="125" alt="Director mode"> <img src="../../assets/roblox-mango-sticker.svg" width="125" alt="Mango side quest">
+
+<!-- ROBLOX_FEATURE_END -->
+
 | 번호 | 제목 | 재생 시간 | 해상도 | 크기 | 동영상 다운로드 |
 |---|---|---|---|---|---|
 | 01 | Roblox: Avatars in Changing Worlds | 0:27 | 1080×1920 | 27.2 MiB | [RobloxEdit1.mp4](https://github.com/FarlandGame/Animation-Portfolio/releases/download/roblox-collection/RobloxEdit1.mp4) |

@@ -8,6 +8,21 @@
 
 早期作品作為學習過程的一部分予以保留。請在**每個影片合集內部**按編號由小到大瀏覽；編號由創作者提供，並不代表不同資料夾之間存在一條統一的時間線。較新的作品展示作品集目前的發展方向，而早期測試提供了理解這些進步的背景。靜態圖像是無序畫廊：圖像 ID 僅為目錄索引，並非日期或品質排名。
 
+<!-- ROBLOX_FEATURE_START -->
+## Roblox Studio 作品集 🎮✨
+
+![Roblox Studio Showcase](../../assets/roblox-showcase.svg)
+
+Farland_game 的十一段直式 Roblox 作品：角色姿態、變化的世界、燈光與趣味迷因。這組作品使用 Roblox Studio 加工，結合個人創作與來自 Roblox 遊戲的場景。
+
+> 連芒果也值得一次電影式登場！🥭🎬
+
+先看下方片段，再透過各下載連結觀看完整原版。
+
+<img src="../../assets/roblox-director-sticker.svg" width="125" alt="Director mode"> <img src="../../assets/roblox-mango-sticker.svg" width="125" alt="Mango side quest">
+
+<!-- ROBLOX_FEATURE_END -->
+
 | 編號 | 標題 | 片長 | 解析度 | 大小 | 下載影片 |
 |---|---|---|---|---|---|
 | 01 | Roblox: Avatars in Changing Worlds | 0:27 | 1080×1920 | 27.2 MiB | [RobloxEdit1.mp4](https://github.com/FarlandGame/Animation-Portfolio/releases/download/roblox-collection/RobloxEdit1.mp4) |

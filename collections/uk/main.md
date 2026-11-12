@@ -12,6 +12,18 @@
 
 Blender · 07/08: After Effects
 
+<!-- MAIN_FEATURE_START -->
+## Blender · Історії в русі 🎬✨
+
+![Blender 3D animation showcase](../../assets/blender-showcase.svg)
+
+Вісім 3D-кліпів: персонажі, світи в стилі Minecraft, світло та рух. Основний інструмент — Blender; 07 і 08 також містять After Effects. Кліп 04 незавершений.
+
+> Черга рендерингу теж долучилася до чату. 🎬✨
+
+<img src="../../assets/blender-sticker.svg" width="125" alt="3D scene mode">
+<!-- MAIN_FEATURE_END -->
+
 | № | Назва | Тривалість | Роздільна здатність | Розмір | Завантажити відео |
 |---|---|---|---|---|---|
 | 01 | Minecraft: Glowing-Eyed Encounters | 2:15 | 1920×1080 | 33.7 MiB | [1.mp4](https://github.com/FarlandGame/Animation-Portfolio/releases/download/main-collection/1.mp4) |

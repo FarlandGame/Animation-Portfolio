@@ -8,6 +8,21 @@
 
 Las primeras piezas se conservan como parte del proceso de aprendizaje. Recorre los vídeos de menor a mayor número **dentro de cada colección de vídeos**; la numeración procede del creador y no establece una única cronología entre las distintas carpetas. Las entradas más recientes muestran la dirección actual del portfolio, mientras que las pruebas antiguas ayudan a entender esa evolución. Las imágenes fijas forman una galería sin orden cronológico: sus identificadores son referencias de catálogo, no fechas ni clasificaciones de calidad.
 
+<!-- ROBLOX_FEATURE_START -->
+## Galería de Roblox Studio 🎮✨
+
+![Roblox Studio Showcase](../../assets/roblox-showcase.svg)
+
+Once clips verticales de Roblox de Farland_game: personajes, mundos, iluminación y memes. Trabajados con Roblox Studio, combinan creaciones propias y escenas procedentes de juegos de Roblox.
+
+> Hasta un mango merece una entrada de cine. 🥭🎬
+
+Mira los extractos y abre cada enlace para descargar el original completo.
+
+<img src="../../assets/roblox-director-sticker.svg" width="125" alt="Director mode"> <img src="../../assets/roblox-mango-sticker.svg" width="125" alt="Mango side quest">
+
+<!-- ROBLOX_FEATURE_END -->
+
 | N.º | Título | Duración | Resolución | Tamaño | Descargar vídeo |
 |---|---|---|---|---|---|
 | 01 | Roblox: Avatars in Changing Worlds | 0:27 | 1080×1920 | 27.2 MiB | [RobloxEdit1.mp4](https://github.com/FarlandGame/Animation-Portfolio/releases/download/roblox-collection/RobloxEdit1.mp4) |

@@ -12,6 +12,18 @@
 
 Blender · 07/08: After Effects
 
+<!-- MAIN_FEATURE_START -->
+## Blender · गति में कहानियाँ 🎬✨
+
+![Blender 3D animation showcase](../../assets/blender-showcase.svg)
+
+किरदारों, Minecraft जैसी दुनिया, रोशनी और गति के आठ 3D क्लिप। मुख्य टूल Blender है; 07 और 08 में After Effects संपादन भी है। क्लिप 04 अधूरा है।
+
+> रेंडर कतार भी चैट में आ गई। 🎬✨
+
+<img src="../../assets/blender-sticker.svg" width="125" alt="3D scene mode">
+<!-- MAIN_FEATURE_END -->
+
 | क्रमांक | शीर्षक | अवधि | रिज़ॉल्यूशन | आकार | वीडियो डाउनलोड करें |
 |---|---|---|---|---|---|
 | 01 | Minecraft: Glowing-Eyed Encounters | 2:15 | 1920×1080 | 33.7 MiB | [1.mp4](https://github.com/FarlandGame/Animation-Portfolio/releases/download/main-collection/1.mp4) |

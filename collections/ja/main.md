@@ -12,6 +12,18 @@
 
 Blender · 07/08: After Effects
 
+<!-- MAIN_FEATURE_START -->
+## Blender · 動きで語る物語 🎬✨
+
+![Blender 3D animation showcase](../../assets/blender-showcase.svg)
+
+3Dアニメーション作品から8本。キャラクター紹介、Minecraft風の世界、照明、動きを集めました。主なツールはBlenderで、07と08にはAfter Effectsでの編集も加わっています。04は未完成です。
+
+> レンダー待ちの列もチャットに参加しました。🎬✨
+
+<img src="../../assets/blender-sticker.svg" width="125" alt="3D scene mode">
+<!-- MAIN_FEATURE_END -->
+
 | 番号 | タイトル | 再生時間 | 解像度 | サイズ | 動画をダウンロード |
 |---|---|---|---|---|---|
 | 01 | Minecraft：光る目のキャラクターたち | 2:15 | 1920×1080 | 33.7 MiB | [1.mp4](https://github.com/FarlandGame/Animation-Portfolio/releases/download/main-collection/1.mp4) |
