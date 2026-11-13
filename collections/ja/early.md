@@ -11,7 +11,7 @@
 <!-- EARLY_FEATURE_START -->
 ## 初期の習作3本 🎞️
 
-<img src="../../assets/phone-era-sticker.svg" width="110" alt="Early frames">
+<img src="../../assets/phone-era-sticker.ja.svg" width="110" alt="Early frames">
 
 後の作品へとつながる、小さな実験の記録です。このコレクションは3本。別の携帯制作時代アーカイブには独自の歩みがあります。
 <!-- EARLY_FEATURE_END -->

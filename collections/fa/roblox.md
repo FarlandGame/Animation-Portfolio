@@ -11,7 +11,7 @@
 <!-- ROBLOX_FEATURE_START -->
 ## ویترین Roblox Studio 🎮✨
 
-![Roblox Studio Showcase](../../assets/roblox-showcase.svg)
+![Roblox Studio Showcase](../../assets/roblox-showcase.fa.svg)
 
 یازده کلیپ عمودی روبلاکسی از Farland_game؛ ژست کاراکترها، جهان‌های متغیر، نورهای نمایشی و چند لحظهٔ میمیِ حسابی بازیگوشانه. روی این مجموعه با Roblox Studio کار کرده‌ام؛ ترکیبی از ساخته‌های خودم و صحنه‌هایی که ریشه در بازی‌های روبلاکس دارند.
 
@@ -19,7 +19,7 @@
 
 گزیده‌ها را پایین ببین و برای تماشای نسخهٔ کامل، لینک دانلود هر ویدئو را باز کن.
 
-<img src="../../assets/roblox-director-sticker.svg" width="125" alt="Director mode"> <img src="../../assets/roblox-mango-sticker.svg" width="125" alt="Mango side quest">
+<img src="../../assets/roblox-director-sticker.fa.svg" width="125" alt="Director mode"> <img src="../../assets/roblox-mango-sticker.fa.svg" width="125" alt="Mango side quest">
 
 <!-- ROBLOX_FEATURE_END -->
 

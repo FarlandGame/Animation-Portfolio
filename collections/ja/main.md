@@ -15,13 +15,13 @@ Blender · 07/08: After Effects
 <!-- MAIN_FEATURE_START -->
 ## Blender · 動きで語る物語 🎬✨
 
-![Blender 3D animation showcase](../../assets/blender-showcase.svg)
+![Blender 3D animation showcase](../../assets/blender-showcase.ja.svg)
 
 3Dアニメーション作品から8本。キャラクター紹介、Minecraft風の世界、照明、動きを集めました。主なツールはBlenderで、07と08にはAfter Effectsでの編集も加わっています。04は未完成です。
 
 > レンダー待ちの列もチャットに参加しました。🎬✨
 
-<img src="../../assets/blender-sticker.svg" width="125" alt="3D scene mode">
+<img src="../../assets/blender-sticker.ja.svg" width="125" alt="3D scene mode">
 <!-- MAIN_FEATURE_END -->
 
 | 番号 | タイトル | 再生時間 | 解像度 | サイズ | 動画をダウンロード |

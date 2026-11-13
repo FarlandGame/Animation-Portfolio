@@ -11,7 +11,7 @@
 <!-- ROBLOX_FEATURE_START -->
 ## Roblox Studio ショーケース 🎮✨
 
-![Roblox Studio Showcase](../../assets/roblox-showcase.svg)
+![Roblox Studio Showcase](../../assets/roblox-showcase.ja.svg)
 
 Farland_gameによる縦型Robloxクリップ11本。キャラクターのポーズ、変化する世界、印象的な照明、遊び心あふれるミームを集めました。Roblox Studioで取り組んだ、自作とRobloxゲーム内の場面を組み合わせたコレクションです。
 
@@ -19,7 +19,7 @@ Farland_gameによる縦型Robloxクリップ11本。キャラクターのポー
 
 下の抜粋を見て、各リンクからオリジナルの全編を開いてください。
 
-<img src="../../assets/roblox-director-sticker.svg" width="125" alt="Director mode"> <img src="../../assets/roblox-mango-sticker.svg" width="125" alt="Mango side quest">
+<img src="../../assets/roblox-director-sticker.ja.svg" width="125" alt="Director mode"> <img src="../../assets/roblox-mango-sticker.ja.svg" width="125" alt="Mango side quest">
 
 <!-- ROBLOX_FEATURE_END -->
 

@@ -11,7 +11,7 @@
 <!-- EARLY_FEATURE_START -->
 ## سه تجربهٔ اولیه 🎞️
 
-<img src="../../assets/phone-era-sticker.svg" width="110" alt="Early frames">
+<img src="../../assets/phone-era-sticker.fa.svg" width="110" alt="Early frames">
 
 این تمرین‌های کوچک، تجربه‌های پیش از کارهای بعدی را نگه داشته‌اند. این مجموعه سه کلیپ دارد؛ آرشیو جداگانهٔ دوران گوشی، مسیر و تاریخچهٔ خودش را دارد.
 <!-- EARLY_FEATURE_END -->

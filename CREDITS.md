@@ -20,3 +20,5 @@ Characters, games, music, fonts, photographs, stock assets and third-party eleme
 Roblox collection: supplied and worked on by Bardiya Alizadeh / Farland_game using **Roblox Studio**, as clarified by the creator. The collection combines his own creations with scenes originating in Roblox games; individual game assets are not claimed as independently authored from scratch. The showcase banner and two SVG stickers were prepared for this portfolio presentation.
 
 Section covers: two THE APEX poster images supplied by the creator are used as presentation covers. The 2D cover in assets/section-covers/2d-sticknodes-cover.png is an AI-assisted graphic edit based on the actual frame from phone-era animation06; it is a designed cover, not an unmodified video frame. Original films and frame previews remain unchanged.
+
+Persian and Japanese versions of the 2D presentation cover localize its decorative text using the built-in image editor; original films remain unchanged. Interface cards and stickers have native SVG language variants.

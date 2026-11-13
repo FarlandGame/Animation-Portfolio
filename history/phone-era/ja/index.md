@@ -1,10 +1,10 @@
 # スマートフォン創作初期のアーカイブ 📱🎬
 
 <!-- PHONE_ARCHIVE_STICKER_START -->
-<img src="../../../assets/phone-era-sticker.svg" width="110" alt="Early frames learning log"> · [Farland_game · Portfolio ↗](https://github.com/FarlandGame)
+<img src="../../../assets/phone-era-sticker.ja.svg" width="110" alt="Early frames learning log"> · [Farland_game · Portfolio ↗](https://github.com/FarlandGame)
 <!-- PHONE_ARCHIVE_STICKER_END -->
 
-![2D Animation · Stick Nodes · edited portfolio cover](https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/section-covers/2d-sticknodes-cover.png)
+![2D Animation · Stick Nodes · edited portfolio cover](https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/section-covers/2d-sticknodes-cover.ja.png)
 
 **Farland_gameの原点となった、学生時代の試行錯誤。**
 
