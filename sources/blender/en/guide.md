@@ -20,4 +20,4 @@ Keep the original credit: **Bardiya Alizadeh (Kabir / Farland_game)**. Eligible 
 
 [All source entries](https://github.com/FarlandGame/Animation-Portfolio/blob/main/sources/blender/en/index.md)
 
-Downloads use ZIP or RAR. For a RAR download, use an extractor with RAR support; extract the whole archive and keep the shared `textures` folder beside the project. No image resolution or pixels were reduced during this lossless packaging.
+Downloads use ZIP or RAR. Extract the entire package and keep the shared `textures` folder beside the project. B17 is split into three RAR volumes: download all three to the same folder and extract part1. A RAR-capable extractor is required. Image resolution and pixels were not reduced for this lossless packaging.

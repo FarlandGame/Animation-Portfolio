@@ -1396,9 +1396,8 @@
       },
       "original_sha256": "a716cd7c9ed7483a310a92a6c7113b24f31ec90fe944fa429767abd8e7481af8",
       "availability": "prepared-source-download",
-      "download_url": "https://github.com/FarlandGame/Animation-Portfolio/releases/download/blender-source-archive-2026-11/B17-blender-source-snapshot.rar",
-      "bytes": 275774760,
-      "sha256": "7ce8855616d887119c04e120697c6fa66dd96b91b38ad5bb10991ee5ef8f9fba",
+      "download_url": "https://github.com/FarlandGame/Animation-Portfolio/releases/download/blender-source-archive-2026-11/B17-blender-source-snapshot.part1.rar",
+      "bytes": 275762962,
       "versions": [
         {
           "role": "primary",
@@ -1464,7 +1463,33 @@
         "shared_texture_files": 68,
         "images_externalized_without_pixel_changes": 72,
         "texture_storage": "Available textures are inside the blend or in the shared textures folder; extract the entire ZIP."
-      }
+      },
+      "download_files": [
+        {
+          "id": "B17-part1",
+          "package_id": "B17",
+          "download_filename": "B17-blender-source-snapshot.part1.rar",
+          "bytes": 104857600,
+          "sha256": "e6060bdb5592d2ff7cf276bc44ba98a5453dc636948cdacc0e4e6eb376ed4932",
+          "download_url": "https://github.com/FarlandGame/Animation-Portfolio/releases/download/blender-source-archive-2026-11/B17-blender-source-snapshot.part1.rar"
+        },
+        {
+          "id": "B17-part2",
+          "package_id": "B17",
+          "download_filename": "B17-blender-source-snapshot.part2.rar",
+          "bytes": 104857600,
+          "sha256": "53b08abbb30fc42e1be58310b618f3c7e9f7e2d95d17f21f321b3ae718739890",
+          "download_url": "https://github.com/FarlandGame/Animation-Portfolio/releases/download/blender-source-archive-2026-11/B17-blender-source-snapshot.part2.rar"
+        },
+        {
+          "id": "B17-part3",
+          "package_id": "B17",
+          "download_filename": "B17-blender-source-snapshot.part3.rar",
+          "bytes": 66047762,
+          "sha256": "0b8a6c875cd0de09cbef6ecf8f5eb24ea6ff17c5bcb6c42511c3333cadb41789",
+          "download_url": "https://github.com/FarlandGame/Animation-Portfolio/releases/download/blender-source-archive-2026-11/B17-blender-source-snapshot.part3.rar"
+        }
+      ]
     },
     {
       "id": "B18",

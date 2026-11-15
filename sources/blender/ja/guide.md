@@ -20,4 +20,4 @@
 
 [アーカイブ一覧](https://github.com/FarlandGame/Animation-Portfolio/blob/main/sources/blender/ja/index.md)
 
-配布形式はZIPまたはRARです。RARは対応する展開ソフトで開き、全体を展開して共有の`textures`フォルダーをプロジェクトと一緒に残してください。この可逆圧縮では画像の解像度や画素を削減していません。
+配布形式はZIPまたはRARです。全体を展開し、共有の`textures`フォルダーをプロジェクトと一緒に残してください。B17は3つのRAR分割ファイルです。すべて同じフォルダーへダウンロードしてpart1から展開します。RAR対応の展開ソフトが必要です。この可逆圧縮では画像の解像度や画素を削減していません。
