@@ -1,5 +1,11 @@
 # رزومهٔ انیمیشن و آثار تصویری
 
+<!-- BLENDER_SOURCES_START -->
+
+### [آرشیو فایل‌های بلندر · ۲۸ فایل معرفی‌شده / ۲۵ بستهٔ دانلود 🎬📂](https://github.com/FarlandGame/Animation-Portfolio/blob/main/sources/blender/fa/index.md)
+
+<!-- BLENDER_SOURCES_END -->
+
 **بردیا علیزاده، ملقب به کبیر · Farland_game**
 
 <!-- ROBLOX_ENTRY_START -->

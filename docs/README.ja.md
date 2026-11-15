@@ -1,5 +1,11 @@
 # アニメーションとビジュアルのポートフォリオ
 
+<!-- BLENDER_SOURCES_START -->
+
+### [Blender制作アーカイブ・28項目／25件の制作ファイル配布 🎬📂](https://github.com/FarlandGame/Animation-Portfolio/blob/main/sources/blender/ja/index.md)
+
+<!-- BLENDER_SOURCES_END -->
+
 **Bardiya Alizadeh（Kabir）· Farland_game**
 
 <!-- ROBLOX_ENTRY_START -->

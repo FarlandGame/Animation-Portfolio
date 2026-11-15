@@ -1,5 +1,11 @@
 # Main animation sequence
 
+<!-- BLENDER_SOURCES_START -->
+
+### [Blender source archive · 28 file entries / 25 source packages 🎬📂](https://github.com/FarlandGame/Animation-Portfolio/blob/main/sources/blender/en/index.md)
+
+<!-- BLENDER_SOURCES_END -->
+
 **Bardiya Alizadeh (Kabir) · Farland_game**
 
 [English](https://github.com/FarlandGame/Animation-Portfolio/blob/main/README.md) · [日本語](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.ja.md) · [فارسی](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.fa.md) · [Deutsch](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.de.md) · [Français](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.fr.md) · [Español](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.es.md) · [Português (Brasil)](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.pt-BR.md) · [Italiano](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.it.md) · [Nederlands](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.nl.md) · [Polski](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.pl.md) · [Українська](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.uk.md) · [Türkçe](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.tr.md) · [Русский](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.ru.md) · [简体中文](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.zh-CN.md) · [繁體中文](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.zh-TW.md) · [한국어](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.ko.md) · [हिन्दी](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.hi.md) · [Bahasa Indonesia](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.id.md)
@@ -116,6 +122,8 @@ https://github.com/user-attachments/assets/97663eaa-4276-454f-8f44-389209347350
 [Download original](https://github.com/FarlandGame/Animation-Portfolio/releases/download/main-collection/5.mp4) · Original file: `5.mp4`
 
 SHA-256: `012f5e8719de60966d67140879e4f5ebbcb896758f03d1efc0945aa4f0ae5003`
+
+<a id="main-06"></a>
 
 ## 06 · Minecraft Avatar Movement Showcase
 

@@ -1,5 +1,11 @@
 # एनीमेशन और दृश्य पोर्टफ़ोलियो
 
+<!-- BLENDER_SOURCES_START -->
+
+### [Blender source archive · 28 file entries / 25 source packages 🎬📂](https://github.com/FarlandGame/Animation-Portfolio/blob/main/sources/blender/en/index.md)
+
+<!-- BLENDER_SOURCES_END -->
+
 **Bardiya Alizadeh (Kabir) · Farland_game**
 
 <!-- ROBLOX_ENTRY_START -->
