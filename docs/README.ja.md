@@ -1,5 +1,8 @@
 # アニメーションとビジュアルのポートフォリオ
 
+<!-- FOUR_LANGUAGE_ENTRY -->
+[English](https://github.com/FarlandGame/Animation-Portfolio/blob/main/README.md) · [فارسی](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.fa.md) · [日本語](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.ja.md) · [Русский](https://github.com/FarlandGame/Animation-Portfolio/blob/main/docs/README.ru.md)
+
 <!-- BLENDER_SOURCES_START -->
 
 ### [Blender制作アーカイブ・28項目／25件の制作ファイル配布 🎬📂](https://github.com/FarlandGame/Animation-Portfolio/blob/main/sources/blender/ja/index.md)

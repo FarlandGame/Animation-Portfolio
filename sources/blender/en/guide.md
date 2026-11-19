@@ -1,6 +1,6 @@
 # How to open, continue and give credit
 
-[English](https://github.com/FarlandGame/Animation-Portfolio/blob/main/sources/blender/en/guide.md) · [فارسی](https://github.com/FarlandGame/Animation-Portfolio/blob/main/sources/blender/fa/guide.md) · [日本語](https://github.com/FarlandGame/Animation-Portfolio/blob/main/sources/blender/ja/guide.md)
+[English](https://github.com/FarlandGame/Animation-Portfolio/blob/main/sources/blender/en/guide.md) · [فارسی](https://github.com/FarlandGame/Animation-Portfolio/blob/main/sources/blender/fa/guide.md) · [日本語](https://github.com/FarlandGame/Animation-Portfolio/blob/main/sources/blender/ja/guide.md) · [Русский](https://github.com/FarlandGame/Animation-Portfolio/blob/main/sources/blender/ru/guide.md)
 
 These are separately prepared copies. Original source files on the creator’s computer were not changed. Available file textures were packaged; unfinished work, missing resources and removed third-party motions are explicitly retained as limitations.
 

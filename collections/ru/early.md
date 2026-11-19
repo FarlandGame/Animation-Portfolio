@@ -11,7 +11,7 @@
 <!-- EARLY_FEATURE_START -->
 ## Три ранних этюда 🎞️
 
-<img src="../../assets/phone-era-sticker.svg" width="110" alt="Early frames">
+<img src="../../assets/ru/phone-era-sticker.svg" width="110" alt="Early frames">
 
 Три ранних упражнения; отдельный архив телефонного периода рассказывает свою историю.
 <!-- EARLY_FEATURE_END -->

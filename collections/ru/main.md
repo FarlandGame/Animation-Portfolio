@@ -15,13 +15,13 @@ Blender · 07/08: After Effects
 <!-- MAIN_FEATURE_START -->
 ## Blender · Истории в движении 🎬✨
 
-![Blender 3D animation showcase](../../assets/blender-showcase.svg)
+![Blender 3D animation showcase](../../assets/ru/blender-showcase.svg)
 
 Восемь 3D-клипов: персонажи, миры в стиле Minecraft, свет и движение. Основной инструмент — Blender; 07 и 08 также используют After Effects. Клип 04 не завершён.
 
 > Очередь рендера тоже вошла в чат. 🎬✨
 
-<img src="../../assets/blender-sticker.svg" width="125" alt="3D scene mode">
+<img src="../../assets/ru/blender-sticker.svg" width="125" alt="3D scene mode">
 <!-- MAIN_FEATURE_END -->
 
 | № | Название | Длительность | Разрешение | Размер | Скачать видео |

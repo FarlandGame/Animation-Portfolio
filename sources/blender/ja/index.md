@@ -1,5 +1,5 @@
 # .blendファイルの舞台裏 🎬
-[English](https://github.com/FarlandGame/Animation-Portfolio/blob/main/sources/blender/en/index.md) · [فارسی](https://github.com/FarlandGame/Animation-Portfolio/blob/main/sources/blender/fa/index.md) · [日本語](https://github.com/FarlandGame/Animation-Portfolio/blob/main/sources/blender/ja/index.md)
+[English](https://github.com/FarlandGame/Animation-Portfolio/blob/main/sources/blender/en/index.md) · [فارسی](https://github.com/FarlandGame/Animation-Portfolio/blob/main/sources/blender/fa/index.md) · [日本語](https://github.com/FarlandGame/Animation-Portfolio/blob/main/sources/blender/ja/index.md) · [Русский](https://github.com/FarlandGame/Animation-Portfolio/blob/main/sources/blender/ru/index.md)
 
 **Bardiya Alizadeh（Kabir / Farland_game）**による、以前の実験、未完成のシーン、発展途中のアイデアのアーカイブ。現在は新作を優先していますが、いくつかは将来完成させたいと思っています。対象となるオリジナル部分は、作者名を残した非営利の学習・改変・制作継続に利用できます。
 

@@ -6,12 +6,14 @@
       "titles": {
         "en": "Birthday cake artwork experiment",
         "fa": "آزمایش تصویر تولد با کاراکترهای ماینکرفتی",
-        "ja": "誕生日ケーキ用イラストの試作"
+        "ja": "誕生日ケーキ用イラストの試作",
+        "ru": "Проба иллюстрации для торта"
       },
       "stories": {
         "en": "Bardiya created this image using his and Armiya’s Minecraft characters for a birthday cake print. He tried an add-on for the artwork, but did not like the result and the image was not used.",
         "fa": "بردیا این تصویر را با کاراکتر ماینکرفتی خودش و ارمیا برای چاپ روی کیک تولد طراحی کرد. برای ساخت آن افزونه‌ای را امتحان کرد، اما نتیجه را دوست نداشت و تصویر استفاده نشد.",
-        "ja": "Bardiyaは、自分とArmiyaのMinecraftキャラクターを使い、誕生日ケーキに印刷するための画像を制作した。アドオンを試したが、仕上がりが気に入らず、この画像は使用しなかった。"
+        "ja": "Bardiyaは、自分とArmiyaのMinecraftキャラクターを使い、誕生日ケーキに印刷するための画像を制作した。アドオンを試したが、仕上がりが気に入らず、この画像は使用しなかった。",
+        "ru": "Бардия подготовил изображение своих и Армии Minecraft-персонажей для печати на праздничном торте. Он испытал аддон, но результат ему не понравился, и изображение не использовали."
       },
       "supplied_relative_filename": "birsday/Untitled.blend",
       "dates": {
@@ -93,12 +95,14 @@
       "titles": {
         "en": "Character studies for a planned storybook",
         "fa": "مطالعهٔ کاراکتر برای یک کتاب داستان",
-        "ja": "物語の本に向けたキャラクター研究"
+        "ja": "物語の本に向けたキャラクター研究",
+        "ru": "Персонаж для задуманной книги"
       },
       "stories": {
         "en": "Bardiya created views of a character from several angles for a storybook. He intends to continue the illustrations as his drawing skills develop.",
         "fa": "بردیا نماهای مختلف یک کاراکتر را برای یک کتاب داستان ساخت و قصد دارد با پیشرفت در طراحی، تصویرسازی آن را ادامه بدهد.",
-        "ja": "Bardiyaは、物語の本に使うため、キャラクターを複数の角度から制作した。デッサンや作画の技術を伸ばしながら、挿絵の制作を続けたいと考えている。"
+        "ja": "Bardiyaは、物語の本に使うため、キャラクターを複数の角度から制作した。デッサンや作画の技術を伸ばしながら、挿絵の制作を続けたいと考えている。",
+        "ru": "Бардия сделал виды персонажа с разных сторон для будущей книги с историей. Он намерен продолжить иллюстрации по мере развития навыков рисования."
       },
       "supplied_relative_filename": "book/for book.blend",
       "dates": {
@@ -180,12 +184,14 @@
       "titles": {
         "en": "Music-driven animation with THE APEX and Gang Group",
         "fa": "انیمیشن موسیقی‌محور با THE APEX و Gang Group",
-        "ja": "THE APEXとGang Groupが登場する音楽アニメーション"
+        "ja": "THE APEXとGang Groupが登場する音楽アニメーション",
+        "ru": "Музыкальная анимация THE APEX и Gang Group"
       },
       "stories": {
         "en": "One of Bardiya’s more recent animations, combining music with appearances by the THE APEX team and Gang Group.",
         "fa": "یکی از انیمیشن‌های جدیدتر بردیا، همراه با موسیقی و حضور تیم THE APEX و Gang Group.",
-        "ja": "Bardiyaの比較的新しいアニメーションの一つ。音楽とともに、THE APEXチームとGang Groupが登場する。"
+        "ja": "Bardiyaの比較的新しいアニメーションの一つ。音楽とともに、THE APEXチームとGang Groupが登場する。",
+        "ru": "Одна из более поздних анимаций Бардии: музыка, команда THE APEX и персонажи Gang Group."
       },
       "supplied_relative_filename": "Edit animation for YoutUbe/Animation/untitled.blend",
       "dates": {
@@ -277,12 +283,14 @@
       "titles": {
         "en": "Gang Group animation experiment",
         "fa": "آزمایش انیمیشن Gang Group",
-        "ja": "Gang Groupアニメーションの試作"
+        "ja": "Gang Groupアニメーションの試作",
+        "ru": "Эксперимент с Gang Group"
       },
       "stories": {
         "en": "A short, unfinished animation featuring Minecraft YouTuber characters. Technical problems prevented Bardiya from continuing the project.",
         "fa": "انیمیشنی کوتاه و نیمه‌تمام با کاراکترهای یوتیوبرهای ماینکرفت که به‌دلیل مشکلات فنی ادامه پیدا نکرد.",
-        "ja": "Minecraftの動画クリエイターたちのキャラクターが登場する短い未完成アニメーション。技術的な問題により、Bardiyaは制作を継続できなかった。"
+        "ja": "Minecraftの動画クリエイターたちのキャラクターが登場する短い未完成アニメーション。技術的な問題により、Bardiyaは制作を継続できなかった。",
+        "ru": "Короткая незавершённая анимация с персонажами Minecraft-ютуберов. Технические затруднения не позволили Бардии продолжить её в тот момент."
       },
       "supplied_relative_filename": "edit video askan/untitled.blend",
       "dates": {
@@ -361,12 +369,14 @@
       "titles": {
         "en": "Fire experiment",
         "fa": "آزمایش ساخت آتش در بلندر",
-        "ja": "炎の表現の実験"
+        "ja": "炎の表現の実験",
+        "ru": "Эксперимент с огнём"
       },
       "stories": {
         "en": "An unfinished experiment creating fire in Blender.",
         "fa": "آزمایشی برای ساخت آتش در بلندر که کامل نشد و به‌صورت یک تجربهٔ نیمه‌تمام باقی ماند.",
-        "ja": "Blenderで炎を表現しようとした、未完成の実験プロジェクト。"
+        "ja": "Blenderで炎を表現しようとした、未完成の実験プロジェクト。",
+        "ru": "Незавершённый эксперимент по созданию огня в Blender."
       },
       "supplied_relative_filename": "fire/untitled.blend",
       "dates": {
@@ -451,12 +461,14 @@
       "titles": {
         "en": "Music-driven fight animation experiment",
         "fa": "ایدهٔ انیمیشن موسیقی‌محور با صحنهٔ مبارزه",
-        "ja": "音楽に着想を得た格闘アニメーションの試作"
+        "ja": "音楽に着想を得た格闘アニメーションの試作",
+        "ru": "Музыкальная сцена боя"
       },
       "stories": {
         "en": "Inspired by a favorite track, Bardiya began an animation with a fight scene. He made part of it, but difficulties animating the fight at that stage prevented him from continuing.",
         "fa": "بردیا با الهام از یکی از آهنگ‌های موردعلاقه‌اش قصد ساخت انیمیشنی با صحنهٔ مبارزه داشت. بخشی از آن ساخته شد، اما در ساخت حرکات مبارزه به مشکل خورد و پروژه ادامه پیدا نکرد.",
-        "ja": "お気に入りの曲に着想を得て、Bardiyaは格闘シーンのあるアニメーションを制作し始めた。一部は完成したが、当時は格闘の動きを付けるのが難しく、制作を継続できなかった。"
+        "ja": "お気に入りの曲に着想を得て、Bardiyaは格闘シーンのあるアニメーションを制作し始めた。一部は完成したが、当時は格闘の動きを付けるのが難しく、制作を継続できなかった。",
+        "ru": "Любимая композиция вдохновила Бардию на анимацию с дракой. Часть сцены была сделана, но сложности с анимацией боя на том этапе остановили работу."
       },
       "supplied_relative_filename": "gang/untitled.blend",
       "dates": {
@@ -537,12 +549,14 @@
       "titles": {
         "en": "GoldBrain opening experiment",
         "fa": "آزمایش انیمیشن آغاز برنامهٔ GoldBrain",
-        "ja": "GoldBrainのオープニングの試作"
+        "ja": "GoldBrainのオープニングの試作",
+        "ru": "Ранняя заставка GoldBrain"
       },
       "stories": {
         "en": "An early Blender opening for the GoldBrain application. Bardiya was not satisfied with the result and later made a better opening with Flutter.",
         "fa": "تلاشی برای ساخت انیمیشن آغاز برنامهٔ GoldBrain در بلندر؛ نتیجه مطابق انتظار بردیا نبود و بعداً نسخهٔ بهتری با Flutter ساخت.",
-        "ja": "GoldBrainアプリ向けにBlenderで試作した初期のオープニング。Bardiyaは仕上がりに満足できず、後にFlutterでより良いオープニングを制作した。"
+        "ja": "GoldBrainアプリ向けにBlenderで試作した初期のオープニング。Bardiyaは仕上がりに満足できず、後にFlutterでより良いオープニングを制作した。",
+        "ru": "Первая проба заставки GoldBrain в Blender. Бардия остался недоволен результатом и позже сделал более удачную заставку средствами Flutter."
       },
       "supplied_relative_filename": "GoldBrain agazin/untitled1.blend",
       "dates": {
@@ -625,12 +639,14 @@
       "titles": {
         "en": "Reusable gun asset",
         "fa": "مدل تفنگ برای استفادهٔ مجدد در انیمیشن‌ها",
-        "ja": "アニメーション用の銃の再利用素材"
+        "ja": "アニメーション用の銃の再利用素材",
+        "ru": "Повторно используемая модель оружия"
       },
       "stories": {
         "en": "A gun-model file kept for repeated use in animations, avoiding the need to download it again each time.",
         "fa": "فایل مدلی از تفنگ که برای استفادهٔ مجدد در انیمیشن‌ها نگه داشته شده تا هر بار به دانلود دوباره نیاز نباشد.",
-        "ja": "アニメーションで繰り返し使用するために保存してある銃のモデル。使うたびに再ダウンロードする必要をなくすための素材ファイル。"
+        "ja": "アニメーションで繰り返し使用するために保存してある銃のモデル。使うたびに再ダウンロードする必要をなくすための素材ファイル。",
+        "ru": "Файл модели оружия хранился для повторного использования в анимациях, чтобы не скачивать его заново. Это не подтверждение авторства самой сторонней модели; доступно только превью и сведения об источнике."
       },
       "supplied_relative_filename": "Gun/untitled.blend",
       "dates": {
@@ -653,12 +669,14 @@
       "titles": {
         "en": "Head Bop animation project",
         "fa": "فایل پروژهٔ انیمیشن Head Bop",
-        "ja": "Head Bopアニメーションのプロジェクト"
+        "ja": "Head Bopアニメーションのプロジェクト",
+        "ru": "Head Bop"
       },
       "stories": {
         "en": "The Blender project for Bardiya’s Head Bop animation.",
         "fa": "بردیا این فایل را پروژهٔ بلندر مربوط به انیمیشن Head Bop معرفی می‌کند.",
-        "ja": "BardiyaのHead Bopアニメーションに使ったBlenderプロジェクト。"
+        "ja": "BardiyaのHead Bopアニメーションに使ったBlenderプロジェクト。",
+        "ru": "Blender-проект анимации Бардии Head Bop."
       },
       "supplied_relative_filename": "Head Bop/Animation/untitled.blend",
       "dates": {
@@ -737,12 +755,14 @@
       "titles": {
         "en": "Crystal-ball asset used in THE APEX scene",
         "fa": "مدل گوی برای صحنهٔ ورود THE APEX",
-        "ja": "THE APEXのシーンに使用した球体素材"
+        "ja": "THE APEXのシーンに使用した球体素材",
+        "ru": "Хрустальная сфера для THE APEX"
       },
       "stories": {
         "en": "The orb asset used in the THE APEX server-entry image in project B11.",
         "fa": "گوی یا آبجکتی که برای استفاده در تصویر ورود سرور در پروژهٔ B11 به کار رفته است.",
-        "ja": "B11のTHE APEXサーバー入場用画像に使われた球体の素材。"
+        "ja": "B11のTHE APEXサーバー入場用画像に使われた球体の素材。",
+        "ru": "Сторонний ресурс сферы, использованный в приветственной сцене THE APEX B11. Автор ресурса — DennisHafemann; условия источника сохраняются, файл ресурса здесь не перераздаётся."
       },
       "supplied_relative_filename": "Image For Login/assets/models/crystal-ball-wit_7b9778dc-49ff-455a-8b60-88e81b4491a5/crystal-ball-with-roots-and-vegetation_2K_f5c5d7ac-356d-4af3-94b9-7a3ccb0ba10a.blend",
       "dates": {
@@ -765,12 +785,14 @@
       "titles": {
         "en": "THE APEX welcome scene",
         "fa": "صحنهٔ خوش‌آمدگویی و ورود سرور THE APEX",
-        "ja": "THE APEXのウェルカムシーン"
+        "ja": "THE APEXのウェルカムシーン",
+        "ru": "Приветственная сцена THE APEX"
       },
       "stories": {
         "en": "A scene for the THE APEX server-entry image. Bardiya’s character holds an orb, Armiya’s blue character carries a shield, and Ali’s character holds a sword.",
         "fa": "صحنه‌ای برای تصویر ورود سرور THE APEX؛ کاراکتر بردیا گوی در دست دارد، کاراکتر آبی ارمیا سپر دارد و کاراکتر علی شمشیر در دست دارد.",
-        "ja": "THE APEXサーバー入場用画像のシーン。Bardiyaのキャラクターは球体を持ち、Armiyaの青いキャラクターは盾を、Aliのキャラクターは剣を持っている。"
+        "ja": "THE APEXサーバー入場用画像のシーン。Bardiyaのキャラクターは球体を持ち、Armiyaの青いキャラクターは盾を、Aliのキャラクターは剣を持っている。",
+        "ru": "Изображение для входа на сервер THE APEX. Персонаж Бардии держит сферу, синий персонаж Армии — щит, а персонаж Али — меч."
       },
       "supplied_relative_filename": "Image For Login/Untitled.blend",
       "dates": {
@@ -870,12 +892,14 @@
       "titles": {
         "en": "THE APEX website logo — T, X and key",
         "fa": "لوگوی سایت THE APEX با نمادهای T، X و کلید",
-        "ja": "THE APEXサイト用ロゴ — T・X・鍵"
+        "ja": "THE APEXサイト用ロゴ — T・X・鍵",
+        "ru": "Логотип THE APEX: T, X и ключ"
       },
       "stories": {
         "en": "A completed logo for the THE APEX website. T comes from THE and X comes from APEX. The key represents the game’s escape-room concept.",
         "fa": "لوگوی کامل‌شده‌ای برای سایت THE APEX. حرف T از واژهٔ THE و حرف X از واژهٔ APEX گرفته شده‌اند. کلید، نماد اتاق‌فرار بودن بازی است.",
-        "ja": "THE APEXのウェブサイト用に完成させたロゴ。TはTHE、XはAPEXから取られている。鍵はゲームの脱出ゲームというコンセプトを表している。"
+        "ja": "THE APEXのウェブサイト用に完成させたロゴ。TはTHE、XはAPEXから取られている。鍵はゲームの脱出ゲームというコンセプトを表している。",
+        "ru": "Законченный логотип для сайта THE APEX. Буква T взята из THE, X — из APEX. Ключ обозначает концепцию игры-эскейпрума."
       },
       "supplied_relative_filename": "LEGO/Lego.blend",
       "dates": {
@@ -954,12 +978,14 @@
       "titles": {
         "en": "Vexland_Manhunt trailer — work in progress",
         "fa": "تریلر در حال ساخت Vexland_Manhunt",
-        "ja": "Vexland_Manhunt予告編 — 制作中"
+        "ja": "Vexland_Manhunt予告編 — 制作中",
+        "ru": "Трейлер Vexland_Manhunt — в работе"
       },
       "stories": {
         "en": "An animated trailer for the Vexland_Manhunt plugin, originally intended to be long. Bardiya paused it after making part of the trailer and considering music-copyright concerns, but is continuing work and intends to finish it. He has authorized sharing the current work-in-progress version.",
         "fa": "تریلری انیمیشنی برای پلاگین Vexland_Manhunt که قرار بوده طولانی باشد. بردیا پس از ساخت بخشی از آن و مطرح‌شدن نگرانی دربارهٔ کپی‌رایت موسیقی، مدتی آن را کنار گذاشت، اما اکنون همچنان روی پروژه کار می‌کند و قصد تکمیل آن را دارد. انتشار نسخهٔ فعلیِ در حال ساخت را مجاز دانسته است.",
-        "ja": "Vexland_Manhuntプラグイン用のアニメーション予告編。もともとは長い作品を予定していた。一部を制作した後、音楽の著作権に関する懸念もあり一時中断したが、現在も制作を続け、完成を目指している。作者は制作途中の現行版を公開することを許可している。"
+        "ja": "Vexland_Manhuntプラグイン用のアニメーション予告編。もともとは長い作品を予定していた。一部を制作した後、音楽の著作権に関する懸念もあり一時中断したが、現在も制作を続け、完成を目指している。作者は制作途中の現行版を公開することを許可している。",
+        "ru": "Анимированный трейлер плагина Vexland_Manhunt, изначально задуманный длинным. Бардия сделал часть, приостановился в том числе из-за вопросов авторских прав на музыку, но намерен продолжать и закончить. Он разрешил публикацию текущей рабочей версии; отдельно подтвердил право распространять включённую песню."
       },
       "supplied_relative_filename": "Manhunt_Animation/Part_1.blend",
       "dates": {
@@ -1107,12 +1133,14 @@
       "titles": {
         "en": "THE APEX project file — original purpose not recalled",
         "fa": "فایل THE APEX با کاربرد اولیهٔ نامشخص",
-        "ja": "THE APEXのプロジェクトファイル — 当初の用途は不明"
+        "ja": "THE APEXのプロジェクトファイル — 当初の用途は不明",
+        "ru": "THE APEX — назначение файла не подтверждено"
       },
       "stories": {
         "en": "The creator does not recall this file’s exact original purpose. THE APEX is visible in the preview, and he suggests it may have been related to a banner, title design or an animation. Its specific purpose remains unconfirmed.",
         "fa": "سازنده کاربرد دقیق این فایل را به یاد ندارد. نوشتهٔ THE APEX در تصویر دیده می‌شود و او احتمال می‌دهد فایل به بنر، نام‌نوشته یا انیمیشنی مربوط بوده باشد. این احتمال‌ها به‌عنوان کاربرد قطعی معرفی نمی‌شوند.",
-        "ja": "作者は、このファイルを最初に何のために作ったのか正確には覚えていない。プレビューにはTHE APEXの文字があり、バナー、タイトルデザイン、アニメーションのいずれかに関係していた可能性があるという。具体的な用途は未確認。"
+        "ja": "作者は、このファイルを最初に何のために作ったのか正確には覚えていない。プレビューにはTHE APEXの文字があり、バナー、タイトルデザイン、アニメーションのいずれかに関係していた可能性があるという。具体的な用途は未確認。",
+        "ru": "Автор не помнит точную первоначальную задачу этого файла. В превью видно THE APEX; возможно, это был баннер, оформление названия или анимация. Конкретное назначение не подтверждено."
       },
       "supplied_relative_filename": "music viduo/untitled.blend",
       "dates": {
@@ -1199,12 +1227,14 @@
       "titles": {
         "en": "Surviving scene from the first Blender animation",
         "fa": "صحنهٔ باقی‌مانده از اولین انیمیشن با بلندر",
-        "ja": "初めてのBlenderアニメーションから残ったシーン"
+        "ja": "初めてのBlenderアニメーションから残ったシーン",
+        "ru": "Сцена первой анимации в Blender"
       },
       "stories": {
         "en": "This is one of the two surviving files from Bardiya’s first animation made with Blender. The project originally used four Blender files for different scenes; the other two have been lost. These retained files show how he built that early project.",
         "fa": "این فایل یکی از دو فایل باقی‌مانده از اولین انیمیشن بردیا با بلندر است. پروژه در اصل چهار فایل بلندر برای صحنه‌های مختلف داشت؛ دو فایل دیگر از بین رفته‌اند. این فایل‌ها برای دیدن روش ساخت آن تجربهٔ اولیه نگه داشته شده‌اند.",
-        "ja": "BardiyaがBlenderで初めて制作したアニメーションから残っている、2つのファイルのうちの1つ。元のプロジェクトには異なるシーン用のBlenderファイルが4つあったが、残りの2つは失われている。初期作品をどのように作ったのかを見られるよう、残ったファイルを保存している。"
+        "ja": "BardiyaがBlenderで初めて制作したアニメーションから残っている、2つのファイルのうちの1つ。元のプロジェクトには異なるシーン用のBlenderファイルが4つあったが、残りの2つは失われている。初期作品をどのように作ったのかを見られるよう、残ったファイルを保存している。",
+        "ru": "Один из двух сохранившихся файлов первой анимации Бардии именно в Blender. Изначально разные сцены хранились в четырёх Blender-файлах; два утрачены. Эти два показывают устройство раннего проекта."
       },
       "supplied_relative_filename": "opening/opening 2.blend",
       "dates": {
@@ -1289,12 +1319,14 @@
       "titles": {
         "en": "Surviving scene from the first Blender animation",
         "fa": "صحنهٔ باقی‌مانده از اولین انیمیشن با بلندر",
-        "ja": "初めてのBlenderアニメーションから残ったシーン"
+        "ja": "初めてのBlenderアニメーションから残ったシーン",
+        "ru": "Другая сцена первой анимации в Blender"
       },
       "stories": {
         "en": "This is one of the two surviving files from Bardiya’s first animation made with Blender. The project originally used four Blender files for different scenes; the other two have been lost. These retained files show how he built that early project.",
         "fa": "این فایل یکی از دو فایل باقی‌مانده از اولین انیمیشن بردیا با بلندر است. پروژه در اصل چهار فایل بلندر برای صحنه‌های مختلف داشت؛ دو فایل دیگر از بین رفته‌اند. این فایل‌ها برای دیدن روش ساخت آن تجربهٔ اولیه نگه داشته شده‌اند.",
-        "ja": "BardiyaがBlenderで初めて制作したアニメーションから残っている、2つのファイルのうちの1つ。元のプロジェクトには異なるシーン用のBlenderファイルが4つあったが、残りの2つは失われている。初期作品をどのように作ったのかを見られるよう、残ったファイルを保存している。"
+        "ja": "BardiyaがBlenderで初めて制作したアニメーションから残っている、2つのファイルのうちの1つ。元のプロジェクトには異なるシーン用のBlenderファイルが4つあったが、残りの2つは失われている。初期作品をどのように作ったのかを見られるよう、残ったファイルを保存している。",
+        "ru": "Второй из двух сохранившихся файлов первой Blender-анимации Бардии. Ещё два файла этой анимации утрачены. Речь идёт о первой работе в Blender, а не о более раннем 3D-эксперименте на телефоне."
       },
       "supplied_relative_filename": "opening/opening animation.blend",
       "dates": {
@@ -1375,12 +1407,14 @@
       "titles": {
         "en": "Commissioned animation for legal education",
         "fa": "سفارش انیمیشن آموزشی برای یک درس حقوقی",
-        "ja": "法律教育向けの依頼アニメーション"
+        "ja": "法律教育向けの依頼アニメーション",
+        "ru": "Заказная анимация для урока права"
       },
       "stories": {
         "en": "A paid animation commission illustrating a scenario for a law lesson, made for one of the professors of Bardiya’s mother, who is a lawyer. A character intends to shoot someone in front of him, but a trembling hand causes the shot to go to the right. Bardiya animated the scenario for teaching.",
         "fa": "یک سفارش پولی برای توضیح یک مثال در درس حقوق، برای یکی از استادان مادر بردیا که وکیل است. در داستان، شخصی قصد شلیک به فرد روبه‌رو را دارد اما به‌دلیل لرزش دست، شلیک به سمت راست منحرف می‌شود. بردیا این موقعیت را برای آموزش به انیمیشن تبدیل کرد.",
-        "ja": "弁護士であるBardiyaの母親の教授の一人に向けて制作した、法律の授業用の有償依頼アニメーション。登場人物が正面の相手に発砲しようとするが、手が震えて右方向にそれてしまうという事例を、授業で説明するため映像化した。"
+        "ja": "弁護士であるBardiyaの母親の教授の一人に向けて制作した、法律の授業用の有償依頼アニメーション。登場人物が正面の相手に発砲しようとするが、手が震えて右方向にそれてしまうという事例を、授業で説明するため映像化した。",
+        "ru": "Оплаченный заказ для одного из преподавателей матери Бардии, которая работает юристом. Сцена иллюстрирует учебную ситуацию: персонаж намерен выстрелить вперёд, но из-за дрожания руки выстрел уходит вправо. Анимация предназначалась для объяснения сценария на занятии."
       },
       "supplied_relative_filename": "ostad animation/1/untitled.blend",
       "dates": {
@@ -1496,12 +1530,14 @@
       "titles": {
         "en": "Blender animation and editing experiment — on hold",
         "fa": "پروژهٔ ترکیب انیمیشن بلندر و ادیت",
-        "ja": "Blenderアニメーションと編集の試作 — 保留中"
+        "ja": "Blenderアニメーションと編集の試作 — 保留中",
+        "ru": "Анимация и последующий монтаж — отложено"
       },
       "stories": {
         "en": "Bardiya planned an animation whose final result would rely heavily on editing after building the scene in Blender. At the time he did not have After Effects, and his later collaboration with Ashkan had not yet begun. He made part of the scene and kept the file so he could continue it when time allowed.",
         "fa": "بردیا ایده‌ای برای انیمیشن داشت که بخش مهمی از نتیجهٔ نهایی آن به ادیت پس از ساخت صحنه در بلندر وابسته بود. در آن زمان After Effects در اختیارش نبود و همکاری بعدی‌اش با اشکان نیز هنوز شکل نگرفته بود. بخشی از صحنه را ساخت و فایل را نگه داشت تا اگر فرصت شد ادامه بدهد.",
-        "ja": "Blenderで作ったシーンに、その後の編集を大きく組み合わせる予定だった作品。当時BardiyaはAfter Effectsを使える環境になく、後に始まるAshkanとの共同作業もまだ行っていなかった。シーンの一部を制作し、時間ができたら続けられるように保存した。"
+        "ja": "Blenderで作ったシーンに、その後の編集を大きく組み合わせる予定だった作品。当時BardiyaはAfter Effectsを使える環境になく、後に始まるAshkanとの共同作業もまだ行っていなかった。シーンの一部を制作し、時間ができたら続けられるように保存した。",
+        "ru": "Бардия задумал анимацию, значительная часть окончательного вида которой должна была появиться при монтаже после Blender. Тогда у него ещё не было After Effects и не началось сотрудничество с Ашканом. Он сохранил частично сделанную сцену для возможного продолжения."
       },
       "supplied_relative_filename": "tabligat یوت یوب فارسی/untitled.blend",
       "dates": {
@@ -1586,12 +1622,14 @@
       "titles": {
         "en": "Testing a face add-on on Minecraft characters",
         "fa": "تست افزونهٔ چشم و دهان روی کاراکترهای ماینکرفت",
-        "ja": "Minecraftキャラクターで顔のアドオンをテスト"
+        "ja": "Minecraftキャラクターで顔のアドオンをテスト",
+        "ru": "Тест аддона лица на Minecraft-персонажах"
       },
       "stories": {
         "en": "Bardiya used this file to test an add-on that added eyes and mouths to characters. He tried it on his own character and on the characters of Alireza, Ali and Amir, keeping the file as a record of those experiments.",
         "fa": "بردیا در این فایل افزونه‌ای را آزمایش می‌کرد که به کاراکترها چشم و دهان اضافه می‌کرد. تست‌ها روی کاراکتر خودش و کاراکترهای علیرضا، علی و امیر انجام شدند و فایل برای نگهداری این تجربه‌ها باقی ماند.",
-        "ja": "キャラクターに目や口を追加するアドオンを試したファイル。Bardiya自身のキャラクターと、Alireza、Ali、Amirのキャラクターでテストし、その記録として保存した。"
+        "ja": "キャラクターに目や口を追加するアドオンを試したファイル。Bardiya自身のキャラクターと、Alireza、Ali、Amirのキャラクターでテストし、その記録として保存した。",
+        "ru": "В этом файле Бардия проверял аддон, добавляющий глаза и рот. Он испытывал его на своём персонаже и персонажах Алирезы, Али и Амира, сохранив результаты экспериментов."
       },
       "supplied_relative_filename": "TEST Minecraft/Untitled.blend",
       "dates": {
@@ -1672,12 +1710,14 @@
       "titles": {
         "en": "THE APEX opening, part one — early version for revision",
         "fa": "بخش اول افتتاحیهٔ THE APEX؛ نسخهٔ اولیه برای اصلاح",
-        "ja": "THE APEXオープニング第1部 — 改訂予定の初期版"
+        "ja": "THE APEXオープニング第1部 — 改訂予定の初期版",
+        "ru": "Заставка THE APEX, часть 1 — ранняя версия"
       },
       "stories": {
         "en": "The first of three planned sections of the opening animation for THE APEX, Bardiya’s Minecraft story and escape-room project. The opening was intended to play through a plugin when a player began the game. An early version of this section was rendered, and Bardiya plans to revise the walking animation and early voice work. He recalls approximately 11,000 frames and about 80 days rendering on his laptop. The experience became an important part of learning about rendering and transferring projects to other systems.",
         "fa": "بخش اول از سه بخشِ انیمیشن آغازین THE APEX، پروژهٔ داستانی و اتاق‌فرار ماینکرفت با ایده و داستان بردیا. قرار بوده افتتاحیه هنگام شروع بازی از طریق پلاگین پخش شود. نسخهٔ اولیهٔ این بخش رندر شده، اما بردیا قصد دارد حرکت راه‌رفتن و صداگذاری اولیه را اصلاح کند. به روایت او، پروژه حدود ۱۱ هزار فریم داشت و رندر روی لپ‌تاپش حدود ۸۰ روز طول کشید. این تجربه بخش مهمی از یادگیری او دربارهٔ رندر و انتقال پروژه برای کار با سیستم‌های دیگر شد.",
-        "ja": "Bardiyaが物語と構想を考えたMinecraftのストーリー・脱出ゲーム企画、THE APEXのオープニング全3部構成のうち第1部。プレイヤーがゲームを始めるとプラグイン経由で再生する予定だった。この部分の初期版はレンダリング済みだが、歩行動作と初期の音声を改訂する予定。作者の記憶では約11,000フレームあり、ノートPCでのレンダリングには約80日かかった。この経験は、レンダリングや他のシステムへプロジェクトを移す方法を学ぶ重要な機会となった。"
+        "ja": "Bardiyaが物語と構想を考えたMinecraftのストーリー・脱出ゲーム企画、THE APEXのオープニング全3部構成のうち第1部。プレイヤーがゲームを始めるとプラグイン経由で再生する予定だった。この部分の初期版はレンダリング済みだが、歩行動作と初期の音声を改訂する予定。作者の記憶では約11,000フレームあり、ノートPCでのレンダリングには約80日かかった。この経験は、レンダリングや他のシステムへプロジェクトを移す方法を学ぶ重要な機会となった。",
+        "ru": "Первая из трёх задуманных частей заставки сюжетного Minecraft-эскейпрума THE APEX. Её планировали показывать плагином при начале игры. Ранняя версия отрендерена; Бардия хочет доработать походку и раннюю озвучку. По его памяти, было около 11 000 кадров и примерно 80 дней рендера на ноутбуке. Это стало важным уроком рендера и переноса проектов на другие системы."
       },
       "supplied_relative_filename": "THE ALPEX/untitled.blend",
       "dates": {
@@ -1814,12 +1854,14 @@
       "titles": {
         "en": "THE APEX opening, part two — unfinished",
         "fa": "بخش دومِ نیمه‌تمام افتتاحیهٔ THE APEX",
-        "ja": "THE APEXオープニング第2部 — 未完成"
+        "ja": "THE APEXオープニング第2部 — 未完成",
+        "ru": "Заставка THE APEX, часть 2 — не завершена"
       },
       "stories": {
         "en": "The continuation of B20 and the second section of the three-part THE APEX opening. This section is unfinished, and Bardiya has not resumed work on it since it was paused.",
         "fa": "ادامهٔ B20 و بخش دوم از افتتاحیهٔ سه‌بخشی THE APEX. این بخش نیمه‌تمام مانده و بردیا پس از متوقف‌شدن کار، دیگر آن را ادامه نداده است.",
-        "ja": "B20の続きにあたる、全3部構成のTHE APEXオープニング第2部。この部分は未完成で、中断してから制作を再開していない。"
+        "ja": "B20の続きにあたる、全3部構成のTHE APEXオープニング第2部。この部分は未完成で、中断してから制作を再開していない。",
+        "ru": "Продолжение B20 и вторая часть трёхчастной заставки THE APEX. Сцена не закончена; после приостановки Бардия к ней ещё не возвращался."
       },
       "supplied_relative_filename": "THE APEX 2/untitled.blend",
       "dates": {
@@ -1908,12 +1950,14 @@
       "titles": {
         "en": "Related saved version of THE APEX opening part one — identification tentative",
         "fa": "نسخهٔ احتمالاً مرتبط با بخش اول افتتاحیهٔ THE APEX",
-        "ja": "THE APEXオープニング第1部の関連保存版 — 同定は暫定"
+        "ja": "THE APEXオープニング第1部の関連保存版 — 同定は暫定",
+        "ru": "Сохранённая версия части 1 — предположительно"
       },
       "stories": {
         "en": "Bardiya believes this may be another saved version of the same first THE APEX opening section as B20, rather than a separate project. File inspection found the same frame range but different object and resource counts; B22 does not contain B20’s saved audio data. Both versions are retained for comparison and preservation.",
         "fa": "بردیا احتمال می‌دهد این فایل نسخه‌ای دیگر از همان بخش اول افتتاحیهٔ THE APEX در B20 باشد و آن را پروژه‌ای مستقل معرفی نمی‌کند. در بررسی فایل‌ها، بازهٔ فریم هر دو یکسان است اما تعداد اجزا و منابعشان فرق دارد؛ B22 صداهای ذخیره‌شدهٔ B20 را ندارد. هر دو نسخه برای بررسی و نگهداری باقی می‌مانند.",
-        "ja": "Bardiyaは、これを独立した作品ではなく、B20と同じTHE APEXオープニング第1部の別の保存版かもしれないと考えている。ファイルの確認ではフレーム範囲は同じだが、オブジェクトや素材の数が異なり、B22にはB20の保存音声データが含まれていなかった。比較と保存のため、両方を残している。"
+        "ja": "Bardiyaは、これを独立した作品ではなく、B20と同じTHE APEXオープニング第1部の別の保存版かもしれないと考えている。ファイルの確認ではフレーム範囲は同じだが、オブジェクトや素材の数が異なり、B22にはB20の保存音声データが含まれていなかった。比較と保存のため、両方を残している。",
+        "ru": "Бардия считает этот файл ещё одной сохранённой версией первой части заставки THE APEX, связанной с B20, а не отдельным проектом. Проверка обнаружила тот же диапазон кадров, но другое количество объектов и ресурсов; сохранённого аудио B20 в B22 нет. Обе версии оставлены для сравнения."
       },
       "supplied_relative_filename": "THE APEX ORGINAL 1/Untitled.blend",
       "dates": {
@@ -2006,12 +2050,14 @@
       "titles": {
         "en": "THE APEX character introduction and trailer — second Blender animation",
         "fa": "معرفی کاراکترها و تریلر THE APEX؛ دومین انیمیشن بلندر",
-        "ja": "THE APEXのキャラクター紹介と予告編 — 2作目のBlenderアニメーション"
+        "ja": "THE APEXのキャラクター紹介と予告編 — 2作目のBlenderアニメーション",
+        "ru": "Трейлер и персонажи THE APEX"
       },
       "stories": {
         "en": "Bardiya identifies this THE APEX character-introduction and trailer project as the second animation he made with Blender.",
         "fa": "بردیا این پروژهٔ معرفی کاراکترهای THE APEX و تریلر آن را دومین انیمیشنی معرفی می‌کند که با بلندر ساخته است.",
-        "ja": "THE APEXのキャラクター紹介と予告編のプロジェクト。Bardiyaによると、Blenderで制作した2作目のアニメーション。"
+        "ja": "THE APEXのキャラクター紹介と予告編のプロジェクト。Bardiyaによると、Blenderで制作した2作目のアニメーション。",
+        "ru": "По словам Бардии, это его вторая анимация, сделанная в Blender: представление персонажей THE APEX и трейлер."
       },
       "supplied_relative_filename": "trayler/music vidiyo THE APEX.blend",
       "dates": {
@@ -2117,12 +2163,14 @@
       "titles": {
         "en": "Rigging test for Ashkan’s Roblox character in Blender",
         "fa": "تست ریگ کاراکتر روبلاکسی اشکان در بلندر",
-        "ja": "BlenderでAshkanのRobloxキャラクターをリギングするテスト"
+        "ja": "BlenderでAshkanのRobloxキャラクターをリギングするテスト",
+        "ru": "Риг Roblox-персонажа Ашкана"
       },
       "stories": {
         "en": "A Blender experiment preparing and rigging Ashkan’s Roblox character for work on Roblox animation.",
         "fa": "آزمایشی برای آماده‌کردن و ریگ‌بندی کاراکتر روبلاکسی اشکان در بلندر، با هدف کار روی انیمیشن روبلاکسی.",
-        "ja": "Robloxアニメーションを制作するため、BlenderでAshkanのRobloxキャラクターを準備し、リギングを試したファイル。"
+        "ja": "Robloxアニメーションを制作するため、BlenderでAshkanのRobloxキャラクターを準備し、リギングを試したファイル。",
+        "ru": "Эксперимент в Blender по подготовке и риггингу Roblox-персонажа Ашкана для будущей анимации."
       },
       "supplied_relative_filename": "wave test.blend",
       "dates": {
@@ -2201,12 +2249,14 @@
       "titles": {
         "en": "Poster for the Minecraft dance and confrontation animation",
         "fa": "پوستر انیمیشن رقص و رویاروییِ ماینکرفتی",
-        "ja": "Minecraftのダンスと対決アニメーションのポスター"
+        "ja": "Minecraftのダンスと対決アニメーションのポスター",
+        "ru": "Постер к танцу и столкновению персонажей"
       },
       "stories": {
         "en": "The Blender poster scene for B26: Bardiya dances, Armiya and Ali appear, and a stylized confrontation follows without blood. Bardiya says the film and finished poster were already published on GitHub, but the poster’s separate effects-editing file no longer survives. This scene does not contain every part of that final edit.",
         "fa": "پوستر مربوط به انیمیشن B26 است: بردیا می‌رقصد، سپس ارمیا و علی ظاهر می‌شوند و یک رویارویی کارتونی بدون خون‌ریزی شکل می‌گیرد. به گفتهٔ بردیا، فیلم و پوستر نهایی قبلاً در گیت‌هاب منتشر شده‌اند، اما فایل ویرایش جلوه‌های ویژهٔ پوستر باقی نمانده است. این فایل، صحنهٔ بلندرِ پوستر است و شامل تمام ادیت نهایی نیست.",
-        "ja": "B26のポスター用Blenderシーン。BardiyaのダンスにArmiyaとAliが加わり、流血のないコミカルな対決が続く。本人によると、映像と完成ポスターはすでにGitHubで公開済みだが、ポスターのエフェクト編集ファイルは残っていない。このシーンに最終編集のすべてが含まれているわけではない。"
+        "ja": "B26のポスター用Blenderシーン。BardiyaのダンスにArmiyaとAliが加わり、流血のないコミカルな対決が続く。本人によると、映像と完成ポスターはすでにGitHubで公開済みだが、ポスターのエフェクト編集ファイルは残っていない。このシーンに最終編集のすべてが含まれているわけではない。",
+        "ru": "Сцена постера для B26: Бардия танцует, появляются Армия и Али, затем следует стилизованное столкновение без крови. По словам автора, итоговые видео и постер уже опубликованы, но отдельный файл монтажа эффектов постера утрачен. В этой сцене нет всех частей финальной обработки."
       },
       "supplied_relative_filename": "youtube pershian/image/untitled.blend",
       "dates": {
@@ -2290,12 +2340,14 @@
       "titles": {
         "en": "Minecraft dance and confrontation animation",
         "fa": "انیمیشن رقص و رویاروییِ ماینکرفتی",
-        "ja": "Minecraftのダンスと対決アニメーション"
+        "ja": "Minecraftのダンスと対決アニメーション",
+        "ru": "Minecraft: танец и столкновение"
       },
       "stories": {
         "en": "The animation source paired with poster scene B25. Bardiya dances, Armiya and Ali appear, and the characters take part in a stylized confrontation without blood. The creator says its exported film and poster were already published. Motions were copied from reusable collection B27 and character skins changed; this does not mean every motion was authored from scratch by Bardiya.",
         "fa": "فایل خودِ انیمیشنی است که پوسترش در B25 ساخته شد. بردیا می‌رقصد، ارمیا و علی ظاهر می‌شوند و کاراکترها در یک رویارویی کارتونی بدون خون‌ریزی دیده می‌شوند. بردیا می‌گوید خروجی فیلم و پوسترش قبلاً منتشر شده‌اند. برای ساخت این اثر، حرکت‌ها از مجموعهٔ آمادهٔ B27 به این صحنه منتقل و اسکین‌ها تغییر داده می‌شدند؛ همهٔ حرکت‌ها ساختهٔ بردیا از صفر نیستند.",
-        "ja": "ポスター用シーンB25に対応するアニメーションの制作ファイル。BardiyaのダンスにArmiyaとAliが登場し、流血のないコミカルな対決が描かれる。本人によると、書き出した映像とポスターはすでに公開済み。B27の再利用用モーションをこのシーンへコピーし、スキンを変えて使用しており、すべての動きをBardiyaがゼロから制作したという意味ではない。"
+        "ja": "ポスター用シーンB25に対応するアニメーションの制作ファイル。BardiyaのダンスにArmiyaとAliが登場し、流血のないコミカルな対決が描かれる。本人によると、書き出した映像とポスターはすでに公開済み。B27の再利用用モーションをこのシーンへコピーし、スキンを変えて使用しており、すべての動きをBardiyaがゼロから制作したという意味ではない。",
+        "ru": "Исходник анимации, связанный с постером B25. Бардия танцует, появляются Армия и Али; затем следует стилизованное столкновение без крови. Итоговый ролик и постер уже публиковались. Движения переносились из смешанной библиотеки B27 со сменой скинов; не каждое движение создано Бардией с нуля."
       },
       "supplied_relative_filename": "youtube pershian/untitled.blend",
       "dates": {
@@ -2414,12 +2466,14 @@
       "titles": {
         "en": "Reusable motion library with mixed sources",
         "fa": "کتابخانهٔ حرکت‌های آماده و قابل استفادهٔ دوباره",
-        "ja": "複数の出典を含む再利用用モーションライブラリ"
+        "ja": "複数の出典を含む再利用用モーションライブラリ",
+        "ru": "Библиотека движений разных авторов"
       },
       "stories": {
         "en": "A working library kept to avoid rebuilding or downloading motions again, particularly for B26. Some motions were made by Bardiya, some reconstructed using videos as references, and some downloaded from Mixamo. He copied needed sections into the film scene and changed character skins. This is a mixed-source collection, not a wholly original motion pack; raw Mixamo data retains its own distribution terms.",
         "fa": "مجموعه‌ای کاری برای جلوگیری از ساخت یا دانلود دوبارهٔ حرکت‌ها، به‌ویژه برای استفاده در B26. بعضی حرکت‌ها را بردیا ساخته، بعضی با الگو گرفتن از ویدئوها ساخته شده‌اند و بعضی از Mixamo دانلود شده‌اند. او بخش‌های لازم را به پروژهٔ اصلی کپی و اسکین کاراکتر را عوض می‌کرد. این مجموعه اثر کاملاً تألیفیِ یک نفر معرفی نمی‌شود؛ فایل‌های خام Mixamo تابع شرایط همان سرویس‌اند.",
-        "ja": "特にB26で使うため、モーションの再制作や再ダウンロードを省く目的で保存した作業用ライブラリ。Bardiya自身の制作、動画を参考に再現した動き、Mixamoからのダウンロードが混在する。必要な部分を本編シーンにコピーし、キャラクターのスキンを変更していた。全体を本人の完全オリジナル素材集とはせず、Mixamoの生データには同サービスの配布条件が適用される。"
+        "ja": "特にB26で使うため、モーションの再制作や再ダウンロードを省く目的で保存した作業用ライブラリ。Bardiya自身の制作、動画を参考に再現した動き、Mixamoからのダウンロードが混在する。必要な部分を本編シーンにコピーし、キャラクターのスキンを変更していた。全体を本人の完全オリジナル素材集とはせず、Mixamoの生データには同サービスの配布条件が適用される。",
+        "ru": "Рабочая коллекция, чтобы не создавать и не скачивать движения повторно, особенно для B26. Часть сделал Бардия, часть восстановлена по видео, часть получена из Mixamo. Нужные фрагменты переносились в сцену со сменой скинов. Это смешанная библиотека, а не полностью авторский пак; сырые данные Mixamo не распространяются здесь."
       },
       "supplied_relative_filename": "انیمیشن آماده کاراکتر ها/untitled.blend",
       "dates": {
@@ -2442,12 +2496,14 @@
       "titles": {
         "en": "Bottle-breaking test for the Ashkan-related animation",
         "fa": "تست شکستن بطری برای انیمیشن مرتبط با اشکان",
-        "ja": "Ashkan関連アニメーション用の瓶の破壊テスト"
+        "ja": "Ashkan関連アニメーション用の瓶の破壊テスト",
+        "ru": "Разбивание бутылки — тест"
       },
       "stories": {
         "en": "A separate bottle-fracture experiment for an Ashkan-related animation. Bardiya achieved a falling and breaking bottle, but at the time could not resolve the fracture starting on the first frame. It is preserved as an experiment with an unresolved timing issue, rather than a fully finished simulation. Its exact relationship to other Ashkan-related source files has not been established.",
         "fa": "آزمایشی جداگانه برای شکستن بطری در انیمیشنِ مرتبط با اشکان. افتادن و شکستن بطری انجام شد، اما بردیا آن زمان نتوانست مشکل شکستن در همان فریم اول را برطرف کند. بنابراین این فایل یک آزمایش با مشکل زمان‌بندیِ حل‌نشده است، نه شبیه‌سازی نهاییِ بی‌نقص. ارتباط دقیق آن با سایر فایل‌های اشکان هنوز مشخص نشده است.",
-        "ja": "Ashkan関連のアニメーションで瓶を割るための独立した実験。瓶を落として割ることはできたが、最初のフレームで割れてしまうタイミングの問題は当時解決できなかった。完成したシミュレーションではなく、課題が残った実験として保存している。他のAshkan関連ファイルとの正確な対応は未確定。"
+        "ja": "Ashkan関連のアニメーションで瓶を割るための独立した実験。瓶を落として割ることはできたが、最初のフレームで割れてしまうタイミングの問題は当時解決できなかった。完成したシミュレーションではなく、課題が残った実験として保存している。他のAshkan関連ファイルとの正確な対応は未確定。",
+        "ru": "Отдельный тест разрушения бутылки для анимации, связанной с Ашканом. Бардии удалось сделать падение и разбивание, но в тот момент он не смог исправить начало разрушения уже на первом кадре. Это эксперимент с нерешённым таймингом, а не законченная симуляция. Точная связь с другими файлами про Ашкана не установлена."
       },
       "supplied_relative_filename": "شکستن بطری/untitled.blend",
       "dates": {

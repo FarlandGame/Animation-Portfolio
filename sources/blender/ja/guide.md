@@ -1,6 +1,6 @@
 # 開き方・制作の続け方・クレジット
 
-[English](https://github.com/FarlandGame/Animation-Portfolio/blob/main/sources/blender/en/guide.md) · [فارسی](https://github.com/FarlandGame/Animation-Portfolio/blob/main/sources/blender/fa/guide.md) · [日本語](https://github.com/FarlandGame/Animation-Portfolio/blob/main/sources/blender/ja/guide.md)
+[English](https://github.com/FarlandGame/Animation-Portfolio/blob/main/sources/blender/en/guide.md) · [فارسی](https://github.com/FarlandGame/Animation-Portfolio/blob/main/sources/blender/fa/guide.md) · [日本語](https://github.com/FarlandGame/Animation-Portfolio/blob/main/sources/blender/ja/guide.md) · [Русский](https://github.com/FarlandGame/Animation-Portfolio/blob/main/sources/blender/ru/guide.md)
 
 公開用に別途準備したコピーです。制作者の元ファイルは変更していません。利用可能な画像テクスチャをパックし、未完成部分、欠落素材、除外した第三者モーションを明記しています。
 

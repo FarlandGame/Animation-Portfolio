@@ -1,5 +1,5 @@
 # پشت‌صحنهٔ فایل‌های بلندر 🎬
-[English](https://github.com/FarlandGame/Animation-Portfolio/blob/main/sources/blender/en/index.md) · [فارسی](https://github.com/FarlandGame/Animation-Portfolio/blob/main/sources/blender/fa/index.md) · [日本語](https://github.com/FarlandGame/Animation-Portfolio/blob/main/sources/blender/ja/index.md)
+[English](https://github.com/FarlandGame/Animation-Portfolio/blob/main/sources/blender/en/index.md) · [فارسی](https://github.com/FarlandGame/Animation-Portfolio/blob/main/sources/blender/fa/index.md) · [日本語](https://github.com/FarlandGame/Animation-Portfolio/blob/main/sources/blender/ja/index.md) · [Русский](https://github.com/FarlandGame/Animation-Portfolio/blob/main/sources/blender/ru/index.md)
 
 آرشیو تجربه‌های قدیمی‌تر، صحنه‌های نیمه‌تمام و ایده‌های در حال رشدِ **بردیا علیزاده، ملقب به کبیر / Farland_game**. اکنون پروژه‌های جدیدترم را در اولویت گذاشته‌ام، اما شاید بعضی از این کارها را تکمیل کنم. شما هم می‌توانید با حفظ نام من، بخش‌های تألیفی را برای استفادهٔ غیرتجاری یاد بگیرید، تغییر بدهید و ادامه دهید.
 

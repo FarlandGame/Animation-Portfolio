@@ -1,7 +1,7 @@
 # Архив первых работ на телефоне 📱🎬
 
 <!-- PHONE_ARCHIVE_STICKER_START -->
-<img src="../../../assets/phone-era-sticker.svg" width="110" alt="Early frames learning log"> · [Farland_game · Portfolio ↗](https://github.com/FarlandGame)
+<img src="../../../assets/ru/phone-era-sticker.svg" width="110" alt="Early frames learning log"> · [Farland_game · Portfolio ↗](https://github.com/FarlandGame)
 <!-- PHONE_ARCHIVE_STICKER_END -->
 
 ![2D Animation · Stick Nodes · edited portfolio cover](https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/section-covers/2d-sticknodes-cover.png)

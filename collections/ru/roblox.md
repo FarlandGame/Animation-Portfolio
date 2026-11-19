@@ -11,7 +11,7 @@
 <!-- ROBLOX_FEATURE_START -->
 ## Витрина Roblox Studio 🎮✨
 
-![Roblox Studio Showcase](../../assets/roblox-showcase.svg)
+![Roblox Studio Showcase](../../assets/ru/roblox-showcase.svg)
 
 Одиннадцать вертикальных клипов Roblox от Farland_game: персонажи, миры, свет и мемы. Работа в Roblox Studio объединяет собственные создания со сценами из игр Roblox.
 
@@ -19,7 +19,7 @@
 
 Смотрите отрывки; ссылки ведут к полным оригиналам.
 
-<img src="../../assets/roblox-director-sticker.svg" width="125" alt="Director mode"> <img src="../../assets/roblox-mango-sticker.svg" width="125" alt="Mango side quest">
+<img src="../../assets/ru/roblox-director-sticker.svg" width="125" alt="Director mode"> <img src="../../assets/ru/roblox-mango-sticker.svg" width="125" alt="Mango side quest">
 
 <!-- ROBLOX_FEATURE_END -->
 
